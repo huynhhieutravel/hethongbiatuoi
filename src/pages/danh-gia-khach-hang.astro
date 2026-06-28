@@ -1,0 +1,124 @@
+---
+import NativeLayout from '../layouts/NativeLayout.astro';
+
+const testimonials = [
+    { name: 'Đan Nam', date: '2 Days Ago', content: 'Hệ thống bia tươi, bia tháp mang đến cho chúng tôi những sản phẩm tuyệt vời. Khách hàng yêu quý vị bia tuyệt vời, mức giá lại vừa tầm.' },
+    { name: 'Kim Ngân', date: '8 Days Ago', content: 'Bia rất dễ uống rất thích hợp với khẩu vị của tôi.' },
+    { name: 'Đức Tính', date: '10 Days Ago', content: 'Bia tháp bây giờ vừa ngon vừa rẻ, một sự lựa chọn tuyệt hảo cho người uống bia bình dân.' },
+    { name: 'Trần Nhi', date: '12 Days Ago', content: 'Cho tôi 1 thùng bia hơi, 1 dĩa mồi ngon. Tôi có thể ngồi đến sáng với bạn.' },
+    { name: 'Trần Duy', date: '15 Days Ago', content: 'Cuối tuần nhâm nhi với bạn bè là quên hết mọi buồn phiền trên đời. Tôi đặc biệt yêu thích vị bia tháp tuyệt hảo.' },
+    { name: 'Phan Minh Tâm', date: '26 Days Ago', content: 'Uống chai bia tháp xong, phải lên đánh giá 5 sao ngay cho chất lượng tuyệt vời.' }
+];
+---
+
+<NativeLayout title="Đánh Giá Khách Hàng - Hệ Thống Bia Tháp Vina Sài Gòn">
+    <!-- HERO SECTION (Original Bright Yellow Design) -->
+    <div class="bg-[#fef08a] pt-24 pb-32">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            
+            <!-- Top Title -->
+            <div class="text-center mb-16">
+                <p class="text-sm font-bold text-zinc-900 uppercase tracking-widest mb-6">
+                    Hàng triệu lít bia đã được mang đến khắp Việt Nam
+                </p>
+                <h1 class="text-5xl md:text-7xl lg:text-[5.5rem] font-medium text-zinc-900 tracking-tight mb-8">
+                    Đánh giá Khách Hàng
+                </h1>
+            </div>
+
+            <!-- 3 Columns Stats -->
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-16 md:gap-12 mt-32 text-center md:text-left">
+                
+                <!-- Col 1 -->
+                <div>
+                    <div class="text-[5.5rem] leading-none font-serif text-zinc-900 mb-4 tracking-tighter">4.9</div>
+                    <div class="flex space-x-2 mb-6 justify-center md:justify-start">
+                        {[...Array(5)].map(() => (
+                            <i class="fas fa-star text-[#b5a34f] text-sm"></i>
+                        ))}
+                    </div>
+                    <h4 class="text-xs font-bold text-[#86772e] uppercase tracking-widest mb-2">7,395 Đánh Giá</h4>
+                    <p class="text-xs text-white font-bold uppercase tracking-widest">Người uống bia</p>
+                </div>
+
+                <!-- Col 2 -->
+                <div>
+                    <div class="text-[5.5rem] leading-none font-serif text-zinc-900 mb-4 tracking-tighter">A+</div>
+                    <div class="flex space-x-2 mb-6 justify-center md:justify-start">
+                        {[...Array(5)].map(() => (
+                            <i class="fas fa-star text-[#b5a34f] text-sm"></i>
+                        ))}
+                    </div>
+                    <h4 class="text-xs font-bold text-[#86772e] uppercase tracking-widest mb-2">693 Đánh Giá Khách Hàng</h4>
+                    <p class="text-xs text-white font-bold uppercase tracking-widest">Chủ cửa hàng</p>
+                </div>
+
+                <!-- Col 3 -->
+                <div>
+                    <h3 class="text-xl lg:text-2xl font-medium text-zinc-900 leading-snug mb-8">
+                        Cảm ơn sự tin tưởng hàng ngàn đại lý, khách hàng mà chúng tôi đang phục vụ.
+                    </h3>
+                    <div class="flex items-start text-left">
+                        <img src="/proxy-cors/wp-content/uploads/elementor/thumbs/khach-hang-bia-p29p1hv1cij58yz03zpl010npgixmati65lxbjg76k.jpg" alt="Khách hàng" class="w-16 h-16 rounded-full object-cover mr-5 flex-shrink-0 shadow-md" />
+                        <p class="text-sm lg:text-base text-zinc-600 font-light leading-relaxed">
+                            "Hệ thống bia tươi, bia tháp mang đến cho chúng tôi những sản phẩm tuyệt vời. Khách hàng yêu quý vị bia tuyệt vời, mức giá lại vừa tầm."
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- MAIN REVIEWS SECTION -->
+    <div class="bg-white py-32">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            
+            <div class="text-center mb-20">
+                <h2 class="text-3xl md:text-5xl font-bold text-zinc-900 tracking-tight">Những Trải Nghiệm Thực Tế</h2>
+            </div>
+
+            <!-- Testimonials Grid (Masonry-style layout) -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-32">
+                {testimonials.map((t, i) => (
+                    <div class="bg-zinc-50 border border-zinc-200 rounded-3xl p-10 flex flex-col justify-between hover:shadow-xl hover:-translate-y-1 transition-all duration-300 group">
+                        <div>
+                            <!-- 5 Stars -->
+                            <div class="flex space-x-1 mb-8">
+                                {[...Array(5)].map(() => (
+                                    <i class="fas fa-star text-amber-400 text-sm"></i>
+                                ))}
+                            </div>
+                            <!-- Content -->
+                            <p class="text-xl text-zinc-800 font-light leading-relaxed mb-8">
+                                "{t.content}"
+                            </p>
+                        </div>
+                        
+                        <!-- Author Meta -->
+                        <div class="flex items-center pt-8 border-t border-zinc-200">
+                            <div class="flex-shrink-0 w-12 h-12 bg-zinc-200 rounded-full flex items-center justify-center text-zinc-600 font-bold text-lg mr-4 group-hover:bg-zinc-900 group-hover:text-white transition-colors duration-300">
+                                {t.name.charAt(0)}
+                            </div>
+                            <div>
+                                <h4 class="text-sm font-bold text-zinc-900 uppercase tracking-widest leading-none mb-1">{t.name}</h4>
+                                <span class="text-xs text-zinc-500 font-medium uppercase tracking-widest">{t.date}</span>
+                            </div>
+                        </div>
+                    </div>
+                ))}
+            </div>
+
+            <!-- Slogan & CTA Button -->
+            <div class="text-center max-w-4xl mx-auto bg-zinc-50 rounded-[3rem] p-12 border border-zinc-200 shadow-sm">
+                <h2 class="text-3xl md:text-4xl font-bold text-zinc-900 mb-8 leading-tight tracking-tight">
+                    Bia tháp - bia hơi, hương vị của cuộc sống.
+                </h2>
+                <a href="/" class="inline-flex items-center justify-center px-10 py-4 bg-red-600 hover:bg-red-700 text-white font-bold rounded-full transition-all duration-300 shadow-lg shadow-red-600/30 uppercase tracking-widest text-sm hover:-translate-y-1">
+                    Xem Sản Phẩm <i class="fas fa-arrow-right ml-3"></i>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</NativeLayout>

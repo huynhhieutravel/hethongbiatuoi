@@ -1,17 +1,31 @@
 ---
+import Layout from '../layouts/Layout.astro';
+import { env } from 'cloudflare:workers';
 
+export const prerender = false;
+
+let content = "<h1>Không tìm thấy nội dung trang chủ</h1>";
+
+try {
+    const db = (env as any)?.DB || (env as any)?.hethongbiatuoi_db;
+    if (db) {
+        const stmt = await db.prepare("SELECT content FROM Post WHERE slug = 'bia-thap' LIMIT 1").first();
+        if (stmt && stmt.content) {
+            content = stmt.content;
+            // Ensure all Elementor images and assets are proxied, including absolute URLs
+            content = content.replace(/(src|href|srcset|url\()(["']?)(?:https?:\/\/hethongbiatuoi\.com)?\/?(wp-content)/gi, '$1$2/proxy-cors/$3');
+            // Remove Elementor entrance animations that hide text since JS is removed
+            content = content.replace(/elementor-invisible/g, '');
+        }
+    } else {
+        content = "<h1>Lỗi: Database binding không tồn tại</h1>";
+    }
+} catch (e) {
+    console.log("DB Error:", e);
+    content = "<h1>Lỗi máy chủ nội bộ</h1>";
+}
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout title="Hệ Thống Bia Tươi Sài Gòn">
+    <Fragment set:html={content} />
+</Layout>

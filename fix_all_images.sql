@@ -1,0 +1,9508 @@
+UPDATE Post SET content = '		<div data-elementor-type="wp-page" data-elementor-id="165" class="elementor elementor-165" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-16895ab3 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="16895ab3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-63f642e6" data-id="63f642e6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-eb269fe elementor-widget elementor-widget-image" data-id="eb269fe" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="800" height="228" src="/uploads/he-thong-bia-thap.jpg" class="attachment-large size-large wp-image-63" alt="Hệ thống bia tháp" srcset="/uploads/he-thong-bia-thap.jpg 1024w, /uploads/he-thong-bia-thap.jpg 300w, /uploads/he-thong-bia-thap.jpg 768w, /uploads/he-thong-bia-thap.jpg 1040w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-44f4e0d7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="44f4e0d7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-20d5e" data-id="20d5e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-43654aa elementor-widget elementor-widget-heading" data-id="43654aa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Hàng triệu lít bia đã được mang đến khắp việt nam</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4dc3e33c elementor-widget elementor-widget-heading" data-id="4dc3e33c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Đánh giá Khách Hàng</h1>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-561deb09 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="561deb09" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-43ebebd3" data-id="43ebebd3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-503ff836 elementor-widget elementor-widget-counter" data-id="503ff836" data-element_type="widget" data-widget_type="counter.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-counter">
+						<div class="elementor-counter-number-wrapper">
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="4.9" data-from-value=""></span>
+				<span class="elementor-counter-number-suffix"></span>
+			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-abcfb7e elementor-star-rating--align-center elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="abcfb7e" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-63cc6a03 elementor-widget elementor-widget-heading" data-id="63cc6a03" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">7,395 đánh giá</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4bff6ac0 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="4bff6ac0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Người uống bia</div>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5ca76dfe" data-id="5ca76dfe" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4da7c69f elementor-widget elementor-widget-heading" data-id="4da7c69f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">A+</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2ca6fb3 elementor-star-rating--align-center elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="2ca6fb3" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5d3bba59 elementor-widget elementor-widget-heading" data-id="5d3bba59" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">693 Đánh giá khách hàng</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5f5316cf elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="5f5316cf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Chủ cửa hàng</h3>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-667992df" data-id="667992df" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ca976f6" data-id="ca976f6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-542d08f2 elementor-widget elementor-widget-heading" data-id="542d08f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Cảm ơn sự tin tưởng hàng ngàn đại lý,khách hàng mà chúng tôi đang phục vụ.</h3>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7040188d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7040188d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-70fee47e" data-id="70fee47e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-56da6f60 elementor-widget elementor-widget-image" data-id="56da6f60" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://hethongbiatuoi.com/wp-content/uploads/elementor/thumbs/khach-hang-bia-p29p1hv1cij58yz03zpl010npgixmati65lxbjg76k.jpg" title="khach-hang-bia" alt="khach-hang-bia" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-478553cb" data-id="478553cb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-149ae4c elementor-widget elementor-widget-heading" data-id="149ae4c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">"Hệ thống bia tươi, bia tháp mang đến cho chúng tôi những sản phẩm tuyệt vời. Khách hàng yêu quý vị bia tuyệt vời, mức giá lại vừa tầm.</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7b4c6138 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="7b4c6138" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Quang Ân</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5cb79272 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="5cb79272" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">- Chủ đại lý bia Vĩnh LOng</div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-30ef548a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="30ef548a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5fb973b2" data-id="5fb973b2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6b64d75c elementor-widget__width-auto elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="6b64d75c" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-73c1cb08 e-grid-align-right elementor-widget__width-auto elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="73c1cb08" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow elementor-repeater-item-a30382b" href="#" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+													<i class="fa fa-facebook"></i>
+											</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5864d8da elementor-widget elementor-widget-spacer" data-id="5864d8da" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-8d590f7 elementor-widget elementor-widget-heading" data-id="8d590f7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">"Bia vừa ngon, giá lại rất bình dân. Hàng ngày tôi đều uống bia này cùng bạn bè."</div>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-1ca18b40 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1ca18b40" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-55918e54" data-id="55918e54" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1c094a92 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="1c094a92" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Đan Nam</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1bc2a546 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="1bc2a546" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">• 2 Days Ago</h3>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5452b452" data-id="5452b452" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-344f28d7 elementor-widget__width-auto elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="344f28d7" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3feb8f34 e-grid-align-right elementor-widget__width-auto elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="3feb8f34" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-yelp elementor-animation-grow elementor-repeater-item-a30382b" href="#" target="_blank">
+						<span class="elementor-screen-only">Yelp</span>
+													<i class="fa fa-yelp"></i>
+											</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1e820819 elementor-widget elementor-widget-spacer" data-id="1e820819" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4e1ebe43 elementor-widget elementor-widget-heading" data-id="4e1ebe43" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">"Bia rất dễ uống rất thích hợp với khẩu vị của tôi."</h3>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6c76c9f8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c76c9f8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-294918e2" data-id="294918e2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-34a9bdf1 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="34a9bdf1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Kim Ngân</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-23fb3de6 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="23fb3de6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">• 8 Days Ago</h3>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-fa82c2b" data-id="fa82c2b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-33a8e3f3 elementor-widget__width-auto elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="33a8e3f3" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6d895d32 e-grid-align-right elementor-widget__width-auto elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="6d895d32" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow elementor-repeater-item-a30382b" href="#" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+													<i class="fa fa-facebook"></i>
+											</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-66156128 elementor-widget elementor-widget-spacer" data-id="66156128" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-51c8da81 elementor-widget elementor-widget-heading" data-id="51c8da81" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">"Bia tháp bây giờ vừa ngon vừa rẻ, một sự lựa chọn tuyệt hảo cho người uống bia bình dân."</h3>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-133b7904 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="133b7904" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5cfe62ce" data-id="5cfe62ce" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-658a9265 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="658a9265" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Đức Tính</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-51dab476 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="51dab476" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">• 10 Days Ago</h3>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-68ed28b2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68ed28b2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5587865" data-id="5587865" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-775e68b elementor-widget__width-auto elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="775e68b" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5406a31a e-grid-align-right elementor-widget__width-auto elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5406a31a" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow elementor-repeater-item-a30382b" href="#" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+													<i class="fa fa-facebook"></i>
+											</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b43d8fe elementor-widget elementor-widget-spacer" data-id="b43d8fe" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-64f9a395 elementor-widget elementor-widget-heading" data-id="64f9a395" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">"Cho tôi 1 thùng bia hơi, 1 dĩa mồi ngon. Tôi có thể ngồi đến sáng với bạn"</h3>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4ebc59fb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4ebc59fb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1415f165" data-id="1415f165" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6c1009d5 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="6c1009d5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Trần Nhi</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1b5fbbe4 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="1b5fbbe4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">• 12 Days Ago</h3>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6fe29683" data-id="6fe29683" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4bde04c0 elementor-widget__width-auto elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="4bde04c0" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-751e24b7 e-grid-align-right elementor-widget__width-auto elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="751e24b7" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-yelp elementor-animation-grow elementor-repeater-item-a30382b" href="#" target="_blank">
+						<span class="elementor-screen-only">Yelp</span>
+													<i class="fa fa-yelp"></i>
+											</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-761cf794 elementor-widget elementor-widget-spacer" data-id="761cf794" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1f2fd4e4 elementor-widget elementor-widget-heading" data-id="1f2fd4e4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">"Cuối tuần nhâm nhi với bạn bè là quên hết mọi buồn phiền trên đời. Tôi đặc biệt yêu thích vị bia tháp tuyệt hảo."</h3>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-64abcb30 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="64abcb30" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-392e78a5" data-id="392e78a5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4250488a elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="4250488a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Trần Duy</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-22a08822 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="22a08822" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">• 15 Days Ago</h3>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-18e2a4fb" data-id="18e2a4fb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2fac1d15 elementor-widget__width-auto elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="2fac1d15" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-389be6a3 e-grid-align-right elementor-widget__width-auto elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="389be6a3" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-grow elementor-repeater-item-a30382b" href="#" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+													<i class="fa fa-facebook"></i>
+											</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6007a23b elementor-widget elementor-widget-spacer" data-id="6007a23b" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-54eb71c3 elementor-widget elementor-widget-heading" data-id="54eb71c3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">"Uống chai bia tháp xong, phải lên đánh giá 5 sao ngay cho chất lượng tuyệt vời.</h3>				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-284a9241 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="284a9241" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4011694c" data-id="4011694c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-425afd50 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="425afd50" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Phan Minh Tâm</h3>				</div>
+				</div>
+				<div class="elementor-element elementor-element-73674de0 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="73674de0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">• 26 Days Ago</h3>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-724e221d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="724e221d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5761093f" data-id="5761093f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-29a50fa6 elementor-align-center elementor-widget elementor-widget-button" data-id="29a50fa6" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-md" href="https://hethongbiatuoi.com/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Xem sản phẩm</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6244e777 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6244e777" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5f6b1c98" data-id="5f6b1c98" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1042c1c7 elementor-widget elementor-widget-heading" data-id="1042c1c7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Bia tháp - bia hơi, hương vị của cuộc sống.</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-25f16822 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="25f16822" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-42082e25" data-id="42082e25" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6371e5f6 elementor-widget elementor-widget-image" data-id="6371e5f6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://hethongbiatuoi.com/wp-content/uploads/elementor/thumbs/client-light-01-p29opxglk8ddnpsno3lwbwzbv66a6pn9odzbylevfo.png" title="client-light-01.png" alt="client-light-01.png" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-2d3fd116" data-id="2d3fd116" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4cd215f7 elementor-widget elementor-widget-image" data-id="4cd215f7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://hethongbiatuoi.com/wp-content/uploads/elementor/thumbs/client05-p29opxglk8ddnpsno3lwbwzbv66a6pn9odzbylevfo.png" title="client05.png" alt="client05.png" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-6731aedd" data-id="6731aedd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ef68869 elementor-widget elementor-widget-image" data-id="6ef68869" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://hethongbiatuoi.com/wp-content/uploads/elementor/thumbs/client-light-02-p29opyefr2enzbraim0iweqsgk1neer00imtfvdh9g.png" title="client-light-02.png" alt="client-light-02.png" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3e413439" data-id="3e413439" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5c0723da elementor-widget elementor-widget-image" data-id="5c0723da" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://hethongbiatuoi.com/wp-content/uploads/elementor/thumbs/client-light-066-p29opzc9xwfyaxpxd4f5gwi91xx0m3uqcnaax5c338.png" title="client-light-066.png" alt="client-light-066.png" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3784f5a0" data-id="3784f5a0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4e2d797b elementor-widget elementor-widget-image" data-id="4e2d797b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://hethongbiatuoi.com/wp-content/uploads/elementor/thumbs/client-light-03-p29opzc9xwfyaxpxd4f5gwi91xx0m3uqcnaax5c338.png" title="client-light-03.png" alt="client-light-03.png" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'danh-gia-khach-hang';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="896" class="elementor elementor-896" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-67888b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="67888b9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f6a8ab1" data-id="f6a8ab1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-11e8d1e elementor-widget elementor-widget-post-info" data-id="11e8d1e" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-thap/" class="elementor-post-info__terms-list-item">Bia Tháp</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-65c20522 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="65c20522" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4dbce4a4" data-id="4dbce4a4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7e40f212 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="7e40f212" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/Bia-Thap-3L-nen-vang.jpg" alt="Bia tháp 3 lít" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6437429c" data-id="6437429c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-29b3b8ae elementor-widget elementor-widget-heading" data-id="29b3b8ae" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Tháp 3L</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-39f416d elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="39f416d" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.7/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-7">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.7/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-47c09626 elementor-widget elementor-widget-text-editor" data-id="47c09626" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Tháp 3 Lít là dòng bia tươi thủ công chất lượng cao. Thiết kế dạng Tháp (mẫu mới), có vòi rót tăng ga tạo bọt, giúp tăng thêm độ đậm đà khi uống.</p>
+<p>Phù hợp kinh doanh: Các Quán Bar, Quán Nhậu, Quán Ốc có 1 Nhóm Khách từ 4 người, hoặc Khách lẻ mua uống trực tiếp tại nhà.</p>
+<ul>
+<li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li>
+<li><strong>Dung tích</strong>: 3 lít.</li>
+<li><strong>Độ cồn</strong>: 5.0</li>
+<li><strong>Đóng gói</strong>: 6 tháp/ sọt.</li>
+<li><strong>Bảo quản</strong>: 2•C =&gt; 6•C (ướp lạnh 24/24).</li>
+<li><strong>HSD</strong>: 30 ngày.</li>
+<li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li>
+<li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li>
+<li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li>
+</ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-8e30908 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="8e30908" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-159e689 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="159e689" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-443f26c elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="443f26c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-550a48d elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="550a48d" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3501d3f elementor-widget elementor-widget-post-info" data-id="3501d3f" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/3-lit/" class="elementor-post-info__terms-list-item">3 lít</a>, <a href="https://hethongbiatuoi.com/tag/bia-thap/" class="elementor-post-info__terms-list-item">Bia Tháp</a>, <a href="https://hethongbiatuoi.com/tag/bia-thap-3-lit/" class="elementor-post-info__terms-list-item">bia tháp 3 lít</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ddbfdfa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ddbfdfa" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-54016d7" data-id="54016d7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bcb1566 elementor-widget elementor-widget-heading" data-id="bcb1566" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3a41afd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3a41afd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-652b686" data-id="652b686" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-84b6ffb elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="84b6ffb" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1145 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-naviken tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-naviken/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Naviken-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-616" alt="Bia Naviken 900ml" srcset="/uploads/Naviken-900ml-nen-vang.jpg 1024w, /uploads/Naviken-900ml-nen-vang.jpg 300w, /uploads/Naviken-900ml-nen-vang.jpg 150w, /uploads/Naviken-900ml-nen-vang.jpg 768w, /uploads/Naviken-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-naviken/">
+				Bia Naviken 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-naviken/" aria-label="Read more about Bia Naviken 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1026 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-555" alt="Bia Bến Thành Sài Gòn đỏ 900ml" srcset="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1024w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 300w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 150w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 768w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/">
+				Bia Bến Thành Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" aria-label="Read more about Bia Bến Thành Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1057 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-do-900ml.jpg" class="attachment-large size-large wp-image-1058" alt="Bia Vina Sài Gòn Đỏ 900ml" srcset="/uploads/bia-vina-sai-gon-do-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-do-900ml.jpg 300w, /uploads/bia-vina-sai-gon-do-900ml.jpg 150w, /uploads/bia-vina-sai-gon-do-900ml.jpg 768w, /uploads/bia-vina-sai-gon-do-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/">
+				Bia Vina Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" aria-label="Read more about Bia Vina Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1050 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-xanh-900ml.jpg" class="attachment-large size-large wp-image-1051" alt="Bia Vina Sài Gòn Xanh 900ml" srcset="/uploads/bia-vina-sai-gon-xanh-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 300w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 150w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 768w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/">
+				Bia Vina Sài Gòn Xanh 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" aria-label="Read more about Bia Vina Sài Gòn Xanh 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-965 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-sai-gon-vang tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg" class="attachment-large size-large wp-image-604" alt="Bia Bến Thành Sài Gòn 900ml Vàng" srcset="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 1024w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 300w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 150w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 768w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/">
+				Bia Bến Thành Sài Gòn Vàng 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/" aria-label="Read more about Bia Bến Thành Sài Gòn Vàng 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e3a79f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e3a79f5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ce0d82c" data-id="ce0d82c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b3a98b3 elementor-widget elementor-widget-heading" data-id="b3a98b3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-dc552ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dc552ea" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c78bd04" data-id="c78bd04" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-007a683 elementor-align-center elementor-widget elementor-widget-button" data-id="007a683" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3ff875f" data-id="3ff875f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ed0bfba elementor-align-center elementor-widget elementor-widget-button" data-id="ed0bfba" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fe254a5" data-id="fe254a5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-60ae90e elementor-align-center elementor-widget elementor-widget-button" data-id="60ae90e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f66dfad" data-id="f66dfad" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-16a1430 elementor-align-center elementor-widget elementor-widget-button" data-id="16a1430" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f0c9c63 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f0c9c63" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-12a23a3" data-id="12a23a3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f4ce0e2 elementor-align-center elementor-widget elementor-widget-button" data-id="f4ce0e2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-66d6790" data-id="66d6790" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-aae6427 elementor-align-center elementor-widget elementor-widget-button" data-id="aae6427" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-216f07d elementor-hidden-phone" data-id="216f07d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d2eaa8e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d2eaa8e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-48a3706" data-id="48a3706" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3b90094 elementor-align-center elementor-widget elementor-widget-button" data-id="3b90094" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7b480e1" data-id="7b480e1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2a12fcd elementor-align-center elementor-widget elementor-widget-button" data-id="2a12fcd" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-50ac080" data-id="50ac080" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-585b664 elementor-align-center elementor-widget elementor-widget-button" data-id="585b664" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d50271b" data-id="d50271b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f86272e elementor-align-center elementor-widget elementor-widget-button" data-id="f86272e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c4fa3e5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c4fa3e5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d7bbd40" data-id="d7bbd40" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-aa2a937 elementor-widget elementor-widget-image" data-id="aa2a937" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-11e3993 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11e3993" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-759d1e8" data-id="759d1e8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-e413e10 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="e413e10" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-439bb7a elementor-hidden-phone" data-id="439bb7a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-45c0bbc elementor-widget elementor-widget-spacer" data-id="45c0bbc" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-abb2b15" data-id="abb2b15" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f607083 elementor-widget elementor-widget-heading" data-id="f607083" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4b021e2 elementor-widget elementor-widget-heading" data-id="4b021e2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-thap-3-lit';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="950" class="elementor elementor-950" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-b135da4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b135da4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-47a303a" data-id="47a303a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d577204 elementor-widget elementor-widget-post-info" data-id="d577204" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-inox/" class="elementor-post-info__terms-list-item">Bia Inox</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-60ca5a56 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60ca5a56" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-47c1befc" data-id="47c1befc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5f1d656c elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="5f1d656c" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/chai-Bia-Inox-1L.jpg" alt="chai-Bia-Inox-1L" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3e021ab7" data-id="3e021ab7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-520c842b elementor-widget elementor-widget-heading" data-id="520c842b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Inox 1 Lít</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-dc2845a elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="dc2845a" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.7/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-7">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.7/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d981e3f elementor-widget elementor-widget-text-editor" data-id="d981e3f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Inox 1 lít được thiết kế vỏ chai INOX cực kỳ đơn giản, nhưng vẫn toát lên sự mạnh mẽ, ấn tượng, độc đáo.</p><p>Bia được bảo quản trong chai Inox, ướp lạnh uống đậm đà, giữ nguyên hương vị Bia Tươi.</p><p>Phù hợp kinh doanh: Quán Nhậu, Quán Ốc, Quán Nướng, Bar, Chill, Nhà Hàng, Tiệc Cưới,… các buổi tiệc sang trọng mang đậm tính chất thưởng thức bia ngon.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 1 lít.</li><li><strong>Độ cồn</strong>: 5.0</li><li><strong>Đóng gói</strong>: 24 chai/ sọt.</li><li><strong>Bảo quản</strong>: 2•C =&gt; 6•C (ướp lạnh 24/24).</li><li><strong>HSD</strong>: 30 ngày.</li><li><strong>Sản xuất và đóng gói tại</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li><li>Đây là dòng Bia chất lượng cao.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-b1a8f0a elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="b1a8f0a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-4e4c5ad elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="4e4c5ad" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-2935ba0 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="2935ba0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7a77f34 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="7a77f34" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-31713384 elementor-widget elementor-widget-post-info" data-id="31713384" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-1-lit/" class="elementor-post-info__terms-list-item">bia 1 lít</a>, <a href="https://hethongbiatuoi.com/tag/bia-inox/" class="elementor-post-info__terms-list-item">Bia Inox</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-73d1dab elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="73d1dab" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9e71dcc" data-id="9e71dcc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fdbbbc2 elementor-widget elementor-widget-heading" data-id="fdbbbc2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-34a6fc4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="34a6fc4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d1ea381" data-id="d1ea381" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-17a523e elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="17a523e" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1041 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1100ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-1100ml.jpg" class="attachment-large size-large wp-image-1042" alt="Bia Vina Sài Gòn 1100ml" srcset="/uploads/bia-vina-sai-gon-1100ml.jpg 1024w, /uploads/bia-vina-sai-gon-1100ml.jpg 300w, /uploads/bia-vina-sai-gon-1100ml.jpg 150w, /uploads/bia-vina-sai-gon-1100ml.jpg 768w, /uploads/bia-vina-sai-gon-1100ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/">
+				Bia Vina Sài Gòn 1100ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/" aria-label="Read more about Bia Vina Sài Gòn 1100ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1026 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-555" alt="Bia Bến Thành Sài Gòn đỏ 900ml" srcset="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1024w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 300w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 150w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 768w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/">
+				Bia Bến Thành Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" aria-label="Read more about Bia Bến Thành Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1034 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg" class="attachment-large size-large wp-image-1035" alt="Bia Bến Thành Sài Gòn 400ml Xanh" srcset="/uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 1024w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 300w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 150w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 768w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/">
+				Bia Bến Thành Sài Gòn 400ml &#8211; Xanh			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/" aria-label="Read more about Bia Bến Thành Sài Gòn 400ml &#8211; Xanh" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-957 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-chai tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg" class="attachment-large size-large wp-image-607" alt="Bia Bến Thành Sài Gòn 900ml Xanh" srcset="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 1024w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 300w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 150w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 768w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-xanh/">
+				Bia Bến Thành Sài Gòn Xanh 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-xanh/" aria-label="Read more about Bia Bến Thành Sài Gòn Xanh 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-bd8a0f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bd8a0f0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8d554c3" data-id="8d554c3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1d77565 elementor-widget elementor-widget-heading" data-id="1d77565" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a5ff9e1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a5ff9e1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3673efd" data-id="3673efd" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ccafd0b elementor-align-center elementor-widget elementor-widget-button" data-id="ccafd0b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a19344b" data-id="a19344b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b8620ba elementor-align-center elementor-widget elementor-widget-button" data-id="b8620ba" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-df5f1f8" data-id="df5f1f8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-25cc928 elementor-align-center elementor-widget elementor-widget-button" data-id="25cc928" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-560dd95" data-id="560dd95" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c32c5f6 elementor-align-center elementor-widget elementor-widget-button" data-id="c32c5f6" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fbab704 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fbab704" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-290d3d9" data-id="290d3d9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-aa5f5ef elementor-align-center elementor-widget elementor-widget-button" data-id="aa5f5ef" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-541153a" data-id="541153a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c32b887 elementor-align-center elementor-widget elementor-widget-button" data-id="c32b887" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b83eb45 elementor-hidden-phone" data-id="b83eb45" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0b2d6eb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b2d6eb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-937104e" data-id="937104e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f2de78d elementor-align-center elementor-widget elementor-widget-button" data-id="f2de78d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-60d4980" data-id="60d4980" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-88da423 elementor-align-center elementor-widget elementor-widget-button" data-id="88da423" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-126c1df" data-id="126c1df" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d8beee8 elementor-align-center elementor-widget elementor-widget-button" data-id="d8beee8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3d470fe" data-id="3d470fe" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2e3cf19 elementor-align-center elementor-widget elementor-widget-button" data-id="2e3cf19" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-61a72b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="61a72b3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0141fb6" data-id="0141fb6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f0acf92 elementor-widget elementor-widget-image" data-id="f0acf92" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9731386 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9731386" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ed72505" data-id="ed72505" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-83fa4df elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="83fa4df" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b855f7a elementor-hidden-phone" data-id="b855f7a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-adf8f52 elementor-widget elementor-widget-spacer" data-id="adf8f52" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-16d0460" data-id="16d0460" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8cb8546 elementor-widget elementor-widget-heading" data-id="8cb8546" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-efeefee elementor-widget elementor-widget-heading" data-id="efeefee" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-inox-1-lit';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="957" class="elementor elementor-957" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-b6bc3e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b6bc3e2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b82728c" data-id="b82728c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d0a727b elementor-widget elementor-widget-post-info" data-id="d0a727b" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-27819b48 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="27819b48" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-733331cb" data-id="733331cb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6c059c12 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="6c059c12" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg" alt="Bia Bến Thành Sài Gòn 900ml Xanh" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-10933373" data-id="10933373" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5203d5b9 elementor-widget elementor-widget-heading" data-id="5203d5b9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Bến Thành Sài Gòn Xanh 900ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8f95a17 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="8f95a17" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.7/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-7">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.7/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-8339f60 elementor-widget elementor-widget-text-editor" data-id="8339f60" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Bến Thành Sài Gòn Xanh 900ml là dòng Bia Tươi truyền thống, thương hiệu Bến Thành Sài Gòn.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, Đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 900 ml.</li><li><strong>Độ cồn</strong>: 4.5</li><li><strong>Đóng gói</strong>: 12 chai/ lốc.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói tại</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-1859df0 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="1859df0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-dff109f elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="dff109f" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-8533099 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="8533099" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-c4242e6 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="c4242e6" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-d0b2aa2 elementor-widget elementor-widget-post-info" data-id="d0b2aa2" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-900ml/" class="elementor-post-info__terms-list-item">bia 900ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-ben-thanh/" class="elementor-post-info__terms-list-item">bia bến thành</a>, <a href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/" class="elementor-post-info__terms-list-item">Bia Bến Thành Sài Gòn</a>, <a href="https://hethongbiatuoi.com/tag/bia-chai/" class="elementor-post-info__terms-list-item">bia chai</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-760643a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="760643a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-96c0213" data-id="96c0213" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1efa5ff elementor-widget elementor-widget-heading" data-id="1efa5ff" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f460efa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f460efa" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-685bdf4" data-id="685bdf4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a2820a7 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="a2820a7" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1145 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-naviken tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-naviken/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Naviken-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-616" alt="Bia Naviken 900ml" srcset="/uploads/Naviken-900ml-nen-vang.jpg 1024w, /uploads/Naviken-900ml-nen-vang.jpg 300w, /uploads/Naviken-900ml-nen-vang.jpg 150w, /uploads/Naviken-900ml-nen-vang.jpg 768w, /uploads/Naviken-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-naviken/">
+				Bia Naviken 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-naviken/" aria-label="Read more about Bia Naviken 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1076 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-400ml-do.jpg" class="attachment-large size-large wp-image-1079" alt="Bia Vina Sài Gòn 400ml Đỏ" srcset="/uploads/bia-vina-sai-gon-400ml-do.jpg 1024w, /uploads/bia-vina-sai-gon-400ml-do.jpg 300w, /uploads/bia-vina-sai-gon-400ml-do.jpg 150w, /uploads/bia-vina-sai-gon-400ml-do.jpg 768w, /uploads/bia-vina-sai-gon-400ml-do.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/">
+				Bia Vina Sài Gòn 400ml Đỏ			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" aria-label="Read more about Bia Vina Sài Gòn 400ml Đỏ" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1057 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-do-900ml.jpg" class="attachment-large size-large wp-image-1058" alt="Bia Vina Sài Gòn Đỏ 900ml" srcset="/uploads/bia-vina-sai-gon-do-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-do-900ml.jpg 300w, /uploads/bia-vina-sai-gon-do-900ml.jpg 150w, /uploads/bia-vina-sai-gon-do-900ml.jpg 768w, /uploads/bia-vina-sai-gon-do-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/">
+				Bia Vina Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" aria-label="Read more about Bia Vina Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-965 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-sai-gon-vang tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg" class="attachment-large size-large wp-image-604" alt="Bia Bến Thành Sài Gòn 900ml Vàng" srcset="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 1024w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 300w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 150w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 768w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/">
+				Bia Bến Thành Sài Gòn Vàng 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/" aria-label="Read more about Bia Bến Thành Sài Gòn Vàng 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f448414 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f448414" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-db68e3b" data-id="db68e3b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-46923ed elementor-widget elementor-widget-heading" data-id="46923ed" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7cc4a07 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7cc4a07" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0d5c48e" data-id="0d5c48e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-402ce46 elementor-align-center elementor-widget elementor-widget-button" data-id="402ce46" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-27ed450" data-id="27ed450" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9b8401b elementor-align-center elementor-widget elementor-widget-button" data-id="9b8401b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-14e97b5" data-id="14e97b5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-428cf39 elementor-align-center elementor-widget elementor-widget-button" data-id="428cf39" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-122a688" data-id="122a688" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3acaaad elementor-align-center elementor-widget elementor-widget-button" data-id="3acaaad" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-25b18b4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="25b18b4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-0972d72" data-id="0972d72" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f9fa63a elementor-align-center elementor-widget elementor-widget-button" data-id="f9fa63a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-97a95cc" data-id="97a95cc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-56cdc07 elementor-align-center elementor-widget elementor-widget-button" data-id="56cdc07" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cc2cda1 elementor-hidden-phone" data-id="cc2cda1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4b5b144 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b5b144" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5f630d6" data-id="5f630d6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-876e6d2 elementor-align-center elementor-widget elementor-widget-button" data-id="876e6d2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7d7aa14" data-id="7d7aa14" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-eda9682 elementor-align-center elementor-widget elementor-widget-button" data-id="eda9682" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5797d58" data-id="5797d58" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2c763d2 elementor-align-center elementor-widget elementor-widget-button" data-id="2c763d2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a7390db" data-id="a7390db" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0432d71 elementor-align-center elementor-widget elementor-widget-button" data-id="0432d71" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-20f7e0c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="20f7e0c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5bad7a7" data-id="5bad7a7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4651367 elementor-widget elementor-widget-image" data-id="4651367" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-12fc500 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="12fc500" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f1510b6" data-id="f1510b6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-213efd8 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="213efd8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1e3edf9 elementor-hidden-phone" data-id="1e3edf9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e81f17a elementor-widget elementor-widget-spacer" data-id="e81f17a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b3033c8" data-id="b3033c8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d6ea251 elementor-widget elementor-widget-heading" data-id="d6ea251" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-8b7257d elementor-widget elementor-widget-heading" data-id="8b7257d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-ben-thanh-sai-gon-xanh';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="965" class="elementor elementor-965" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-67706ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="67706ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2c93851" data-id="2c93851" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ff258f6 elementor-widget elementor-widget-post-info" data-id="ff258f6" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b39d2ce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b39d2ce" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4e4b9f70" data-id="4e4b9f70" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3f610615 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="3f610615" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg" alt="Bia Bến Thành Sài Gòn 900ml Vàng" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-397cd6ac" data-id="397cd6ac" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6681c6b4 elementor-widget elementor-widget-heading" data-id="6681c6b4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Bến Thành Sài Gòn Vàng 900ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b6ef6cf elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="b6ef6cf" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.9/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-9">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.9/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a21d769 elementor-widget elementor-widget-text-editor" data-id="a21d769" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Bến Thành Sài Gòn Vàng 900ml là dòng Bia Tươi truyền thống, thương hiệu Bến Thành Sài Gòn.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, Đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 900 ml.</li><li><strong>Độ cồn</strong>: 4.5</li><li><strong>Đóng gói</strong>: 12 chai/ lốc.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói tại</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-34af4a7 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="34af4a7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-af0bc1d elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="af0bc1d" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d1817de elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="d1817de" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-ea7264c elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="ea7264c" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-587a13f7 elementor-widget elementor-widget-post-info" data-id="587a13f7" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-900ml/" class="elementor-post-info__terms-list-item">bia 900ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-ben-thanh/" class="elementor-post-info__terms-list-item">bia bến thành</a>, <a href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/" class="elementor-post-info__terms-list-item">Bia Bến Thành Sài Gòn</a>, <a href="https://hethongbiatuoi.com/tag/bia-sai-gon-vang/" class="elementor-post-info__terms-list-item">bia sài gòn vàng</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-07f12e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="07f12e8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-513d2d7" data-id="513d2d7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-758e564 elementor-widget elementor-widget-heading" data-id="758e564" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1bd88fe elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bd88fe" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1188c32" data-id="1188c32" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-71ef8af elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="71ef8af" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1065 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg" class="attachment-large size-large wp-image-622" alt="Bia Vina Sài Gòn Xanh 400ml" srcset="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/">
+				Bia Vina Sài Gòn 400ml Xanh			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" aria-label="Read more about Bia Vina Sài Gòn 400ml Xanh" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1026 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-555" alt="Bia Bến Thành Sài Gòn đỏ 900ml" srcset="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1024w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 300w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 150w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 768w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/">
+				Bia Bến Thành Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" aria-label="Read more about Bia Bến Thành Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1034 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg" class="attachment-large size-large wp-image-1035" alt="Bia Bến Thành Sài Gòn 400ml Xanh" srcset="/uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 1024w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 300w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 150w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 768w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/">
+				Bia Bến Thành Sài Gòn 400ml &#8211; Xanh			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/" aria-label="Read more about Bia Bến Thành Sài Gòn 400ml &#8211; Xanh" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1041 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1100ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-1100ml.jpg" class="attachment-large size-large wp-image-1042" alt="Bia Vina Sài Gòn 1100ml" srcset="/uploads/bia-vina-sai-gon-1100ml.jpg 1024w, /uploads/bia-vina-sai-gon-1100ml.jpg 300w, /uploads/bia-vina-sai-gon-1100ml.jpg 150w, /uploads/bia-vina-sai-gon-1100ml.jpg 768w, /uploads/bia-vina-sai-gon-1100ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/">
+				Bia Vina Sài Gòn 1100ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/" aria-label="Read more about Bia Vina Sài Gòn 1100ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1014 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-900ml-Den-nen-vang.jpg" class="attachment-large size-large wp-image-625" alt="Bia Vina Sài Gòn đen 900ml" srcset="/uploads/Vina-SG-900ml-Den-nen-vang.jpg 1024w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 300w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 150w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 768w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/">
+				Bia Vina Sài Gòn Đen 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/" aria-label="Read more about Bia Vina Sài Gòn Đen 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-33f51aa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33f51aa" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1fb4627" data-id="1fb4627" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c8c655c elementor-widget elementor-widget-heading" data-id="c8c655c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-142a64c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="142a64c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-dcaf7d8" data-id="dcaf7d8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-61a4f07 elementor-align-center elementor-widget elementor-widget-button" data-id="61a4f07" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3a811f0" data-id="3a811f0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-36ca78d elementor-align-center elementor-widget elementor-widget-button" data-id="36ca78d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-cd8de78" data-id="cd8de78" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d8d1104 elementor-align-center elementor-widget elementor-widget-button" data-id="d8d1104" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5a4f7c9" data-id="5a4f7c9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3c54d17 elementor-align-center elementor-widget elementor-widget-button" data-id="3c54d17" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6bb4e9c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6bb4e9c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7b46a14" data-id="7b46a14" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b46bb54 elementor-align-center elementor-widget elementor-widget-button" data-id="b46bb54" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8dbbf88" data-id="8dbbf88" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-91eb915 elementor-align-center elementor-widget elementor-widget-button" data-id="91eb915" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-749ca8d elementor-hidden-phone" data-id="749ca8d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8adb608 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8adb608" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-cb51c5f" data-id="cb51c5f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-dc418d3 elementor-align-center elementor-widget elementor-widget-button" data-id="dc418d3" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-95d4430" data-id="95d4430" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-43819e1 elementor-align-center elementor-widget elementor-widget-button" data-id="43819e1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0bf17bb" data-id="0bf17bb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2c3432c elementor-align-center elementor-widget elementor-widget-button" data-id="2c3432c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6ca9449" data-id="6ca9449" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-deef513 elementor-align-center elementor-widget elementor-widget-button" data-id="deef513" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-45ee225 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45ee225" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cf194c7" data-id="cf194c7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f2c048f elementor-widget elementor-widget-image" data-id="f2c048f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b742678 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b742678" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c891dbf" data-id="c891dbf" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-1c1522c elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="1c1522c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1f0a0f9 elementor-hidden-phone" data-id="1f0a0f9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4d0e269 elementor-widget elementor-widget-spacer" data-id="4d0e269" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2cebd4f" data-id="2cebd4f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-374940a elementor-widget elementor-widget-heading" data-id="374940a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3d12444 elementor-widget elementor-widget-heading" data-id="3d12444" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-ben-thanh-sai-gon-vang';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1014" class="elementor elementor-1014" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-92860f1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="92860f1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ed23311" data-id="ed23311" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cfae156 elementor-widget elementor-widget-post-info" data-id="cfae156" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1d9dab2c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1d9dab2c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-68da7f41" data-id="68da7f41" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-67bf6bef elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="67bf6bef" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/Vina-SG-900ml-Den-nen-vang.jpg" alt="Bia Vina Sài Gòn đen 900ml" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-232f1b8" data-id="232f1b8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c9f4528 elementor-widget elementor-widget-heading" data-id="c9f4528" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Vina Sài Gòn Đen 900ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e0d5c71 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="e0d5c71" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.7/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-7">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.7/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-210c2889 elementor-widget elementor-widget-text-editor" data-id="210c2889" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Vina Sài Gòn Đen 900ml là dòng Bia Tươi truyền thống nhãn hiệu Vina Sài Gòn.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 900ml.</li><li><strong>Độ cồn</strong>: 4.5</li><li><strong>Đóng gói</strong>: 12 chai/ lốc.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-07a8d73 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="07a8d73" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-cfcfb2a elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="cfcfb2a" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9776d5f elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="9776d5f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-5acef0e elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="5acef0e" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-454a0125 elementor-widget elementor-widget-post-info" data-id="454a0125" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-900ml/" class="elementor-post-info__terms-list-item">bia 900ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>, <a href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/" class="elementor-post-info__terms-list-item">Bia Vina Sài Gòn</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-06db0b4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="06db0b4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-34801ab" data-id="34801ab" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2584f62 elementor-widget elementor-widget-heading" data-id="2584f62" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-024a299 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="024a299" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4ead43" data-id="f4ead43" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c27dde6 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="c27dde6" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1138 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-craft tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-craft/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-craft-900ml.jpg" class="attachment-large size-large wp-image-1139" alt="Bia Craft 900ml" srcset="/uploads/bia-craft-900ml.jpg 1024w, /uploads/bia-craft-900ml.jpg 300w, /uploads/bia-craft-900ml.jpg 150w, /uploads/bia-craft-900ml.jpg 768w, /uploads/bia-craft-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-craft/">
+				Bia Craft 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-craft/" aria-label="Read more about Bia Craft 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1076 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-400ml-do.jpg" class="attachment-large size-large wp-image-1079" alt="Bia Vina Sài Gòn 400ml Đỏ" srcset="/uploads/bia-vina-sai-gon-400ml-do.jpg 1024w, /uploads/bia-vina-sai-gon-400ml-do.jpg 300w, /uploads/bia-vina-sai-gon-400ml-do.jpg 150w, /uploads/bia-vina-sai-gon-400ml-do.jpg 768w, /uploads/bia-vina-sai-gon-400ml-do.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/">
+				Bia Vina Sài Gòn 400ml Đỏ			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" aria-label="Read more about Bia Vina Sài Gòn 400ml Đỏ" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-965 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-sai-gon-vang tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg" class="attachment-large size-large wp-image-604" alt="Bia Bến Thành Sài Gòn 900ml Vàng" srcset="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 1024w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 300w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 150w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 768w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/">
+				Bia Bến Thành Sài Gòn Vàng 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/" aria-label="Read more about Bia Bến Thành Sài Gòn Vàng 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1057 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-do-900ml.jpg" class="attachment-large size-large wp-image-1058" alt="Bia Vina Sài Gòn Đỏ 900ml" srcset="/uploads/bia-vina-sai-gon-do-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-do-900ml.jpg 300w, /uploads/bia-vina-sai-gon-do-900ml.jpg 150w, /uploads/bia-vina-sai-gon-do-900ml.jpg 768w, /uploads/bia-vina-sai-gon-do-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/">
+				Bia Vina Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" aria-label="Read more about Bia Vina Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5295bd8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5295bd8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ead803d" data-id="ead803d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bed26b2 elementor-widget elementor-widget-heading" data-id="bed26b2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d63981d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d63981d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-faad915" data-id="faad915" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c48a05d elementor-align-center elementor-widget elementor-widget-button" data-id="c48a05d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-80155f7" data-id="80155f7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5306342 elementor-align-center elementor-widget elementor-widget-button" data-id="5306342" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-29f02ff" data-id="29f02ff" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4895e86 elementor-align-center elementor-widget elementor-widget-button" data-id="4895e86" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-be6465b" data-id="be6465b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7f5e451 elementor-align-center elementor-widget elementor-widget-button" data-id="7f5e451" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2d6d0b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d6d0b5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2c0c0ff" data-id="2c0c0ff" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b0ec216 elementor-align-center elementor-widget elementor-widget-button" data-id="b0ec216" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ddc57e8" data-id="ddc57e8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ec152d0 elementor-align-center elementor-widget elementor-widget-button" data-id="ec152d0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2fbe603 elementor-hidden-phone" data-id="2fbe603" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d8d14b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d8d14b9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1c3223f" data-id="1c3223f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e0f5b24 elementor-align-center elementor-widget elementor-widget-button" data-id="e0f5b24" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a2c3f4b" data-id="a2c3f4b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9d1b4bb elementor-align-center elementor-widget elementor-widget-button" data-id="9d1b4bb" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5bd18cc" data-id="5bd18cc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8925d49 elementor-align-center elementor-widget elementor-widget-button" data-id="8925d49" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a2dd14e" data-id="a2dd14e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-608dc89 elementor-align-center elementor-widget elementor-widget-button" data-id="608dc89" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c0c4aff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c0c4aff" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f46cc2d" data-id="f46cc2d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8252656 elementor-widget elementor-widget-image" data-id="8252656" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ff7d1c8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ff7d1c8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3eec9ff" data-id="3eec9ff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-38909bf elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="38909bf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-15242c2 elementor-hidden-phone" data-id="15242c2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b13df53 elementor-widget elementor-widget-spacer" data-id="b13df53" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1c0bc57" data-id="1c0bc57" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0e98b14 elementor-widget elementor-widget-heading" data-id="0e98b14" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-fac92dd elementor-widget elementor-widget-heading" data-id="fac92dd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-vina-sai-gon-den';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1026" class="elementor elementor-1026" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-5965f1f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5965f1f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bca0ba2" data-id="bca0ba2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-44ab3d4 elementor-widget elementor-widget-post-info" data-id="44ab3d4" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3da74b84 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3da74b84" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-38f9e1d0" data-id="38f9e1d0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2c4642b6 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="2c4642b6" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg" alt="Bia Bến Thành Sài Gòn đỏ 900ml" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5af65c4" data-id="5af65c4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-292b2892 elementor-widget elementor-widget-heading" data-id="292b2892" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Bến Thành Sài Gòn Đỏ 900ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-83e605f elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="83e605f" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.7/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-7">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.7/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1848d841 elementor-widget elementor-widget-text-editor" data-id="1848d841" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Bến Thành Sài Gòn Đỏ 900ml là dòng Bia Tươi truyền thống.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 900ml.</li><li><strong>Độ cồn</strong>: 4.5</li><li><strong>Đóng gói</strong>: 12 chai/ lốc</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-46e707c elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="46e707c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-0dfc08f elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="0dfc08f" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9afe8ae elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="9afe8ae" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-26156e8 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="26156e8" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-19491aa0 elementor-widget elementor-widget-post-info" data-id="19491aa0" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-900ml/" class="elementor-post-info__terms-list-item">bia 900ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-ben-thanh/" class="elementor-post-info__terms-list-item">bia bến thành</a>, <a href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/" class="elementor-post-info__terms-list-item">Bia Bến Thành Sài Gòn</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7bb4516 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7bb4516" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5516abd" data-id="5516abd" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c61e5dd elementor-widget elementor-widget-heading" data-id="c61e5dd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b272851 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b272851" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3506ecf" data-id="3506ecf" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cf56a89 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="cf56a89" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1050 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-xanh-900ml.jpg" class="attachment-large size-large wp-image-1051" alt="Bia Vina Sài Gòn Xanh 900ml" srcset="/uploads/bia-vina-sai-gon-xanh-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 300w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 150w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 768w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/">
+				Bia Vina Sài Gòn Xanh 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" aria-label="Read more about Bia Vina Sài Gòn Xanh 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1065 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg" class="attachment-large size-large wp-image-622" alt="Bia Vina Sài Gòn Xanh 400ml" srcset="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/">
+				Bia Vina Sài Gòn 400ml Xanh			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" aria-label="Read more about Bia Vina Sài Gòn 400ml Xanh" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1057 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-do-900ml.jpg" class="attachment-large size-large wp-image-1058" alt="Bia Vina Sài Gòn Đỏ 900ml" srcset="/uploads/bia-vina-sai-gon-do-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-do-900ml.jpg 300w, /uploads/bia-vina-sai-gon-do-900ml.jpg 150w, /uploads/bia-vina-sai-gon-do-900ml.jpg 768w, /uploads/bia-vina-sai-gon-do-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/">
+				Bia Vina Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" aria-label="Read more about Bia Vina Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1014 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-900ml-Den-nen-vang.jpg" class="attachment-large size-large wp-image-625" alt="Bia Vina Sài Gòn đen 900ml" srcset="/uploads/Vina-SG-900ml-Den-nen-vang.jpg 1024w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 300w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 150w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 768w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/">
+				Bia Vina Sài Gòn Đen 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/" aria-label="Read more about Bia Vina Sài Gòn Đen 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1034 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg" class="attachment-large size-large wp-image-1035" alt="Bia Bến Thành Sài Gòn 400ml Xanh" srcset="/uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 1024w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 300w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 150w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 768w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/">
+				Bia Bến Thành Sài Gòn 400ml &#8211; Xanh			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/" aria-label="Read more about Bia Bến Thành Sài Gòn 400ml &#8211; Xanh" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f89f484 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f89f484" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-daea986" data-id="daea986" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-41cd70c elementor-widget elementor-widget-heading" data-id="41cd70c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9b2461d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9b2461d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2c7be90" data-id="2c7be90" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-27d8052 elementor-align-center elementor-widget elementor-widget-button" data-id="27d8052" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ea32f4e" data-id="ea32f4e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7565dd9 elementor-align-center elementor-widget elementor-widget-button" data-id="7565dd9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2c37456" data-id="2c37456" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-70ede05 elementor-align-center elementor-widget elementor-widget-button" data-id="70ede05" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b10811d" data-id="b10811d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f3d8486 elementor-align-center elementor-widget elementor-widget-button" data-id="f3d8486" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a3e93ea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a3e93ea" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-01e02d4" data-id="01e02d4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9e18f27 elementor-align-center elementor-widget elementor-widget-button" data-id="9e18f27" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-26fb0d7" data-id="26fb0d7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1c1d334 elementor-align-center elementor-widget elementor-widget-button" data-id="1c1d334" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-86109b7 elementor-hidden-phone" data-id="86109b7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-40a5971 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="40a5971" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-03d54e1" data-id="03d54e1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-843e0b8 elementor-align-center elementor-widget elementor-widget-button" data-id="843e0b8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6f12e1d" data-id="6f12e1d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-178463f elementor-align-center elementor-widget elementor-widget-button" data-id="178463f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-68f1f02" data-id="68f1f02" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-59d47e4 elementor-align-center elementor-widget elementor-widget-button" data-id="59d47e4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-be707f1" data-id="be707f1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6918ad1 elementor-align-center elementor-widget elementor-widget-button" data-id="6918ad1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ae36791 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ae36791" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-900deee" data-id="900deee" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e452e7b elementor-widget elementor-widget-image" data-id="e452e7b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a7ef6ad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a7ef6ad" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-df60a6a" data-id="df60a6a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-a9f045a elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="a9f045a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-784a301 elementor-hidden-phone" data-id="784a301" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0c4559b elementor-widget elementor-widget-spacer" data-id="0c4559b" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-39e53c9" data-id="39e53c9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-31f00c0 elementor-widget elementor-widget-heading" data-id="31f00c0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-57ed8cb elementor-widget elementor-widget-heading" data-id="57ed8cb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-ben-thanh-sai-gon-do';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1034" class="elementor elementor-1034" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-f3d2651 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f3d2651" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-73819df" data-id="73819df" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5a3ba5b elementor-widget elementor-widget-post-info" data-id="5a3ba5b" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-51d18660 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51d18660" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-55b00240" data-id="55b00240" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-60313982 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="60313982" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg" alt="Bia Bến Thành Sài Gòn 400ml Xanh" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-65d22480" data-id="65d22480" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1b3bc2e3 elementor-widget elementor-widget-heading" data-id="1b3bc2e3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Bến Thành Sài Gòn 400ml Xanh</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-df30961 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="df30961" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.7/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-7">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.7/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-2b8ee96e elementor-widget elementor-widget-text-editor" data-id="2b8ee96e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Đây là dòng Bia Tươi truyền thống, gắng liền với ký ức 1 thời của Ông Cha ta.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 400 ml.</li><li><strong>Độ cồn</strong>: 4.5</li><li><strong>Đóng gói</strong>: 20 chai/ lốc.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-c0dc153 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="c0dc153" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-98a5644 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="98a5644" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-84dbbcb elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="84dbbcb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-96f671f elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="96f671f" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-15027ffa elementor-widget elementor-widget-post-info" data-id="15027ffa" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-400ml/" class="elementor-post-info__terms-list-item">bia 400ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-ben-thanh/" class="elementor-post-info__terms-list-item">bia bến thành</a>, <a href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/" class="elementor-post-info__terms-list-item">Bia Bến Thành Sài Gòn</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-eb1cfd5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eb1cfd5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1dac505" data-id="1dac505" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9ed784d elementor-widget elementor-widget-heading" data-id="9ed784d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-431a3a8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="431a3a8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-598c210" data-id="598c210" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9c696d0 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="9c696d0" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1065 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg" class="attachment-large size-large wp-image-622" alt="Bia Vina Sài Gòn Xanh 400ml" srcset="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/">
+				Bia Vina Sài Gòn 400ml Xanh			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" aria-label="Read more about Bia Vina Sài Gòn 400ml Xanh" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1026 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-555" alt="Bia Bến Thành Sài Gòn đỏ 900ml" srcset="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1024w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 300w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 150w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 768w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/">
+				Bia Bến Thành Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" aria-label="Read more about Bia Bến Thành Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-965 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-sai-gon-vang tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg" class="attachment-large size-large wp-image-604" alt="Bia Bến Thành Sài Gòn 900ml Vàng" srcset="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 1024w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 300w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 150w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 768w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/">
+				Bia Bến Thành Sài Gòn Vàng 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/" aria-label="Read more about Bia Bến Thành Sài Gòn Vàng 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c873aaf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c873aaf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-356483a" data-id="356483a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fc02760 elementor-widget elementor-widget-heading" data-id="fc02760" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-acac4a4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="acac4a4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9079f80" data-id="9079f80" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8c519db elementor-align-center elementor-widget elementor-widget-button" data-id="8c519db" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f47909d" data-id="f47909d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-aa6c41a elementor-align-center elementor-widget elementor-widget-button" data-id="aa6c41a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b7d871d" data-id="b7d871d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e952afe elementor-align-center elementor-widget elementor-widget-button" data-id="e952afe" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5a9c720" data-id="5a9c720" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-89d81c7 elementor-align-center elementor-widget elementor-widget-button" data-id="89d81c7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1ac51cc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1ac51cc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-233def9" data-id="233def9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-17dbc05 elementor-align-center elementor-widget elementor-widget-button" data-id="17dbc05" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-03d9aa6" data-id="03d9aa6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c1ca69a elementor-align-center elementor-widget elementor-widget-button" data-id="c1ca69a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-888a869 elementor-hidden-phone" data-id="888a869" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-446cdea elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="446cdea" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0119ebb" data-id="0119ebb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a0fa0bc elementor-align-center elementor-widget elementor-widget-button" data-id="a0fa0bc" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3118852" data-id="3118852" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c671faa elementor-align-center elementor-widget elementor-widget-button" data-id="c671faa" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bb7bf09" data-id="bb7bf09" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b78fe59 elementor-align-center elementor-widget elementor-widget-button" data-id="b78fe59" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6d56dcc" data-id="6d56dcc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7820194 elementor-align-center elementor-widget elementor-widget-button" data-id="7820194" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a64f0f9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a64f0f9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9df55e5" data-id="9df55e5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f974038 elementor-widget elementor-widget-image" data-id="f974038" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6918e24 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6918e24" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7766835" data-id="7766835" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-8613b93 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="8613b93" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6f26553 elementor-hidden-phone" data-id="6f26553" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3688b1b elementor-widget elementor-widget-spacer" data-id="3688b1b" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3653b6d" data-id="3653b6d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-25e6664 elementor-widget elementor-widget-heading" data-id="25e6664" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f0be9bc elementor-widget elementor-widget-heading" data-id="f0be9bc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-ben-thanh-sai-gon-400ml';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1041" class="elementor elementor-1041" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-3127302 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3127302" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7cb46e9" data-id="7cb46e9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-39272ee elementor-widget elementor-widget-post-info" data-id="39272ee" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-332ab70b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="332ab70b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7826f03c" data-id="7826f03c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-16e3069d elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="16e3069d" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/bia-vina-sai-gon-1100ml.jpg" alt="Bia Vina Sài Gòn 1100ml" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cb918d6" data-id="cb918d6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-280d4c2a elementor-widget elementor-widget-heading" data-id="280d4c2a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Vina Sài Gòn 1100ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4c3c823 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="4c3c823" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.7/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-7">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.7/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7909a47f elementor-widget elementor-widget-text-editor" data-id="7909a47f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Vina Sài Gòn 1100ml là dòng Bia Tươi truyền thống nhãn hiệu Vina Sài Gòn.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 1100 ml.</li><li><strong>Độ cồn</strong>: 4.2</li><li><strong>Đóng gói</strong>: 36 chai/ bao.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó)</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-53d7201 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="53d7201" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-12a9978 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="12a9978" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-33be372 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="33be372" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7a2cb66 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="7a2cb66" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4edb39d0 elementor-widget elementor-widget-post-info" data-id="4edb39d0" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-1100ml/" class="elementor-post-info__terms-list-item">bia 1100ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>, <a href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/" class="elementor-post-info__terms-list-item">Bia Vina Sài Gòn</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5eea3e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5eea3e8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9cca6f9" data-id="9cca6f9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4367290 elementor-widget elementor-widget-heading" data-id="4367290" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fea398f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fea398f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8347517" data-id="8347517" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d5652f5 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="d5652f5" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1138 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-craft tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-craft/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-craft-900ml.jpg" class="attachment-large size-large wp-image-1139" alt="Bia Craft 900ml" srcset="/uploads/bia-craft-900ml.jpg 1024w, /uploads/bia-craft-900ml.jpg 300w, /uploads/bia-craft-900ml.jpg 150w, /uploads/bia-craft-900ml.jpg 768w, /uploads/bia-craft-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-craft/">
+				Bia Craft 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-craft/" aria-label="Read more about Bia Craft 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1065 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg" class="attachment-large size-large wp-image-622" alt="Bia Vina Sài Gòn Xanh 400ml" srcset="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/">
+				Bia Vina Sài Gòn 400ml Xanh			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" aria-label="Read more about Bia Vina Sài Gòn 400ml Xanh" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1057 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-do-900ml.jpg" class="attachment-large size-large wp-image-1058" alt="Bia Vina Sài Gòn Đỏ 900ml" srcset="/uploads/bia-vina-sai-gon-do-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-do-900ml.jpg 300w, /uploads/bia-vina-sai-gon-do-900ml.jpg 150w, /uploads/bia-vina-sai-gon-do-900ml.jpg 768w, /uploads/bia-vina-sai-gon-do-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/">
+				Bia Vina Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" aria-label="Read more about Bia Vina Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1050 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-xanh-900ml.jpg" class="attachment-large size-large wp-image-1051" alt="Bia Vina Sài Gòn Xanh 900ml" srcset="/uploads/bia-vina-sai-gon-xanh-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 300w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 150w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 768w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/">
+				Bia Vina Sài Gòn Xanh 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" aria-label="Read more about Bia Vina Sài Gòn Xanh 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b70009f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b70009f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e84dfb8" data-id="e84dfb8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-300bbed elementor-widget elementor-widget-heading" data-id="300bbed" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9ba29cf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9ba29cf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3c62aee" data-id="3c62aee" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b5c94c2 elementor-align-center elementor-widget elementor-widget-button" data-id="b5c94c2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-921fe8a" data-id="921fe8a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2ff4e98 elementor-align-center elementor-widget elementor-widget-button" data-id="2ff4e98" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-36693b1" data-id="36693b1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d7d97d9 elementor-align-center elementor-widget elementor-widget-button" data-id="d7d97d9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-41e4474" data-id="41e4474" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-22f25f6 elementor-align-center elementor-widget elementor-widget-button" data-id="22f25f6" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-68f94b2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="68f94b2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9c0ad85" data-id="9c0ad85" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8929d8f elementor-align-center elementor-widget elementor-widget-button" data-id="8929d8f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7b2b18d" data-id="7b2b18d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ac2f73 elementor-align-center elementor-widget elementor-widget-button" data-id="6ac2f73" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-feb3a5d elementor-hidden-phone" data-id="feb3a5d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3f74402 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3f74402" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2e80a58" data-id="2e80a58" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-90d10d0 elementor-align-center elementor-widget elementor-widget-button" data-id="90d10d0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-62339db" data-id="62339db" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-987524d elementor-align-center elementor-widget elementor-widget-button" data-id="987524d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0d4a9de" data-id="0d4a9de" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2bf1dd7 elementor-align-center elementor-widget elementor-widget-button" data-id="2bf1dd7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-27632e0" data-id="27632e0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2c800c4 elementor-align-center elementor-widget elementor-widget-button" data-id="2c800c4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-99421fb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="99421fb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-47d2696" data-id="47d2696" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9f1d088 elementor-widget elementor-widget-image" data-id="9f1d088" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-643274f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="643274f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-15a7c1e" data-id="15a7c1e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-bb4fb79 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="bb4fb79" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3fc8f52 elementor-hidden-phone" data-id="3fc8f52" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-febf0ef elementor-widget elementor-widget-spacer" data-id="febf0ef" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c802341" data-id="c802341" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5450e4c elementor-widget elementor-widget-heading" data-id="5450e4c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-cf7dd2a elementor-widget elementor-widget-heading" data-id="cf7dd2a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-vina-sai-gon-1100ml';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1050" class="elementor elementor-1050" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-aa4ed15 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aa4ed15" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-526c7c7" data-id="526c7c7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d7a4fc5 elementor-widget elementor-widget-post-info" data-id="d7a4fc5" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1f859912 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1f859912" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-25e4f6c7" data-id="25e4f6c7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-27f6876f elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="27f6876f" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/bia-vina-sai-gon-xanh-900ml.jpg" alt="Bia Vina Sài Gòn Xanh 900ml" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3ee5356b" data-id="3ee5356b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-505ece5f elementor-widget elementor-widget-heading" data-id="505ece5f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Vina Sài Gòn Xanh 900ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-170cdd5 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="170cdd5" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.8/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-8">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.8/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-58c56346 elementor-widget elementor-widget-text-editor" data-id="58c56346" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Vina Sài Gòn Xanh 900ml là dòng Bia Tươi truyền thống nhãn hiệu Vina Sài Gòn.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, Đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 900 ml.</li><li><strong>Độ cồn</strong>: 4.2</li><li><strong>Đóng gói</strong>: 12 chai/ lốc.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3de80fc elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="3de80fc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-311e35e elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="311e35e" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-41ab2d8 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="41ab2d8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-27210b0 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="27210b0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6143fdb8 elementor-widget elementor-widget-post-info" data-id="6143fdb8" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-900ml/" class="elementor-post-info__terms-list-item">bia 900ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>, <a href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/" class="elementor-post-info__terms-list-item">Bia Vina Sài Gòn</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-56a358f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="56a358f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9fe36da" data-id="9fe36da" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7af0e16 elementor-widget elementor-widget-heading" data-id="7af0e16" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-bd38e79 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bd38e79" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fe8dac9" data-id="fe8dac9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5e110a3 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="5e110a3" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1065 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg" class="attachment-large size-large wp-image-622" alt="Bia Vina Sài Gòn Xanh 400ml" srcset="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/">
+				Bia Vina Sài Gòn 400ml Xanh			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" aria-label="Read more about Bia Vina Sài Gòn 400ml Xanh" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1076 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-400ml-do.jpg" class="attachment-large size-large wp-image-1079" alt="Bia Vina Sài Gòn 400ml Đỏ" srcset="/uploads/bia-vina-sai-gon-400ml-do.jpg 1024w, /uploads/bia-vina-sai-gon-400ml-do.jpg 300w, /uploads/bia-vina-sai-gon-400ml-do.jpg 150w, /uploads/bia-vina-sai-gon-400ml-do.jpg 768w, /uploads/bia-vina-sai-gon-400ml-do.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/">
+				Bia Vina Sài Gòn 400ml Đỏ			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" aria-label="Read more about Bia Vina Sài Gòn 400ml Đỏ" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1014 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-900ml-Den-nen-vang.jpg" class="attachment-large size-large wp-image-625" alt="Bia Vina Sài Gòn đen 900ml" srcset="/uploads/Vina-SG-900ml-Den-nen-vang.jpg 1024w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 300w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 150w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 768w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/">
+				Bia Vina Sài Gòn Đen 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/" aria-label="Read more about Bia Vina Sài Gòn Đen 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-957 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-chai tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg" class="attachment-large size-large wp-image-607" alt="Bia Bến Thành Sài Gòn 900ml Xanh" srcset="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 1024w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 300w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 150w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 768w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-xanh/">
+				Bia Bến Thành Sài Gòn Xanh 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-xanh/" aria-label="Read more about Bia Bến Thành Sài Gòn Xanh 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1145 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-naviken tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-naviken/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Naviken-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-616" alt="Bia Naviken 900ml" srcset="/uploads/Naviken-900ml-nen-vang.jpg 1024w, /uploads/Naviken-900ml-nen-vang.jpg 300w, /uploads/Naviken-900ml-nen-vang.jpg 150w, /uploads/Naviken-900ml-nen-vang.jpg 768w, /uploads/Naviken-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-naviken/">
+				Bia Naviken 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-naviken/" aria-label="Read more about Bia Naviken 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1041 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1100ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-1100ml.jpg" class="attachment-large size-large wp-image-1042" alt="Bia Vina Sài Gòn 1100ml" srcset="/uploads/bia-vina-sai-gon-1100ml.jpg 1024w, /uploads/bia-vina-sai-gon-1100ml.jpg 300w, /uploads/bia-vina-sai-gon-1100ml.jpg 150w, /uploads/bia-vina-sai-gon-1100ml.jpg 768w, /uploads/bia-vina-sai-gon-1100ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/">
+				Bia Vina Sài Gòn 1100ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/" aria-label="Read more about Bia Vina Sài Gòn 1100ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-dae9f63 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dae9f63" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8c6e339" data-id="8c6e339" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6b85627 elementor-widget elementor-widget-heading" data-id="6b85627" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8e3c387 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8e3c387" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-e0beeb6" data-id="e0beeb6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e262591 elementor-align-center elementor-widget elementor-widget-button" data-id="e262591" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6eb96f5" data-id="6eb96f5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-48209bf elementor-align-center elementor-widget elementor-widget-button" data-id="48209bf" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9ae6157" data-id="9ae6157" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9484ce8 elementor-align-center elementor-widget elementor-widget-button" data-id="9484ce8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-748e26f" data-id="748e26f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-30ecd7a elementor-align-center elementor-widget elementor-widget-button" data-id="30ecd7a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-937d79d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="937d79d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f1239c5" data-id="f1239c5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fdd9d93 elementor-align-center elementor-widget elementor-widget-button" data-id="fdd9d93" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e03bd1d" data-id="e03bd1d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-48e228a elementor-align-center elementor-widget elementor-widget-button" data-id="48e228a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-333b573 elementor-hidden-phone" data-id="333b573" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-29f2b58 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="29f2b58" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-e266f42" data-id="e266f42" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8778c09 elementor-align-center elementor-widget elementor-widget-button" data-id="8778c09" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0ef864d" data-id="0ef864d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3ad3096 elementor-align-center elementor-widget elementor-widget-button" data-id="3ad3096" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a911373" data-id="a911373" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-639fdde elementor-align-center elementor-widget elementor-widget-button" data-id="639fdde" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-084d7f8" data-id="084d7f8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a3c2819 elementor-align-center elementor-widget elementor-widget-button" data-id="a3c2819" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8ea0a07 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8ea0a07" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-123bcd1" data-id="123bcd1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8adeca2 elementor-widget elementor-widget-image" data-id="8adeca2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-273f594 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="273f594" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-508494f" data-id="508494f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-baf0b39 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="baf0b39" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b795a4b elementor-hidden-phone" data-id="b795a4b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cdda398 elementor-widget elementor-widget-spacer" data-id="cdda398" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-496b326" data-id="496b326" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f696fee elementor-widget elementor-widget-heading" data-id="f696fee" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5cacf9c elementor-widget elementor-widget-heading" data-id="5cacf9c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-vina-sai-gon-xanh';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1057" class="elementor elementor-1057" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-370e0e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="370e0e2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1f3a5ad" data-id="1f3a5ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bac1872 elementor-widget elementor-widget-post-info" data-id="bac1872" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-59b1e146 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="59b1e146" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2735c616" data-id="2735c616" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-166dc8a elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="166dc8a" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/bia-vina-sai-gon-do-900ml.jpg" alt="Bia Vina Sài Gòn Đỏ 900ml" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6a32e32f" data-id="6a32e32f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-51fb852e elementor-widget elementor-widget-heading" data-id="51fb852e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Vina Sài Gòn Đỏ 900ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-35ca2d7 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="35ca2d7" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.9/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-9">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.9/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-12932eb4 elementor-widget elementor-widget-text-editor" data-id="12932eb4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Vina Sài Gòn Đỏ 900ml là dòng Bia Tươi truyền thống nhãn<span style="color: var( --e-global-color-text ); font-size: 1rem;">&nbsp;hiệu Vina Sài Gòn.</span></p>
+<p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, Đồng bào vùng núi.</p>
+<ul>
+<li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li>
+<li><strong>Dung tích</strong>: 900 ml.</li>
+<li><strong>Độ cồn</strong>: 4.2</li>
+<li><strong>Đóng gói</strong>: 12 chai/ lốc.</li>
+<li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li>
+<li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li>
+<li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li>
+<li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li>
+<li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.Đ</li>
+</ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-53cd3d4 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="53cd3d4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a6ab8d3 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="a6ab8d3" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-8f7e58a elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="8f7e58a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-d9a2a12 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="d9a2a12" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-321e0974 elementor-widget elementor-widget-post-info" data-id="321e0974" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-900ml/" class="elementor-post-info__terms-list-item">bia 900ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>, <a href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/" class="elementor-post-info__terms-list-item">Bia Vina Sài Gòn</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-647bf96 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="647bf96" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-706910c" data-id="706910c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-941ad30 elementor-widget elementor-widget-heading" data-id="941ad30" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-eaf2d9f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eaf2d9f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-82aa47d" data-id="82aa47d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ef84810 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="ef84810" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1138 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-craft tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-craft/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-craft-900ml.jpg" class="attachment-large size-large wp-image-1139" alt="Bia Craft 900ml" srcset="/uploads/bia-craft-900ml.jpg 1024w, /uploads/bia-craft-900ml.jpg 300w, /uploads/bia-craft-900ml.jpg 150w, /uploads/bia-craft-900ml.jpg 768w, /uploads/bia-craft-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-craft/">
+				Bia Craft 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-craft/" aria-label="Read more about Bia Craft 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1050 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-xanh-900ml.jpg" class="attachment-large size-large wp-image-1051" alt="Bia Vina Sài Gòn Xanh 900ml" srcset="/uploads/bia-vina-sai-gon-xanh-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 300w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 150w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 768w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/">
+				Bia Vina Sài Gòn Xanh 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" aria-label="Read more about Bia Vina Sài Gòn Xanh 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1057 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-do-900ml.jpg" class="attachment-large size-large wp-image-1058" alt="Bia Vina Sài Gòn Đỏ 900ml" srcset="/uploads/bia-vina-sai-gon-do-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-do-900ml.jpg 300w, /uploads/bia-vina-sai-gon-do-900ml.jpg 150w, /uploads/bia-vina-sai-gon-do-900ml.jpg 768w, /uploads/bia-vina-sai-gon-do-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/">
+				Bia Vina Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" aria-label="Read more about Bia Vina Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-965 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-sai-gon-vang tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg" class="attachment-large size-large wp-image-604" alt="Bia Bến Thành Sài Gòn 900ml Vàng" srcset="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 1024w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 300w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 150w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 768w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/">
+				Bia Bến Thành Sài Gòn Vàng 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-vang/" aria-label="Read more about Bia Bến Thành Sài Gòn Vàng 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-046b9d3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="046b9d3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-656c042" data-id="656c042" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6eebba1 elementor-widget elementor-widget-heading" data-id="6eebba1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b3ae56e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b3ae56e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-740b64d" data-id="740b64d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0b1cf39 elementor-align-center elementor-widget elementor-widget-button" data-id="0b1cf39" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b151e59" data-id="b151e59" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1ed59b4 elementor-align-center elementor-widget elementor-widget-button" data-id="1ed59b4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1903036" data-id="1903036" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ee53b3d elementor-align-center elementor-widget elementor-widget-button" data-id="ee53b3d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d1a0344" data-id="d1a0344" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-866d1d7 elementor-align-center elementor-widget elementor-widget-button" data-id="866d1d7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f1a09f2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f1a09f2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9296670" data-id="9296670" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d1b4a16 elementor-align-center elementor-widget elementor-widget-button" data-id="d1b4a16" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d408bf2" data-id="d408bf2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a58bd34 elementor-align-center elementor-widget elementor-widget-button" data-id="a58bd34" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-46eb8f0 elementor-hidden-phone" data-id="46eb8f0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-af7d15d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="af7d15d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d47504f" data-id="d47504f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7379d61 elementor-align-center elementor-widget elementor-widget-button" data-id="7379d61" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bce0703" data-id="bce0703" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-536c753 elementor-align-center elementor-widget elementor-widget-button" data-id="536c753" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-952f8ef" data-id="952f8ef" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-222fd3c elementor-align-center elementor-widget elementor-widget-button" data-id="222fd3c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-e74c26a" data-id="e74c26a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-defdc03 elementor-align-center elementor-widget elementor-widget-button" data-id="defdc03" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-750934a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="750934a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-692fafc" data-id="692fafc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9774031 elementor-widget elementor-widget-image" data-id="9774031" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-98f2bfe elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="98f2bfe" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6eb7c01" data-id="6eb7c01" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-aa334ab elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="aa334ab" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7394f56 elementor-hidden-phone" data-id="7394f56" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d694181 elementor-widget elementor-widget-spacer" data-id="d694181" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2653db0" data-id="2653db0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4ab5f37 elementor-widget elementor-widget-heading" data-id="4ab5f37" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4ce6484 elementor-widget elementor-widget-heading" data-id="4ce6484" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-vina-sai-gon-do';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1065" class="elementor elementor-1065" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-cbec70b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cbec70b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-13efbc7" data-id="13efbc7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-226d7ff elementor-widget elementor-widget-post-info" data-id="226d7ff" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-70eab9aa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="70eab9aa" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7c752ee8" data-id="7c752ee8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6185e9f2 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="6185e9f2" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg" alt="Bia Vina Sài Gòn Xanh 400ml" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7f4a49e4" data-id="7f4a49e4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-177130cf elementor-widget elementor-widget-heading" data-id="177130cf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Vina Sài Gòn 400ml Xanh</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-40be68d elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="40be68d" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-63808b61 elementor-widget elementor-widget-text-editor" data-id="63808b61" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Vina Sài Gòn 400ml Xanh là dòng Bia Tươi truyền thống nhãn hiệu Vina Sài Gòn.</p>
+<p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, Đồng bào vùng núi.</p>
+<ul>
+<li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li>
+<li><strong>Dung tích</strong>: 400 ml.</li>
+<li><strong>Độ cồn</strong>: 4.5</li>
+<li><strong>Đóng gói</strong>: 20 chai/ lốc.</li>
+<li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li>
+<li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li>
+<li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li>
+<li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li>
+<li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li>
+</ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-64eecc2 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="64eecc2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a759a97 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="a759a97" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-886b04d elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="886b04d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-204e462 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="204e462" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-796b30e9 elementor-widget elementor-widget-post-info" data-id="796b30e9" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-400ml/" class="elementor-post-info__terms-list-item">bia 400ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>, <a href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/" class="elementor-post-info__terms-list-item">Bia Vina Sài Gòn</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cffbc31 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cffbc31" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b03c013" data-id="b03c013" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b451199 elementor-widget elementor-widget-heading" data-id="b451199" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e8952e1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e8952e1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c2c740f" data-id="c2c740f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-db1499e elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="db1499e" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1041 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1100ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-1100ml.jpg" class="attachment-large size-large wp-image-1042" alt="Bia Vina Sài Gòn 1100ml" srcset="/uploads/bia-vina-sai-gon-1100ml.jpg 1024w, /uploads/bia-vina-sai-gon-1100ml.jpg 300w, /uploads/bia-vina-sai-gon-1100ml.jpg 150w, /uploads/bia-vina-sai-gon-1100ml.jpg 768w, /uploads/bia-vina-sai-gon-1100ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/">
+				Bia Vina Sài Gòn 1100ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-1100ml/" aria-label="Read more about Bia Vina Sài Gòn 1100ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1057 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-do-900ml.jpg" class="attachment-large size-large wp-image-1058" alt="Bia Vina Sài Gòn Đỏ 900ml" srcset="/uploads/bia-vina-sai-gon-do-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-do-900ml.jpg 300w, /uploads/bia-vina-sai-gon-do-900ml.jpg 150w, /uploads/bia-vina-sai-gon-do-900ml.jpg 768w, /uploads/bia-vina-sai-gon-do-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/">
+				Bia Vina Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" aria-label="Read more about Bia Vina Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1065 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg" class="attachment-large size-large wp-image-622" alt="Bia Vina Sài Gòn Xanh 400ml" srcset="/uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-xanh-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/">
+				Bia Vina Sài Gòn 400ml Xanh			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-xanh/" aria-label="Read more about Bia Vina Sài Gòn 400ml Xanh" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1014 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-900ml-Den-nen-vang.jpg" class="attachment-large size-large wp-image-625" alt="Bia Vina Sài Gòn đen 900ml" srcset="/uploads/Vina-SG-900ml-Den-nen-vang.jpg 1024w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 300w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 150w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 768w, /uploads/Vina-SG-900ml-Den-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/">
+				Bia Vina Sài Gòn Đen 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-den/" aria-label="Read more about Bia Vina Sài Gòn Đen 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1138 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-craft tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-craft/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-craft-900ml.jpg" class="attachment-large size-large wp-image-1139" alt="Bia Craft 900ml" srcset="/uploads/bia-craft-900ml.jpg 1024w, /uploads/bia-craft-900ml.jpg 300w, /uploads/bia-craft-900ml.jpg 150w, /uploads/bia-craft-900ml.jpg 768w, /uploads/bia-craft-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-craft/">
+				Bia Craft 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-craft/" aria-label="Read more about Bia Craft 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-38813f6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="38813f6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1edb18e" data-id="1edb18e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b3084f2 elementor-widget elementor-widget-heading" data-id="b3084f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2e75368 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e75368" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6479ff2" data-id="6479ff2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-953301b elementor-align-center elementor-widget elementor-widget-button" data-id="953301b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1772f1c" data-id="1772f1c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ba8ce07 elementor-align-center elementor-widget elementor-widget-button" data-id="ba8ce07" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ebd3a68" data-id="ebd3a68" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7edc705 elementor-align-center elementor-widget elementor-widget-button" data-id="7edc705" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3a2fbf5" data-id="3a2fbf5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5c1fba3 elementor-align-center elementor-widget elementor-widget-button" data-id="5c1fba3" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-536fcd8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="536fcd8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-97e0561" data-id="97e0561" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3f3c25f elementor-align-center elementor-widget elementor-widget-button" data-id="3f3c25f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-71efa7b" data-id="71efa7b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c3fb165 elementor-align-center elementor-widget elementor-widget-button" data-id="c3fb165" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-62f9657 elementor-hidden-phone" data-id="62f9657" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7715e0b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7715e0b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3b50840" data-id="3b50840" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-63725e5 elementor-align-center elementor-widget elementor-widget-button" data-id="63725e5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-61996e7" data-id="61996e7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-28adc85 elementor-align-center elementor-widget elementor-widget-button" data-id="28adc85" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fec4376" data-id="fec4376" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-dc60121 elementor-align-center elementor-widget elementor-widget-button" data-id="dc60121" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2caa021" data-id="2caa021" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-334d418 elementor-align-center elementor-widget elementor-widget-button" data-id="334d418" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6625a43 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6625a43" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3bf8402" data-id="3bf8402" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-80e2d5b elementor-widget elementor-widget-image" data-id="80e2d5b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-eb5d72f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eb5d72f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ca0e8c6" data-id="ca0e8c6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-2be1d01 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="2be1d01" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d67c1a6 elementor-hidden-phone" data-id="d67c1a6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-46855f7 elementor-widget elementor-widget-spacer" data-id="46855f7" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d074668" data-id="d074668" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d3c1d08 elementor-widget elementor-widget-heading" data-id="d3c1d08" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b1db7d6 elementor-widget elementor-widget-heading" data-id="b1db7d6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-vina-sai-gon-400ml-xanh';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1076" class="elementor elementor-1076" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-726742ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="726742ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-52bbdded" data-id="52bbdded" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3c0464d7 elementor-widget elementor-widget-post-info" data-id="3c0464d7" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-532481f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="532481f5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7e2750b0" data-id="7e2750b0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3952e06e elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="3952e06e" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/bia-vina-sai-gon-400ml-do.jpg" alt="Bia Vina Sài Gòn 400ml Đỏ" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-74aaa59a" data-id="74aaa59a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-15cf8bde elementor-widget elementor-widget-heading" data-id="15cf8bde" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Vina Sài Gòn 400ml Đỏ</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-dc5f78c elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="dc5f78c" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.7/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-7">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.7/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7fc10c91 elementor-widget elementor-widget-text-editor" data-id="7fc10c91" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Vina Sài Gòn 400ml Đỏ là dòng Bia Tươi truyền thống nhãn hiệu Vina Sài Gòn.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 400 ml.</li><li><strong>Độ cồn</strong>: 4.5</li><li><strong>Đóng gói</strong>: 20 chai/ lốc.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-fecbb24 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="fecbb24" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3533ce5 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="3533ce5" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5483973 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="5483973" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-802c874 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="802c874" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-143850c9 elementor-widget elementor-widget-post-info" data-id="143850c9" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-400ml/" class="elementor-post-info__terms-list-item">bia 400ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>, <a href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/" class="elementor-post-info__terms-list-item">Bia Vina Sài Gòn</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3cb27cb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3cb27cb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b57f73f" data-id="b57f73f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fe5d16e elementor-widget elementor-widget-heading" data-id="fe5d16e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f861737 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f861737" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4496de7" data-id="4496de7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-91ac945 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="91ac945" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1145 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-naviken tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-naviken/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Naviken-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-616" alt="Bia Naviken 900ml" srcset="/uploads/Naviken-900ml-nen-vang.jpg 1024w, /uploads/Naviken-900ml-nen-vang.jpg 300w, /uploads/Naviken-900ml-nen-vang.jpg 150w, /uploads/Naviken-900ml-nen-vang.jpg 768w, /uploads/Naviken-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-naviken/">
+				Bia Naviken 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-naviken/" aria-label="Read more about Bia Naviken 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1138 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-craft tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-craft/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-craft-900ml.jpg" class="attachment-large size-large wp-image-1139" alt="Bia Craft 900ml" srcset="/uploads/bia-craft-900ml.jpg 1024w, /uploads/bia-craft-900ml.jpg 300w, /uploads/bia-craft-900ml.jpg 150w, /uploads/bia-craft-900ml.jpg 768w, /uploads/bia-craft-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-craft/">
+				Bia Craft 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-craft/" aria-label="Read more about Bia Craft 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1076 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-400ml-do.jpg" class="attachment-large size-large wp-image-1079" alt="Bia Vina Sài Gòn 400ml Đỏ" srcset="/uploads/bia-vina-sai-gon-400ml-do.jpg 1024w, /uploads/bia-vina-sai-gon-400ml-do.jpg 300w, /uploads/bia-vina-sai-gon-400ml-do.jpg 150w, /uploads/bia-vina-sai-gon-400ml-do.jpg 768w, /uploads/bia-vina-sai-gon-400ml-do.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/">
+				Bia Vina Sài Gòn 400ml Đỏ			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" aria-label="Read more about Bia Vina Sài Gòn 400ml Đỏ" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3ac514b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3ac514b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-447fd70" data-id="447fd70" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1873e4c elementor-widget elementor-widget-heading" data-id="1873e4c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f115254 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f115254" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9c7c55c" data-id="9c7c55c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-304b76b elementor-align-center elementor-widget elementor-widget-button" data-id="304b76b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7d9c0da" data-id="7d9c0da" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ed79ef4 elementor-align-center elementor-widget elementor-widget-button" data-id="ed79ef4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7323f7c" data-id="7323f7c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3fa1eb4 elementor-align-center elementor-widget elementor-widget-button" data-id="3fa1eb4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0045549" data-id="0045549" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-369e521 elementor-align-center elementor-widget elementor-widget-button" data-id="369e521" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2b18a14 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2b18a14" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8869ce3" data-id="8869ce3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bbc9ec3 elementor-align-center elementor-widget elementor-widget-button" data-id="bbc9ec3" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-bbfc3d1" data-id="bbfc3d1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fb0bc7f elementor-align-center elementor-widget elementor-widget-button" data-id="fb0bc7f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-12d61aa elementor-hidden-phone" data-id="12d61aa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8a9d5cf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8a9d5cf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0b1228c" data-id="0b1228c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8646f20 elementor-align-center elementor-widget elementor-widget-button" data-id="8646f20" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bee4c66" data-id="bee4c66" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f4eda99 elementor-align-center elementor-widget elementor-widget-button" data-id="f4eda99" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ad9315c" data-id="ad9315c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-57675c1 elementor-align-center elementor-widget elementor-widget-button" data-id="57675c1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-16b063d" data-id="16b063d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-67f8c24 elementor-align-center elementor-widget elementor-widget-button" data-id="67f8c24" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f0034b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f0034b9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2b3a1ff" data-id="2b3a1ff" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d190561 elementor-widget elementor-widget-image" data-id="d190561" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8fa0b0d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8fa0b0d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-38739a2" data-id="38739a2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-d56732c elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="d56732c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f62bf83 elementor-hidden-phone" data-id="f62bf83" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d0805be elementor-widget elementor-widget-spacer" data-id="d0805be" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b22fb12" data-id="b22fb12" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9f1d81f elementor-widget elementor-widget-heading" data-id="9f1d81f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-780656a elementor-widget elementor-widget-heading" data-id="780656a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-vina-sai-gon-400ml-do';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1138" class="elementor elementor-1138" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-1b2acaa4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1b2acaa4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3736740" data-id="3736740" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-747fa335 elementor-widget elementor-widget-post-info" data-id="747fa335" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1e14fa5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1e14fa5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-496459b1" data-id="496459b1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3f24cc51 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="3f24cc51" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/bia-craft-900ml.jpg" alt="Bia Craft 900ml" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6b0c233c" data-id="6b0c233c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3ec8d1a0 elementor-widget elementor-widget-heading" data-id="3ec8d1a0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Craft 900ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4aff5953 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="4aff5953" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-5">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-889a72 elementor-widget elementor-widget-text-editor" data-id="889a72" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Craft 900ml là dòng Bia Tươi truyền thống nhãn hiệu Craft.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 900 ml.</li><li><strong>Độ cồn</strong>: 4.2</li><li><strong>Đóng gói</strong>: 12 chai/ lốc.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-6aa87046 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="6aa87046" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7b6c6177 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="7b6c6177" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-cd3a093 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="cd3a093" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-895a5dd elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="895a5dd" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1476e27 elementor-widget elementor-widget-post-info" data-id="1476e27" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-900ml/" class="elementor-post-info__terms-list-item">bia 900ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-craft/" class="elementor-post-info__terms-list-item">Bia Craft</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2cd2465 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2cd2465" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-504925b9" data-id="504925b9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-574918d2 elementor-widget elementor-widget-heading" data-id="574918d2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-77bfa13c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77bfa13c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-75404443" data-id="75404443" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-48f99b6c elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="48f99b6c" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1145 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-naviken tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-naviken/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Naviken-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-616" alt="Bia Naviken 900ml" srcset="/uploads/Naviken-900ml-nen-vang.jpg 1024w, /uploads/Naviken-900ml-nen-vang.jpg 300w, /uploads/Naviken-900ml-nen-vang.jpg 150w, /uploads/Naviken-900ml-nen-vang.jpg 768w, /uploads/Naviken-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-naviken/">
+				Bia Naviken 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-naviken/" aria-label="Read more about Bia Naviken 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1138 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-craft tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-craft/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-craft-900ml.jpg" class="attachment-large size-large wp-image-1139" alt="Bia Craft 900ml" srcset="/uploads/bia-craft-900ml.jpg 1024w, /uploads/bia-craft-900ml.jpg 300w, /uploads/bia-craft-900ml.jpg 150w, /uploads/bia-craft-900ml.jpg 768w, /uploads/bia-craft-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-craft/">
+				Bia Craft 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-craft/" aria-label="Read more about Bia Craft 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1076 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-400ml-do.jpg" class="attachment-large size-large wp-image-1079" alt="Bia Vina Sài Gòn 400ml Đỏ" srcset="/uploads/bia-vina-sai-gon-400ml-do.jpg 1024w, /uploads/bia-vina-sai-gon-400ml-do.jpg 300w, /uploads/bia-vina-sai-gon-400ml-do.jpg 150w, /uploads/bia-vina-sai-gon-400ml-do.jpg 768w, /uploads/bia-vina-sai-gon-400ml-do.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/">
+				Bia Vina Sài Gòn 400ml Đỏ			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" aria-label="Read more about Bia Vina Sài Gòn 400ml Đỏ" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-53770667 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="53770667" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fbc0955" data-id="fbc0955" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-146ddf7e elementor-widget elementor-widget-heading" data-id="146ddf7e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-38c20d5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="38c20d5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1803073" data-id="1803073" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5f0ae8f elementor-align-center elementor-widget elementor-widget-button" data-id="5f0ae8f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-dab1973" data-id="dab1973" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-539feda elementor-align-center elementor-widget elementor-widget-button" data-id="539feda" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-33860d7" data-id="33860d7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-08c704d elementor-align-center elementor-widget elementor-widget-button" data-id="08c704d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0b2e526" data-id="0b2e526" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5115dea elementor-align-center elementor-widget elementor-widget-button" data-id="5115dea" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1e4e849 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1e4e849" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-74af64d" data-id="74af64d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8d27adc elementor-align-center elementor-widget elementor-widget-button" data-id="8d27adc" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-eb2f0e2" data-id="eb2f0e2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fca9c73 elementor-align-center elementor-widget elementor-widget-button" data-id="fca9c73" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-84e72d2 elementor-hidden-phone" data-id="84e72d2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0bd8890 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0bd8890" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-53a80ca" data-id="53a80ca" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1c832e8 elementor-align-center elementor-widget elementor-widget-button" data-id="1c832e8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-db5e832" data-id="db5e832" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-256401c elementor-align-center elementor-widget elementor-widget-button" data-id="256401c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b9a14a8" data-id="b9a14a8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-07c6d53 elementor-align-center elementor-widget elementor-widget-button" data-id="07c6d53" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6fa01fa" data-id="6fa01fa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e33add1 elementor-align-center elementor-widget elementor-widget-button" data-id="e33add1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1a837c22 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1a837c22" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e890f4a" data-id="5e890f4a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-77dd6b45 elementor-widget elementor-widget-image" data-id="77dd6b45" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1534ebc1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1534ebc1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-275fb" data-id="275fb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-1cd5ff0c elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="1cd5ff0c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b5df62a elementor-hidden-phone" data-id="b5df62a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-636677e9 elementor-widget elementor-widget-spacer" data-id="636677e9" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-32d62fc6" data-id="32d62fc6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-49e6acfb elementor-widget elementor-widget-heading" data-id="49e6acfb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-124f1b76 elementor-widget elementor-widget-heading" data-id="124f1b76" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-craft';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1145" class="elementor elementor-1145" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-11a985b7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11a985b7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ea33328" data-id="ea33328" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-12d158fc elementor-widget elementor-widget-post-info" data-id="12d158fc" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7f8cde97 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f8cde97" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-31237620" data-id="31237620" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7dc5d9d9 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="7dc5d9d9" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/Naviken-900ml-nen-vang.jpg" alt="Bia Naviken 900ml" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7c490e39" data-id="7c490e39" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-186e117c elementor-widget elementor-widget-heading" data-id="186e117c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Naviken 900ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5e062748 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="5e062748" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.8/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-8">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.8/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4cb2a806 elementor-widget elementor-widget-text-editor" data-id="4cb2a806" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Naviken 900ml là dòng Bia Tươi truyền thống nhãn hiệu Naviken.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 900 ml.</li><li><strong>Độ cồn</strong>: 4.2</li><li><strong>Đóng gói</strong>: 12 chai/ lốc.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2aae299c elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="2aae299c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-f3d2b95 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="f3d2b95" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-cb475dc elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="cb475dc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-347ac07 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="347ac07" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-60ff10db elementor-widget elementor-widget-post-info" data-id="60ff10db" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-900ml/" class="elementor-post-info__terms-list-item">bia 900ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-naviken/" class="elementor-post-info__terms-list-item">Bia Naviken</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9f09e61 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9f09e61" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-591ae202" data-id="591ae202" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-192cb845 elementor-widget elementor-widget-heading" data-id="192cb845" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-27862225 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="27862225" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1bcb0abb" data-id="1bcb0abb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7b0b3bfe elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="7b0b3bfe" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1145 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-naviken tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-naviken/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Naviken-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-616" alt="Bia Naviken 900ml" srcset="/uploads/Naviken-900ml-nen-vang.jpg 1024w, /uploads/Naviken-900ml-nen-vang.jpg 300w, /uploads/Naviken-900ml-nen-vang.jpg 150w, /uploads/Naviken-900ml-nen-vang.jpg 768w, /uploads/Naviken-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-naviken/">
+				Bia Naviken 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-naviken/" aria-label="Read more about Bia Naviken 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1138 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-craft tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-craft/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-craft-900ml.jpg" class="attachment-large size-large wp-image-1139" alt="Bia Craft 900ml" srcset="/uploads/bia-craft-900ml.jpg 1024w, /uploads/bia-craft-900ml.jpg 300w, /uploads/bia-craft-900ml.jpg 150w, /uploads/bia-craft-900ml.jpg 768w, /uploads/bia-craft-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-craft/">
+				Bia Craft 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-craft/" aria-label="Read more about Bia Craft 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1076 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-400ml-do.jpg" class="attachment-large size-large wp-image-1079" alt="Bia Vina Sài Gòn 400ml Đỏ" srcset="/uploads/bia-vina-sai-gon-400ml-do.jpg 1024w, /uploads/bia-vina-sai-gon-400ml-do.jpg 300w, /uploads/bia-vina-sai-gon-400ml-do.jpg 150w, /uploads/bia-vina-sai-gon-400ml-do.jpg 768w, /uploads/bia-vina-sai-gon-400ml-do.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/">
+				Bia Vina Sài Gòn 400ml Đỏ			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" aria-label="Read more about Bia Vina Sài Gòn 400ml Đỏ" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4c44387d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c44387d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70507a7" data-id="70507a7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-15de7939 elementor-widget elementor-widget-heading" data-id="15de7939" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ab2e7ac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ab2e7ac" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fd4c623" data-id="fd4c623" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c3e05d2 elementor-align-center elementor-widget elementor-widget-button" data-id="c3e05d2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1ed8724" data-id="1ed8724" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7f198f4 elementor-align-center elementor-widget elementor-widget-button" data-id="7f198f4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5e715e7" data-id="5e715e7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-895c115 elementor-align-center elementor-widget elementor-widget-button" data-id="895c115" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-505a030" data-id="505a030" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1634fb9 elementor-align-center elementor-widget elementor-widget-button" data-id="1634fb9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0d9b323 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0d9b323" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f7e80ff" data-id="f7e80ff" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4701097 elementor-align-center elementor-widget elementor-widget-button" data-id="4701097" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2104392" data-id="2104392" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1a7cfef elementor-align-center elementor-widget elementor-widget-button" data-id="1a7cfef" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ec1c47a elementor-hidden-phone" data-id="ec1c47a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-69b0477 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="69b0477" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ef1ecd7" data-id="ef1ecd7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-bba4427 elementor-align-center elementor-widget elementor-widget-button" data-id="bba4427" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-730b644" data-id="730b644" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-67de3b5 elementor-align-center elementor-widget elementor-widget-button" data-id="67de3b5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-45dd32a" data-id="45dd32a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8f1bdb5 elementor-align-center elementor-widget elementor-widget-button" data-id="8f1bdb5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0c733d8" data-id="0c733d8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a8feaa5 elementor-align-center elementor-widget elementor-widget-button" data-id="a8feaa5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-727c663d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="727c663d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-798311b9" data-id="798311b9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3346ac10 elementor-widget elementor-widget-image" data-id="3346ac10" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-439402b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="439402b5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-49c9ec2" data-id="49c9ec2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-7acbc705 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="7acbc705" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-236c26b6 elementor-hidden-phone" data-id="236c26b6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7d3989f9 elementor-widget elementor-widget-spacer" data-id="7d3989f9" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7e53585b" data-id="7e53585b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6ee950a3 elementor-widget elementor-widget-heading" data-id="6ee950a3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-75460027 elementor-widget elementor-widget-heading" data-id="75460027" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-naviken';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1155" class="elementor elementor-1155" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-4865ddca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4865ddca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6185d9e" data-id="6185d9e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-217519a elementor-widget elementor-widget-post-info" data-id="217519a" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-78e0554f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="78e0554f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-636e930c" data-id="636e930c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-467ffe5c elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="467ffe5c" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" alt="Bia Hemsi Sài Gòn 900ml" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-77d21c20" data-id="77d21c20" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-19dc7929 elementor-widget elementor-widget-heading" data-id="19dc7929" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Hemsi Sài Gòn 1000ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-69135552 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="69135552" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-5">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.5/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7c6dbf0b elementor-widget elementor-widget-text-editor" data-id="7c6dbf0b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Hemsi Sài Gòn 1000ml là dòng Bia Tươi truyền thống nhãn hiệu Hemsi Sài Gòn.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, Đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 1000 ml.</li><li><strong>Độ cồn</strong>: 4.5</li><li><strong>Đóng gói</strong>: 12 chai/ lốc.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-45d9d01e elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="45d9d01e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-44eac225 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="44eac225" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3b36c4a elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="3b36c4a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-721ef06 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="721ef06" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4ce66a97 elementor-widget elementor-widget-post-info" data-id="4ce66a97" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-1000ml/" class="elementor-post-info__terms-list-item">bia 1000ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/" class="elementor-post-info__terms-list-item">Bia Hemsi Sài Gòn</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6d9bcfad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6d9bcfad" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-665490b9" data-id="665490b9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-379b4dfb elementor-widget elementor-widget-heading" data-id="379b4dfb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1bd038a3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1bd038a3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4c47cf86" data-id="4c47cf86" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-77f6971e elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="77f6971e" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1145 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-naviken tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-naviken/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Naviken-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-616" alt="Bia Naviken 900ml" srcset="/uploads/Naviken-900ml-nen-vang.jpg 1024w, /uploads/Naviken-900ml-nen-vang.jpg 300w, /uploads/Naviken-900ml-nen-vang.jpg 150w, /uploads/Naviken-900ml-nen-vang.jpg 768w, /uploads/Naviken-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-naviken/">
+				Bia Naviken 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-naviken/" aria-label="Read more about Bia Naviken 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1138 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-craft tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-craft/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-craft-900ml.jpg" class="attachment-large size-large wp-image-1139" alt="Bia Craft 900ml" srcset="/uploads/bia-craft-900ml.jpg 1024w, /uploads/bia-craft-900ml.jpg 300w, /uploads/bia-craft-900ml.jpg 150w, /uploads/bia-craft-900ml.jpg 768w, /uploads/bia-craft-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-craft/">
+				Bia Craft 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-craft/" aria-label="Read more about Bia Craft 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1076 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-400ml-do.jpg" class="attachment-large size-large wp-image-1079" alt="Bia Vina Sài Gòn 400ml Đỏ" srcset="/uploads/bia-vina-sai-gon-400ml-do.jpg 1024w, /uploads/bia-vina-sai-gon-400ml-do.jpg 300w, /uploads/bia-vina-sai-gon-400ml-do.jpg 150w, /uploads/bia-vina-sai-gon-400ml-do.jpg 768w, /uploads/bia-vina-sai-gon-400ml-do.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/">
+				Bia Vina Sài Gòn 400ml Đỏ			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" aria-label="Read more about Bia Vina Sài Gòn 400ml Đỏ" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-73624112 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="73624112" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3ca0181c" data-id="3ca0181c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-20ff660b elementor-widget elementor-widget-heading" data-id="20ff660b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-12e93b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="12e93b5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3d2ff79" data-id="3d2ff79" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f4955fb elementor-align-center elementor-widget elementor-widget-button" data-id="f4955fb" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0ff79d8" data-id="0ff79d8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1f8dbbc elementor-align-center elementor-widget elementor-widget-button" data-id="1f8dbbc" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-e31fd3e" data-id="e31fd3e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-daaa424 elementor-align-center elementor-widget elementor-widget-button" data-id="daaa424" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a11c7d3" data-id="a11c7d3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-11a50ad elementor-align-center elementor-widget elementor-widget-button" data-id="11a50ad" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c62a7f6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c62a7f6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9406746" data-id="9406746" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a91ab7f elementor-align-center elementor-widget elementor-widget-button" data-id="a91ab7f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3a88520" data-id="3a88520" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0508f32 elementor-align-center elementor-widget elementor-widget-button" data-id="0508f32" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-0d26886 elementor-hidden-phone" data-id="0d26886" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-43f2d24 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="43f2d24" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-efb92b8" data-id="efb92b8" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-dc5ab8e elementor-align-center elementor-widget elementor-widget-button" data-id="dc5ab8e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-cdff1df" data-id="cdff1df" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b107f14 elementor-align-center elementor-widget elementor-widget-button" data-id="b107f14" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-40f35c7" data-id="40f35c7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ab9e58b elementor-align-center elementor-widget elementor-widget-button" data-id="ab9e58b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2280ed9" data-id="2280ed9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-48da558 elementor-align-center elementor-widget elementor-widget-button" data-id="48da558" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c4b227f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c4b227f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-478a5beb" data-id="478a5beb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-12571571 elementor-widget elementor-widget-image" data-id="12571571" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-475a1bcd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="475a1bcd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3e2986ba" data-id="3e2986ba" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-714eee05 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="714eee05" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4156cc2f elementor-hidden-phone" data-id="4156cc2f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f284c94 elementor-widget elementor-widget-spacer" data-id="f284c94" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6ee4a7d7" data-id="6ee4a7d7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6008a108 elementor-widget elementor-widget-heading" data-id="6008a108" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5bf06796 elementor-widget elementor-widget-heading" data-id="5bf06796" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-hemsi-sai-gon';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1167" class="elementor elementor-1167" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-2f0861ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2f0861ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-71999b50" data-id="71999b50" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-45da56e2 elementor-widget elementor-widget-post-info" data-id="45da56e2" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/thiet-bi/" class="elementor-post-info__terms-list-item">Thiết Bị</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-39702836 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="39702836" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-758cca37" data-id="758cca37" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-588ff114 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="588ff114" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 3"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/Tu-lanh-chuyen-dung.jpg" alt="Tủ lạnh chuyên dụng" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 trên 3"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/khong-gian-ben-trong-tu-lanh-he-thong-bia-thap.jpg" alt="Không gian bên trong tủ lạnh chuyên dụng Hệ Thống Bia Tháp" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 trên 3"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/ban-giao-tu-lanh-chuyen-dung-cho-khach-hang.jpg" alt="Bàn giao tủ lạnh chuyên dụng cho khách hàng" /></figure></div>			</div>
+												<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>					</div>
+				
+									<div class="swiper-pagination"></div>
+									</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-68cf4660" data-id="68cf4660" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3e88a879 elementor-widget elementor-widget-heading" data-id="3e88a879" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Tủ Lạnh Chuyên Dụng</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3cee1a51 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="3cee1a51" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.4/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-4">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.4/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-356c2bc8 elementor-widget elementor-widget-text-editor" data-id="356c2bc8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Đây là dòng Tủ lạnh chuyên dụng, được gia công thiết kế riêng trong ngành Bia.</p><p>Ưu điểm: Tiết kiệm điện, có thể để bảo quản khô &#8211; lạnh. Hệ số truyền nhiệt thấp nên bảo quản được lâu hơn. Có thiết kế sẵn đường ống và vòi rót Bia hơi trực tiếp ra bên ngoài (mà không cần mở nắp tủ). Có van xả nước (dưới đáy tủ), tiện lợi cho việc vệ sinh thường xuyên.</p><ul><li><strong>Dung tích</strong>: 300 lít. (Dài: 140cm &#8211; Rộng: 57cm &#8211; Cao: 95cm)</li><li><strong>Điện áp</strong>: 220v &#8211; 240v</li><li><strong>Công suất</strong>: 160w</li><li><strong>Nhiệt độ</strong>: từ 2•C =&gt; 6•C (nhiệt độ chuẩn để ướp bia)</li><li><strong>Chất liệu</strong>: INOX với khung thép chịu được lực va đập lớn.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-26134754 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="26134754" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-341c0e00 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="341c0e00" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7cdf37a elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="7cdf37a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-73ddb92 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="73ddb92" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5a977734 elementor-widget elementor-widget-post-info" data-id="5a977734" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/tu-lanh/" class="elementor-post-info__terms-list-item">tủ lạnh</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-641acad9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="641acad9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e4c04ad" data-id="4e4c04ad" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4a39a3ea elementor-widget elementor-widget-heading" data-id="4a39a3ea" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Hệ Thống Bia Tháp</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7e23615e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7e23615e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-75a5f138" data-id="75a5f138" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-537d3f01 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="537d3f01" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" class="attachment-large size-large wp-image-596" alt="Bia Bến Thành Ông Già" srcset="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1024w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 300w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 150w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 768w, /uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/">
+				Bia Bến Thành Sài Gòn Ông Già 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-ong-gia/" aria-label="Read more about Bia Bến Thành Sài Gòn Ông Già 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1145 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-naviken tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-naviken/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Naviken-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-616" alt="Bia Naviken 900ml" srcset="/uploads/Naviken-900ml-nen-vang.jpg 1024w, /uploads/Naviken-900ml-nen-vang.jpg 300w, /uploads/Naviken-900ml-nen-vang.jpg 150w, /uploads/Naviken-900ml-nen-vang.jpg 768w, /uploads/Naviken-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-naviken/">
+				Bia Naviken 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-naviken/" aria-label="Read more about Bia Naviken 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1138 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-craft tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-craft/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-craft-900ml.jpg" class="attachment-large size-large wp-image-1139" alt="Bia Craft 900ml" srcset="/uploads/bia-craft-900ml.jpg 1024w, /uploads/bia-craft-900ml.jpg 300w, /uploads/bia-craft-900ml.jpg 150w, /uploads/bia-craft-900ml.jpg 768w, /uploads/bia-craft-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-craft/">
+				Bia Craft 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-craft/" aria-label="Read more about Bia Craft 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1076 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-400ml-do.jpg" class="attachment-large size-large wp-image-1079" alt="Bia Vina Sài Gòn 400ml Đỏ" srcset="/uploads/bia-vina-sai-gon-400ml-do.jpg 1024w, /uploads/bia-vina-sai-gon-400ml-do.jpg 300w, /uploads/bia-vina-sai-gon-400ml-do.jpg 150w, /uploads/bia-vina-sai-gon-400ml-do.jpg 768w, /uploads/bia-vina-sai-gon-400ml-do.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/">
+				Bia Vina Sài Gòn 400ml Đỏ			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-400ml-do/" aria-label="Read more about Bia Vina Sài Gòn 400ml Đỏ" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-de1627c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="de1627c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ee43d69" data-id="1ee43d69" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-afc0530 elementor-widget elementor-widget-heading" data-id="afc0530" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4a0c354 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4a0c354" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f38d671" data-id="f38d671" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a6388c3 elementor-align-center elementor-widget elementor-widget-button" data-id="a6388c3" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-e19e996" data-id="e19e996" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-145790a elementor-align-center elementor-widget elementor-widget-button" data-id="145790a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f9a3341" data-id="f9a3341" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-619f4b1 elementor-align-center elementor-widget elementor-widget-button" data-id="619f4b1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4fa405a" data-id="4fa405a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-791f18a elementor-align-center elementor-widget elementor-widget-button" data-id="791f18a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ffdca32 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ffdca32" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-39421da" data-id="39421da" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e57e684 elementor-align-center elementor-widget elementor-widget-button" data-id="e57e684" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-464d5b3" data-id="464d5b3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-b792022 elementor-align-center elementor-widget elementor-widget-button" data-id="b792022" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d670364 elementor-hidden-phone" data-id="d670364" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-60c0ce2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="60c0ce2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bc8b74f" data-id="bc8b74f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f13d945 elementor-align-center elementor-widget elementor-widget-button" data-id="f13d945" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-559ee23" data-id="559ee23" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-24a0970 elementor-align-center elementor-widget elementor-widget-button" data-id="24a0970" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b1e9218" data-id="b1e9218" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-28a7057 elementor-align-center elementor-widget elementor-widget-button" data-id="28a7057" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a21f487" data-id="a21f487" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a739e65 elementor-align-center elementor-widget elementor-widget-button" data-id="a739e65" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7dea7b4f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7dea7b4f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2d245d85" data-id="2d245d85" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-16c15ee9 elementor-widget elementor-widget-image" data-id="16c15ee9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3da57211 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3da57211" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-332a2149" data-id="332a2149" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-64325b51 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="64325b51" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-65ee3ef4 elementor-hidden-phone" data-id="65ee3ef4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-21eef78e elementor-widget elementor-widget-spacer" data-id="21eef78e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a062694" data-id="a062694" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-152b4585 elementor-widget elementor-widget-heading" data-id="152b4585" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1de5dd28 elementor-widget elementor-widget-heading" data-id="1de5dd28" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'tu-lanh';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1218" class="elementor elementor-1218" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-6412b71f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6412b71f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-324f6cce" data-id="324f6cce" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7053b71b elementor-widget elementor-widget-post-info" data-id="7053b71b" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-32d433e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="32d433e9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3e517b21" data-id="3e517b21" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d1b29b0 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="d1b29b0" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" alt="Bia Vina Sài Gòn Hồ Lô 500ml" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1dd685ec" data-id="1dd685ec" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-52c3a696 elementor-widget elementor-widget-heading" data-id="52c3a696" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Vina Sài Gòn Hồ Lô 500ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-3bad2fa8 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="3bad2fa8" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.4/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-4">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.4/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-aaee5df elementor-widget elementor-widget-text-editor" data-id="aaee5df" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Vina Sài Gòn Hồ Lô 500ml là dòng Bia Tươi truyền thống nhãn hiệu Vina Sài Gòn.</p>
+<p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, Đồng bào vùng núi.</p>
+<ul>
+<li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li>
+<li><strong>Dung tích</strong>: 500 ml.</li>
+<li><strong>Độ cồn</strong>: 4.2</li>
+<li><strong>Đóng gói</strong>: 60 chai/ bao.</li>
+<li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li>
+<li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li>
+<li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li>
+<li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li>
+<li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB</li>
+</ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-157ef6d1 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="157ef6d1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-73c9f702 elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="73c9f702" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3dc21da elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="3dc21da" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a6648ce elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="a6648ce" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-21151dd5 elementor-widget elementor-widget-post-info" data-id="21151dd5" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-500ml/" class="elementor-post-info__terms-list-item">bia 500ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>, <a href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/" class="elementor-post-info__terms-list-item">Bia Vina Sài Gòn</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6637e13a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6637e13a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-54a26684" data-id="54a26684" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-422a63b2 elementor-widget elementor-widget-heading" data-id="422a63b2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-546700c6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="546700c6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3c134563" data-id="3c134563" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c23ea45 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="c23ea45" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1155 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-1000ml tag-bia-hemsi-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-612" alt="Bia Hemsi Sài Gòn 900ml" srcset="/uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1024w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 300w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 150w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 768w, /uploads/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/">
+				Bia Hemsi Sài Gòn 1000ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-hemsi-sai-gon/" aria-label="Read more about Bia Hemsi Sài Gòn 1000ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1050 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-xanh-900ml.jpg" class="attachment-large size-large wp-image-1051" alt="Bia Vina Sài Gòn Xanh 900ml" srcset="/uploads/bia-vina-sai-gon-xanh-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 300w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 150w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 768w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/">
+				Bia Vina Sài Gòn Xanh 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" aria-label="Read more about Bia Vina Sài Gòn Xanh 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1026 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-555" alt="Bia Bến Thành Sài Gòn đỏ 900ml" srcset="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1024w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 300w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 150w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 768w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/">
+				Bia Bến Thành Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" aria-label="Read more about Bia Bến Thành Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1034 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-400ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg" class="attachment-large size-large wp-image-1035" alt="Bia Bến Thành Sài Gòn 400ml Xanh" srcset="/uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 1024w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 300w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 150w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 768w, /uploads/bia-ben-thanh-sai-gon-xanh-400ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/">
+				Bia Bến Thành Sài Gòn 400ml &#8211; Xanh			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-400ml/" aria-label="Read more about Bia Bến Thành Sài Gòn 400ml &#8211; Xanh" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-957 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-chai tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg" class="attachment-large size-large wp-image-607" alt="Bia Bến Thành Sài Gòn 900ml Xanh" srcset="/uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 1024w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 300w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 150w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 768w, /uploads/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-xanh/">
+				Bia Bến Thành Sài Gòn Xanh 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-xanh/" aria-label="Read more about Bia Bến Thành Sài Gòn Xanh 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5e5320ad elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e5320ad" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-459f8710" data-id="459f8710" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7024e301 elementor-widget elementor-widget-heading" data-id="7024e301" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ccf6f59 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ccf6f59" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6dd49168" data-id="6dd49168" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-f9e36ac elementor-align-center elementor-widget elementor-widget-button" data-id="f9e36ac" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-51e7f76c" data-id="51e7f76c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-74f269ee elementor-align-center elementor-widget elementor-widget-button" data-id="74f269ee" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4afa9953" data-id="4afa9953" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-49d83350 elementor-align-center elementor-widget elementor-widget-button" data-id="49d83350" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4233af9c" data-id="4233af9c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3bf65765 elementor-align-center elementor-widget elementor-widget-button" data-id="3bf65765" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1f7cadc9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1f7cadc9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-46b3d9a3" data-id="46b3d9a3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-15f6a85f elementor-align-center elementor-widget elementor-widget-button" data-id="15f6a85f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6b7bc21e" data-id="6b7bc21e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-37586366 elementor-align-center elementor-widget elementor-widget-button" data-id="37586366" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-224d94dd elementor-hidden-phone" data-id="224d94dd" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7fe19c53 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7fe19c53" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6c0c4940" data-id="6c0c4940" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-613bc92b elementor-align-center elementor-widget elementor-widget-button" data-id="613bc92b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-23be6676" data-id="23be6676" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-522cf16 elementor-align-center elementor-widget elementor-widget-button" data-id="522cf16" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-57d5193e" data-id="57d5193e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-16d4b320 elementor-align-center elementor-widget elementor-widget-button" data-id="16d4b320" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4e1c6635" data-id="4e1c6635" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-607fee39 elementor-align-center elementor-widget elementor-widget-button" data-id="607fee39" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2e339e12 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e339e12" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2932fb5d" data-id="2932fb5d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-15fc1298 elementor-widget elementor-widget-image" data-id="15fc1298" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-20f554eb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="20f554eb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6b2086f5" data-id="6b2086f5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-6ec34740 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="6ec34740" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-312f5ed3 elementor-hidden-phone" data-id="312f5ed3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7b2c51a5 elementor-widget elementor-widget-spacer" data-id="7b2c51a5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5de7655e" data-id="5de7655e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1a0a4437 elementor-widget elementor-widget-heading" data-id="1a0a4437" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-15092b69 elementor-widget elementor-widget-heading" data-id="15092b69" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-vina-sai-gon-ho-lo';
+UPDATE Post SET content = '		<div data-elementor-type="wp-post" data-elementor-id="1276" class="elementor elementor-1276" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-3efaa265 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3efaa265" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1916ad6" data-id="1916ad6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5c2bcc5a elementor-widget elementor-widget-post-info" data-id="5c2bcc5a" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-489f9b1" itemprop="about">
+													<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/san-pham/bia-tuoi/" class="elementor-post-info__terms-list-item">Bia Tươi</a>, <a href="https://hethongbiatuoi.com/san-pham/" class="elementor-post-info__terms-list-item">Sản Phẩm</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6e5100bd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e5100bd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3808184e" data-id="3808184e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7d48f2eb elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="7d48f2eb" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;no&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Băng chuyền hình ảnh" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="polite">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 trên 1"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="/uploads/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg" alt="Bia Bến Thành Ông Già" /></figure></div>			</div>
+					</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4373df72" data-id="4373df72" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2c3bfc24 elementor-widget elementor-widget-heading" data-id="2c3bfc24" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">Bia Bến Thành Sài Gòn Ông Già 900ml</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5f468d62 elementor--star-style-star_fontawesome elementor-widget elementor-widget-star-rating" data-id="5f468d62" data-element_type="widget" data-widget_type="star-rating.default">
+				<div class="elementor-widget-container">
+					
+		<div class="elementor-star-rating__wrapper">
+						<div class="elementor-star-rating" title="4.7/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-full">&#xE934;</i><i class="elementor-star-7">&#xE934;</i> <span itemprop="ratingValue" class="elementor-screen-only">4.7/5</span></div>		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-69e2def7 elementor-widget elementor-widget-text-editor" data-id="69e2def7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Bia Bến Thành Sài Gòn Ông Già &#8211; 900ml là dòng Bia Tươi truyền thống nhãn hiệu Bến Thành Sài Gòn.</p><p>Phù hợp kinh doanh: bán kênh Tạp hóa, bán Quán Nhậu, Người tiêu dùng bình dân, Công nhân các khu công nghiệp, Nông dân vùng sâu vùng xa, Dân tộc, đồng bào vùng núi.</p><ul><li><strong>Thành phần</strong>: Nước, Gạo, Malt, Hoa Houblon, Men &#8211; CarlsBergensis.</li><li><strong>Dung tích</strong>: 900 ml.</li><li><strong>Độ cồn</strong>: 4.2</li><li><strong>Đóng gói</strong>: 12 chai/ lốc.</li><li><strong>Bảo quản</strong>: 15•C =&gt; 25•C (có thể để nhiệt độ môi trường và tránh tiếp xúc ánh nắng, bán đến đâu ướp đến đó).</li><li><strong>HSD</strong>: 3 tháng (nhiệt độ môi trường: sử dụng trong 1 tháng).</li><li><strong>Sản xuất và đóng gói</strong>: Công Ty TNHH PHÚ MỸ HƯNG.</li><li><strong>Địa chỉ</strong>: 305C/2 Khu Phố 1B, An Phú, Thuận An, Bình Dương.</li><li><strong>Giấy chứng nhận ATTP</strong>: TNCBHQ số 05/2017/YTBD_TNCB.</li></ul>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2ebe7e43 elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="2ebe7e43" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Chia sẻ:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-145933be elementor-share-buttons--view-icon elementor-share-buttons--skin-minimal elementor-share-buttons--shape-rounded elementor-widget__width-auto elementor-grid-0 elementor-share-buttons--color-official elementor-widget elementor-widget-share-buttons" data-id="145933be" data-element_type="widget" data-widget_type="share-buttons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-grid">
+								<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_facebook"
+							role="button"
+							tabindex="0"
+							aria-label="Share on facebook"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-facebook" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_twitter"
+							role="button"
+							tabindex="0"
+							aria-label="Share on twitter"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-twitter" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+									<div class="elementor-grid-item">
+						<div
+							class="elementor-share-btn elementor-share-btn_telegram"
+							role="button"
+							tabindex="0"
+							aria-label="Share on telegram"
+						>
+															<span class="elementor-share-btn__icon">
+								<i class="fab fa-telegram" aria-hidden="true"></i>							</span>
+																				</div>
+					</div>
+						</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ec151ab elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="ec151ab" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>QR Code Sản Phẩm:</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-b7b46a8 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="b7b46a8" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+					<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">en: malformed ''create-qr-code'' API request. Please consider the API
+    documentation at http://goqr.me/api/doc/create-qr-code/
+
+
+de: ungültige ''create-qr-code''-API-Anfrage. Bitte beachten Sie die
+    API-Dokumentation unter http://goqr.me/de/api/doc/create-qr-code/</div></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4493af53 elementor-widget elementor-widget-post-info" data-id="4493af53" data-element_type="widget" data-widget_type="post-info.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-post-info">
+								<li class="elementor-icon-list-item elementor-repeater-item-399a436" itemprop="about">
+										<span class="elementor-icon-list-icon">
+								<i aria-hidden="true" class="fas fa-tags"></i>							</span>
+									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-terms">
+							<span class="elementor-post-info__item-prefix">Thẻ:</span>
+										<span class="elementor-post-info__terms-list">
+				<a href="https://hethongbiatuoi.com/tag/bia-900ml/" class="elementor-post-info__terms-list-item">bia 900ml</a>, <a href="https://hethongbiatuoi.com/tag/bia-ben-thanh/" class="elementor-post-info__terms-list-item">bia bến thành</a>, <a href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/" class="elementor-post-info__terms-list-item">Bia Bến Thành Sài Gòn</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi/" class="elementor-post-info__terms-list-item">bia tươi</a>, <a href="https://hethongbiatuoi.com/tag/bia-tuoi-truyen-thong/" class="elementor-post-info__terms-list-item">bia tươi truyền thống</a>				</span>
+					</span>
+								</li>
+				</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6dfab5af elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6dfab5af" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1afd2a2d" data-id="1afd2a2d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7d3c7037 elementor-widget elementor-widget-heading" data-id="7d3c7037" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Sản Phẩm Tương Tự</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5757e3b2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5757e3b2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6189edfb" data-id="6189edfb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ab48191 elementor-grid-6 elementor-grid-mobile-2 elementor-grid-tablet-2 elementor-posts--thumbnail-top elementor-widget elementor-widget-posts" data-id="ab48191" data-element_type="widget" data-settings="{&quot;classic_columns&quot;:&quot;6&quot;,&quot;classic_columns_mobile&quot;:&quot;2&quot;,&quot;classic_columns_tablet&quot;:&quot;2&quot;,&quot;classic_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;classic_row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;classic_row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="posts.classic">
+				<div class="elementor-widget-container">
+							<div class="elementor-posts-container elementor-posts elementor-posts--skin-classic elementor-grid">
+				<article class="elementor-post elementor-grid-item post-1218 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-500ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg" class="attachment-large size-large wp-image-619" alt="Bia Vina Sài Gòn Hồ Lô 500ml" srcset="/uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1024w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 300w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 150w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 768w, /uploads/Vina-SG-500ml-Ho-Lo-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/">
+				Bia Vina Sài Gòn Hồ Lô 500ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-ho-lo/" aria-label="Read more about Bia Vina Sài Gòn Hồ Lô 500ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1026 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-ben-thanh tag-bia-ben-thanh-sai-gon tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-555" alt="Bia Bến Thành Sài Gòn đỏ 900ml" srcset="/uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1024w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 300w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 150w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 768w, /uploads/ben-thanh-sai-gon-do-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/">
+				Bia Bến Thành Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-ben-thanh-sai-gon-do/" aria-label="Read more about Bia Bến Thành Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1057 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-do-900ml.jpg" class="attachment-large size-large wp-image-1058" alt="Bia Vina Sài Gòn Đỏ 900ml" srcset="/uploads/bia-vina-sai-gon-do-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-do-900ml.jpg 300w, /uploads/bia-vina-sai-gon-do-900ml.jpg 150w, /uploads/bia-vina-sai-gon-do-900ml.jpg 768w, /uploads/bia-vina-sai-gon-do-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/">
+				Bia Vina Sài Gòn Đỏ 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-do/" aria-label="Read more about Bia Vina Sài Gòn Đỏ 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1138 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-craft tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-craft/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-craft-900ml.jpg" class="attachment-large size-large wp-image-1139" alt="Bia Craft 900ml" srcset="/uploads/bia-craft-900ml.jpg 1024w, /uploads/bia-craft-900ml.jpg 300w, /uploads/bia-craft-900ml.jpg 150w, /uploads/bia-craft-900ml.jpg 768w, /uploads/bia-craft-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-craft/">
+				Bia Craft 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-craft/" aria-label="Read more about Bia Craft 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1145 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-naviken tag-bia-tuoi tag-bia-tuoi-truyen-thong">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-naviken/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/Naviken-900ml-nen-vang.jpg" class="attachment-large size-large wp-image-616" alt="Bia Naviken 900ml" srcset="/uploads/Naviken-900ml-nen-vang.jpg 1024w, /uploads/Naviken-900ml-nen-vang.jpg 300w, /uploads/Naviken-900ml-nen-vang.jpg 150w, /uploads/Naviken-900ml-nen-vang.jpg 768w, /uploads/Naviken-900ml-nen-vang.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-naviken/">
+				Bia Naviken 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-naviken/" aria-label="Read more about Bia Naviken 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				<article class="elementor-post elementor-grid-item post-1050 post type-post status-publish format-standard has-post-thumbnail hentry category-san-pham category-bia-tuoi tag-bia-900ml tag-bia-tuoi tag-bia-tuoi-truyen-thong tag-bia-vina-sai-gon">
+				<a class="elementor-post__thumbnail__link" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" tabindex="-1">
+			<div class="elementor-post__thumbnail"><img loading="lazy" decoding="async" width="800" height="800" src="/uploads/bia-vina-sai-gon-xanh-900ml.jpg" class="attachment-large size-large wp-image-1051" alt="Bia Vina Sài Gòn Xanh 900ml" srcset="/uploads/bia-vina-sai-gon-xanh-900ml.jpg 1024w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 300w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 150w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 768w, /uploads/bia-vina-sai-gon-xanh-900ml.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" /></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/">
+				Bia Vina Sài Gòn Xanh 900ml			</a>
+		</h3>
+		
+		<a class="elementor-post__read-more" href="https://hethongbiatuoi.com/bia-vina-sai-gon-xanh/" aria-label="Read more about Bia Vina Sài Gòn Xanh 900ml" tabindex="-1">
+			Xem chi tiết&gt;&gt;		</a>
+
+				</div>
+				</article>
+				</div>
+		
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4f16c492 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4f16c492" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-48030239" data-id="48030239" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2090cc64 elementor-widget elementor-widget-heading" data-id="2090cc64" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Xem thêm các sản phẩm khác</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-452664c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="452664c5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ca779f4" data-id="ca779f4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3d8751d4 elementor-align-center elementor-widget elementor-widget-button" data-id="3d8751d4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">ALL</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-26ddcbed" data-id="26ddcbed" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1cd55a07 elementor-align-center elementor-widget elementor-widget-button" data-id="1cd55a07" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-thap/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tháp</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7d32aa46" data-id="7d32aa46" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6dadeae5 elementor-align-center elementor-widget elementor-widget-button" data-id="6dadeae5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-tuoi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Tươi</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5837ff63" data-id="5837ff63" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6b6a5ca6 elementor-align-center elementor-widget elementor-widget-button" data-id="6b6a5ca6" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/bia-inox/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bia Inox</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-37ca92f3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="37ca92f3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4e9680ba" data-id="4e9680ba" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4cae4813 elementor-align-center elementor-widget elementor-widget-button" data-id="4cae4813" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-ben-thanh-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Bến Thành SG</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-138d0651" data-id="138d0651" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6a3e28a7 elementor-align-center elementor-widget elementor-widget-button" data-id="6a3e28a7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-vina-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Vina Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-40be20f elementor-hidden-phone" data-id="40be20f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-597ae07f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="597ae07f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-41a390e1" data-id="41a390e1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-475b7776 elementor-align-center elementor-widget elementor-widget-button" data-id="475b7776" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-hemsi-sai-gon/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Hemsi Sài Gòn</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-64a810bc" data-id="64a810bc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-289eb04c elementor-align-center elementor-widget elementor-widget-button" data-id="289eb04c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-naviken/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Naviken</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5dd86d6" data-id="5dd86d6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3f50d99b elementor-align-center elementor-widget elementor-widget-button" data-id="3f50d99b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/san-pham/thiet-bi/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Thiết bị</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6563641" data-id="6563641" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-18988371 elementor-align-center elementor-widget elementor-widget-button" data-id="18988371" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://hethongbiatuoi.com/tag/bia-craft/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Craft</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5dee3df1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dee3df1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1cd524b7" data-id="1cd524b7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4cd5b6e6 elementor-widget elementor-widget-image" data-id="4cd5b6e6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://hethongbiatuoi.com/lien-he/">
+							<img loading="lazy" decoding="async" width="1280" height="805" src="/uploads/banner-quang-cao-he-thong-bia-thap.jpg" class="attachment-full size-full wp-image-631" alt="Banner Quảng cáo Hệ thống bia tháp" srcset="/uploads/banner-quang-cao-he-thong-bia-thap.jpg 1280w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 300w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 1024w, /uploads/banner-quang-cao-he-thong-bia-thap.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3bdd6067 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3bdd6067" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-46ac5f8" data-id="46ac5f8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-bf91d23 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="bf91d23" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4e82b796 elementor-hidden-phone" data-id="4e82b796" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2d7c27a elementor-widget elementor-widget-spacer" data-id="2d7c27a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-36be1b8d" data-id="36be1b8d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5d80f23f elementor-widget elementor-widget-heading" data-id="5d80f23f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default">Hotline Đặt Bia</div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b9149de elementor-widget elementor-widget-heading" data-id="b9149de" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-heading-title elementor-size-default"><a href="tel:%200963%20447%20890">0963 447 890</a></div>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		' WHERE slug = 'bia-ben-thanh-sai-gon-ong-gia';
+UPDATE Post SET content = '
+<p><strong><em>Phố đi bộ Bùi Viện</em></strong>,&nbsp;điểm du lịch về đêm ở Sài Gòn, là địa điểm lý tưởng cho khách Tây và giới trẻ Sài Gòn tìm đến ăn uống, dạo chơi mỗi khi xuống phố.</p>
+
+
+
+<p>Đường Bùi Viện được gọi là “Phố Tây” (Phố Tây) để chỉ những nét văn hóa phương Tây.&nbsp;Trước khi trở thành phố đi bộ, đường Bùi Viện đã tấp nập du khách ba lô đến đây để vui chơi, thử những món ăn lạ và khám phá một địa điểm mới trong chuyến du lịch Sài Gòn.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="/uploads/pho-di-bo-bui-vien-1.jpg" alt="Phố đi bộ đường Bùi Viện" class="wp-image-1535" srcset="/uploads/pho-di-bo-bui-vien-1.jpg 1024w, /uploads/pho-di-bo-bui-vien-1.jpg 300w, /uploads/pho-di-bo-bui-vien-1.jpg 768w, /uploads/pho-di-bo-bui-vien-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Phố đi bộ đường Bùi Viện</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading"><strong>Phố đi bộ Bùi Viện</strong></h2>
+
+
+
+<p>Phố đi bộ Bùi Viện là điểm đến của du khách nước ngoài và thế hệ trẻ Sài Gòn khi màn đêm buông xuống, trở thành con phố đa sắc tộc đông đúc với du khách từ khắp nơi trên thế giới.&nbsp;Phố đi bộ này nhằm đa dạng hóa các loại hình hoạt động vui chơi giải trí về đêm cho du khách và người dân, âm nhạc sôi động, beer and food đa dạng và các dịch vụ gia tăng đi theo du khách.&nbsp;</p>
+
+
+
+<p>Tham khảo kênh <strong><a href="https://www.tiktok.com/@phodibobuivien" target="_blank" rel="noreferrer noopener">TikTok Phố đi bộ Bùi Viện</a></strong>: <a href="https://www.tiktok.com/@phodibobuivien" target="_blank" rel="noreferrer noopener">https://www.tiktok.com/@phodibobuivien</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="/uploads/cong-pho-di-bo-bui-vien-sai-gon.jpg" alt="Cổng phố đi bộ Bùi Viện Sài Gòn" class="wp-image-1538" srcset="/uploads/cong-pho-di-bo-bui-vien-sai-gon.jpg 1024w, /uploads/cong-pho-di-bo-bui-vien-sai-gon.jpg 300w, /uploads/cong-pho-di-bo-bui-vien-sai-gon.jpg 768w, /uploads/cong-pho-di-bo-bui-vien-sai-gon.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Cổng phố đi bộ Bùi Viện Sài Gòn đầu đường Đề Thám &#8211; Bùi Viện</figcaption></figure>
+
+
+
+<p>Tại đây sẽ có các chương trình biểu diễn nghệ thuật đường phố, âm nhạc dân tộc và đương đại, đáp ứng nhu cầu tinh thần của công chúng và tạo điều kiện giao lưu với bạn bè nước ngoài và hội nhập văn hóa thế giới.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong>&nbsp;Đường Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, TP.HCM&nbsp;\</li>
+
+
+
+<li><strong>Google Maps</strong>: <a href="https://goo.gl/maps/3rYzwEPM9nN3dz1f6" target="_blank" rel="noreferrer noopener">https://goo.gl/maps/3rYzwEPM9nN3dz1f6</a></li>
+</ul>
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6301.508259095526!2d106.69109932396518!3d10.767206556195683!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f1614f5a737%3A0x89a63504ba600647!2zQsO5aSBWaeG7h24sIFBo4bqhbSBOZ8WpIEzDo28sIFF14bqtbiAxLCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZpZXRuYW0!5e0!3m2!1sen!2sus!4v1670417605728!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="682" src="/uploads/outside-LuaDaiViet-BuiVien-restaurant.jpg" alt="nha hang Bui Vien - Restaurant" class="wp-image-1566" srcset="/uploads/outside-LuaDaiViet-BuiVien-restaurant.jpg 1024w, /uploads/outside-LuaDaiViet-BuiVien-restaurant.jpg 300w, /uploads/outside-LuaDaiViet-BuiVien-restaurant.jpg 768w, /uploads/outside-LuaDaiViet-BuiVien-restaurant.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2 class="wp-block-heading">Những quán cà phê đường Bùi Viện</h2>
+
+
+
+<p>Là một Phố Tây của Sài Gòn, nhiều người tin rằng Bùi Viện phải có nhịp sống nhanh, một vài quán bar nhộn nhịp và quán rượu ồn ào.&nbsp;Dù thế nào đi nữa, giữa sự ồn ào dường như bất tận đó, có vô số quán cà phê ẩn mình trong một con hẻm vắng, ồn ào, chờ đợi để được khám phá.</p>
+
+
+
+<p>Những địa điểm này mang đến cho bạn mọi cơ hội để tìm một nơi vắng vẻ để tận hưởng sự cô độc, lặng lẽ lắng nghe những âm thanh nhẹ nhàng của Sài Gòn hay đơn giản là đọc một cuốn sách, viết tự do và suy ngẫm về những sự kiện đã qua.&nbsp;</p>
+
+
+
+<p><strong>Địa điểm được đề xuất:&nbsp;</strong></p>
+
+
+
+<h3 class="wp-block-heading">Cà phê Cộng (đã đóng cửa sau dịch Covid 19 giờ là Phụ kiện điện thoại &#8211; Capcuulaptop &#8211; Capcuudidong )</h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí</strong>: 127-129 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 70000 Việt Nam</li>
+
+
+
+<li><strong>Giờ mở cửa:</strong>&nbsp;07:00 sáng 02:00 sáng&nbsp;</li>
+
+
+
+<li><strong>Điện thoại:</strong>&nbsp;+84 911 811 145</li>
+
+
+
+<li><strong>Khoảng giá:</strong>&nbsp;35.000đ – 100.000đ</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Tiệm cà phê Đông Dương</h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong>&nbsp;101 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 70000 Việt Nam</li>
+
+
+
+<li><strong>Giờ mở cửa:</strong>&nbsp;08:00 AM 9:00 PM</li>
+
+
+
+<li><strong>Điện thoại:</strong>&nbsp;+84 862 706 716</li>
+
+
+
+<li><strong>Khoảng giá:</strong>&nbsp;35.000 ₫ 50.000 ₫</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Vua cà phê</h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong>&nbsp;203 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, TP.HCM&nbsp;&nbsp;</li>
+
+
+
+<li><strong>Giờ mở cửa:</strong>&nbsp;08:00 sáng 12:00 sáng</li>
+
+
+
+<li><strong>Điện thoại:</strong>&nbsp;+84 2836 361 023&nbsp;</li>
+
+
+
+<li><strong>Khoảng giá:</strong>&nbsp;29.000 ₫ 100.000 ₫</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Quán bar đường Bùi Viện</h2>
+
+
+
+<p>Mang danh là <a href="https://buivien.net" target="_blank" rel="noopener">phố Tây, Bùi Viện</a> còn mang đậm chất Tây về đêm sôi động với hàng loạt pub, bar độc đáo, sôi động. Con đường này còn được mệnh danh là con đường sang chảnh “không bao giờ ngủ” nhất Sài Gòn với ánh đèn lung linh.</p>
+
+
+
+<p>Đội ngũ DJ của quán luôn cháy hết mình để tạo ra những bản remix hay nhất trên nền nhạc EDM đặc trưng của Việt Nam, Vinahouse.&nbsp;Dù thường xuyên đông đúc nhưng các quán bar ở phố Bùi Viện luôn cố gắng duy trì chất lượng phục vụ tốt.&nbsp;</p>
+
+
+
+<p><strong>Địa điểm gợi ý:</strong></p>
+
+
+
+<p>Go2 Bar, Booheem, 68 Phố Tây, Miss Sài Gòn, Vocalno, Light Pub, Saharah, Station nhạc rocks, Hideway nhạc Lamenco&#8230;</p>
+
+
+
+<h3 class="wp-block-heading">Câu lạc bộ bia Sahara</h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong>&nbsp;113 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 70000 Việt Nam</li>
+
+
+
+<li><strong>Giờ mở cửa:</strong>&nbsp;6:00 chiều 00:00 sáng</li>
+
+
+
+<li><strong>ĐT:</strong>&nbsp;+84 902 006 394</li>
+
+
+
+<li><strong>Mức giá:</strong>&nbsp;50.000 ₫ &#8211; 700.000 ₫</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Cơm văn phòng Lúa</h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong>&nbsp;40/9 Bùi Viện.&nbsp;Phường Phạm Ngũ Lão.&nbsp;Quận 1, TP.HCM&nbsp;&nbsp;</li>
+
+
+
+<li><strong>Giờ mở cửa:</strong>&nbsp;07:00 sáng 01:00 sáng</li>
+
+
+
+<li><strong>Điện thoại:</strong>&nbsp;</li>
+
+
+
+<li><strong>Mức giá:</strong>&nbsp;35.000 ₫ 50.000 ₫</li>
+
+
+
+<li>Cơm Việt Nam đủ các loại cá kho chiên, thịt kho trứng, món canh, món xào</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Quán bar trên sân thượng View</h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong>&nbsp;195 Bùi Viện.&nbsp;Phường Phạm Ngũ Lão.&nbsp;Quận 1 Lầu 9 Khách sạn Đức Vượng, TP.HCM&nbsp;&nbsp;</li>
+
+
+
+<li><strong>Giờ mở cửa:</strong>&nbsp;09:00 sáng 01:00 sáng</li>
+
+
+
+<li><strong>Điện thoại:</strong>&nbsp;+84 936 363 505</li>
+
+
+
+<li><strong>Mức giá:</strong>&nbsp;35.000 ₫ 300.000 ₫</li>
+
+
+
+<li></li>
+
+
+
+<li>Ăn uống ở phố Bùi Viện&nbsp;</li>
+</ul>
+
+
+
+<p>Nhiều nhà hàng, quán ăn&nbsp;mọc lên ở đường Bùi Viện từ cao cấp đến bình dân, tạo nên một nền ẩm thực phong phú đa dạng với nhiều món ăn không thể bỏ qua mỗi khi có dịp.&nbsp;Các quầy thức ăn Thức ăn đường phố ở đây khá phổ biến.</p>
+
+
+
+<p>Nếu phần lớn ở con phố phương Tây này chọn uống <a href="https://hethongbiatuoi.com/" target="_blank" rel="noreferrer noopener">bia</a>, thì một số lại chọn sinh tố kết hợp giữa trái cây miếng dày, sữa, kem và sữa chua.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="/uploads/xem-bong-da-tai-lua-dai-viet.jpg" alt="Xem bóng đá trước nhà hàng Lúa Đại Việt" class="wp-image-1536" srcset="/uploads/xem-bong-da-tai-lua-dai-viet.jpg 1024w, /uploads/xem-bong-da-tai-lua-dai-viet.jpg 300w, /uploads/xem-bong-da-tai-lua-dai-viet.jpg 768w, /uploads/xem-bong-da-tai-lua-dai-viet.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Xem bóng đá trực tiếp trước nhà hàng Lúa Đại Việt</figcaption></figure>
+
+
+
+<p>Những món ăn phong phú như vậy, tôi tin rằng, có thể đáp ứng mọi khẩu vị cho dù bạn là người rất kén ăn và khó tính trong ăn uống.&nbsp;Một số địa điểm được đề xuất như sau và tôi hy vọng rằng những chia sẻ của tôi có thể hướng dẫn bạn đến các quán ăn mà bạn nên đến.</p>
+
+
+
+<p>►&nbsp;<strong>Địa điểm gợi ý:&nbsp;</strong></p>
+
+
+
+<h3 class="wp-block-heading">Lúa Đại Việt &#8211; Bui Vien restaurant</h3>
+
+
+
+<p>Nhà hàng Việt Nam chuyên phục vụ các món đặc sản Việt Nam ngay ngã 4 Đề Thám &#8211; Bùi Viện, trung tâm Quận 1. Đặc biệt với các món hải sản tươi ngon hấp dẫn, hồ hải sản tươi sống, 3 tầng lầu đáp ứng nhu cầu nhóm khách lớn.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="683" height="1024" src="/uploads/Seafood-Pho-LuaDaiViet.jpg" alt="nhân viên lễ tân nhà hàng" class="wp-image-1571" srcset="/uploads/Seafood-Pho-LuaDaiViet.jpg 683w, /uploads/Seafood-Pho-LuaDaiViet.jpg 200w, /uploads/Seafood-Pho-LuaDaiViet.jpg 768w, /uploads/Seafood-Pho-LuaDaiViet.jpg 1024w, /uploads/Seafood-Pho-LuaDaiViet.jpg 1280w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+
+
+
+<p>Nhân viên lễ tân của nhà hàng trong trang phục hoàng cung gợi nhớ ký ức một triều đại, thu hút du khách khi đến với Bùi Viện nightlife</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="/uploads/hai-san-o-nha-hang-lua-dai-viet.jpg" alt="Hải sản ở nhà hàng Lúa Đại Việt" class="wp-image-1537" srcset="/uploads/hai-san-o-nha-hang-lua-dai-viet.jpg 1024w, /uploads/hai-san-o-nha-hang-lua-dai-viet.jpg 300w, /uploads/hai-san-o-nha-hang-lua-dai-viet.jpg 768w, /uploads/hai-san-o-nha-hang-lua-dai-viet.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Hải sản ở nhà hàng Lúa Đại Việt &#8211; Món tôm hùm salad</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="/uploads/oc-gai.jpg" alt="Ốc gai - nhà hàng hải sản Sen Lúa" class="wp-image-1567" srcset="/uploads/oc-gai.jpg 1024w, /uploads/oc-gai.jpg 300w, /uploads/oc-gai.jpg 768w, /uploads/oc-gai.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Món ốc gai ngon lạ miệng làm gỏi Thái hay xào lá quế mang lại trải nghiệm thú vị</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="/uploads/haisantuoisong-LuaDaiViet.jpeg" alt="Hải sản tươi sống" class="wp-image-1542" srcset="/uploads/haisantuoisong-LuaDaiViet.jpeg 1024w, /uploads/haisantuoisong-LuaDaiViet.jpeg 300w, /uploads/haisantuoisong-LuaDaiViet.jpeg 768w, /uploads/haisantuoisong-LuaDaiViet.jpeg 1536w, /uploads/haisantuoisong-LuaDaiViet.jpeg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Đa dạng các loại hải sản tươi sống ở LuaDaiViet Restaurant</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="1024" src="/uploads/combo-haisan-LuaDaiDaiViet.jpg" alt="Combo seafood tôm cua mì ý" class="wp-image-1543" srcset="/uploads/combo-haisan-LuaDaiDaiViet.jpg 1024w, /uploads/combo-haisan-LuaDaiDaiViet.jpg 300w, /uploads/combo-haisan-LuaDaiDaiViet.jpg 150w, /uploads/combo-haisan-LuaDaiDaiViet.jpg 768w, /uploads/combo-haisan-LuaDaiDaiViet.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>Combo seafood Cua, Tôm, mì Ý rất hấp dẫn cho gia đình và nhóm bạn ở nhà hàng Lúa.</em></figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="/uploads/Nhahanghaisan-BuiVien-LuaDaiViet-Q1.jpg" alt="" class="wp-image-1548" srcset="/uploads/Nhahanghaisan-BuiVien-LuaDaiViet-Q1.jpg 1024w, /uploads/Nhahanghaisan-BuiVien-LuaDaiViet-Q1.jpg 300w, /uploads/Nhahanghaisan-BuiVien-LuaDaiViet-Q1.jpg 768w, /uploads/Nhahanghaisan-BuiVien-LuaDaiViet-Q1.jpg 1536w, /uploads/Nhahanghaisan-BuiVien-LuaDaiViet-Q1.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Món ốc hương cháy tỏi ở Lúa Đại Việt seafood</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="/uploads/Seafood-restaurant-near-BuiVien-DeTham.jpg" alt="Lua Dai Viet restaurant near Bui Vien - De Tham ,Quan 1, Ho Chi Minh city" class="wp-image-1550" srcset="/uploads/Seafood-restaurant-near-BuiVien-DeTham.jpg 1024w, /uploads/Seafood-restaurant-near-BuiVien-DeTham.jpg 300w, /uploads/Seafood-restaurant-near-BuiVien-DeTham.jpg 768w, /uploads/Seafood-restaurant-near-BuiVien-DeTham.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>Lua Dai Viet Restaurant near Bui Vien &#8211; De Tham street</em></figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" src="/uploads/bentrong-nhahang-LuaDaiViet-Q1-BuiVien.jpg" alt="Không gian nhà hàng Lúa Đại Việt, Quận 1, TpHCM" class="wp-image-1551" srcset="/uploads/bentrong-nhahang-LuaDaiViet-Q1-BuiVien.jpg 768w, /uploads/bentrong-nhahang-LuaDaiViet-Q1-BuiVien.jpg 225w, /uploads/bentrong-nhahang-LuaDaiViet-Q1-BuiVien.jpg 1152w, /uploads/bentrong-nhahang-LuaDaiViet-Q1-BuiVien.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption"><em>Không gian bên trong nhà hàng Lúa Đại Việt tại ngã 4 Đề Thám &#8211; Bùi Viện, Quận 1, Tp.HCM</em></figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="/uploads/Restaurant-seafood-near-BuiVien-DeTham.jpg" alt="Seafood Lua Dai Viet" class="wp-image-1552" srcset="/uploads/Restaurant-seafood-near-BuiVien-DeTham.jpg 1024w, /uploads/Restaurant-seafood-near-BuiVien-DeTham.jpg 300w, /uploads/Restaurant-seafood-near-BuiVien-DeTham.jpg 768w, /uploads/Restaurant-seafood-near-BuiVien-DeTham.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption"><em>Sò điệp phô mai ở Lúa Đại Việt seafood</em></figcaption></figure>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong>&nbsp;189 &#8211; 191 &#8211; 193 Đề Thám, Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 70000 Việt Nam</li>
+
+
+
+<li><strong>Google Maps</strong>: <a href="https://goo.gl/maps/GbQfqYqBEiDgiNjK6" target="_blank" rel="noreferrer noopener">https://goo.gl/maps/GbQfqYqBEiDgiNjK6</a></li>
+
+
+
+<li>Điện thoại: <a href="call:0326882441" data-type="URL" data-id="call:0326882441">0326882441</a></li>
+
+
+
+<li><strong>Món ăn chính:</strong>&nbsp;Hải sản, món đặc sản Việt Nam</li>
+
+
+
+<li><strong>Mức giá:</strong> 39.000 ₫ &#8211; 199.000 ₫</li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<h3 class="wp-block-heading">Nhà hàng Sen Đại Việt &#8211; Seafood &#8211; Phở</h3>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="/uploads/SenDaiViet-BuiVien-restaurant.jpg" alt="" class="wp-image-1565" srcset="/uploads/SenDaiViet-BuiVien-restaurant.jpg 1024w, /uploads/SenDaiViet-BuiVien-restaurant.jpg 300w, /uploads/SenDaiViet-BuiVien-restaurant.jpg 768w, /uploads/SenDaiViet-BuiVien-restaurant.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="/uploads/cua-SenLuaBien-Oc-DaiViet.jpg" alt="món cua trứ danh Cà Mau" class="wp-image-1570" srcset="/uploads/cua-SenLuaBien-Oc-DaiViet.jpg 1024w, /uploads/cua-SenLuaBien-Oc-DaiViet.jpg 300w, /uploads/cua-SenLuaBien-Oc-DaiViet.jpg 768w, /uploads/cua-SenLuaBien-Oc-DaiViet.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Món cua Cà Mau được chế biến từ đơn giản đến cầu kỳ mang lại trải nghiệm ẩm thực mới lạ cho du khách đến với Sài Gòn như luộc, hấp, cháy tỏi, bơ tỏi thơm lừng&#8230;</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong> 226-228 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, TP.HCM  </li>
+
+
+
+<li><strong>Món ăn chính: Món ăn </strong>truyền thống Việt Nam &#8211; Hải sản tươi sống</li>
+
+
+
+<li><strong>Giờ mở cửa:</strong> 24/7</li>
+
+
+
+<li><strong>Điện thoại:</strong> <a href="call: 0902344455" data-type="URL" data-id="call: 0902344455">090 234 44 55</a></li>
+
+
+
+<li><strong>Khoảng giá:</strong> 39000 ₫ &#8211; 1.000.000 ₫</li>
+
+
+
+<li>Google map: <a href="https://goo.gl/maps/8wk9ZPg8LULry6cJ6" target="_blank" rel="noopener">https://goo.gl/maps/8wk9ZPg8LULry6cJ6</a></li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Nhà hàng Garlik Đề Thám</h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong>&nbsp;216 Đề Thám, Phường Phạm Ngũ Lão, Quận 1, TP.HCM&nbsp;&nbsp;</li>
+
+
+
+<li><strong>Món ăn chính: Món ăn&nbsp;</strong>truyền thống Việt Nam</li>
+
+
+
+<li><strong>Giờ mở cửa:</strong>&nbsp;08:00 sáng 10:00 tối</li>
+
+
+
+<li><strong>Điện thoại:</strong>&nbsp;+84 8 3838 5665</li>
+
+
+
+<li><strong>Khoảng giá:</strong>&nbsp;120.000 ₫ &#8211; 1.000.000 ₫</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">La Casa</h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong>&nbsp;40A Bùi Viện, phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 70000 Việt Nam</li>
+
+
+
+<li><strong>Thức ăn chính:</strong>&nbsp;Quán rượu Đồ ăn Mexico, Tây Ban Nha, Ý hoặc Thái Lan</li>
+
+
+
+<li><strong>Giờ mở cửa:</strong>&nbsp;12:00 sáng 11:59 tối</li>
+
+
+
+<li><strong>Điện thoại:</strong>&nbsp;+84 28 3920 9749</li>
+
+
+
+<li><strong>Mức giá:</strong>&nbsp;35.000 ₫ &#8211; 275.000 ₫</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Bia Bùi Viện</h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Vị trí:</strong>&nbsp;71 Bùi Viện, phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh 70000 Việt Nam</li>
+
+
+
+<li><strong>Giờ mở cửa:</strong>&nbsp;09:00 sáng 10:00 tối</li>
+
+
+
+<li><strong>Khoảng giá:</strong>&nbsp;25.000 ₫ &#8211; 110.000 ₫</li>
+</ul>
+' WHERE slug = 'pho-di-bo-bui-vien';

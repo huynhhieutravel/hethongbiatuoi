@@ -1,0 +1,135 @@
+
+ ⛅️ wrangler 4.105.0
+────────────────────
+Resource location: local 
+
+Use --remote if you want to access the remote instance.
+
+🌀 Executing on local database hethongbiatuoi-db (ffed0970-adc2-4f02-87a6-770b7ca2170f) from .wrangler/state/v3/d1:
+🌀 To execute on your remote database, add a --remote flag to your wrangler command.
+🚣 1 command executed successfully.
+[
+  {
+    "results": [
+      {
+        "id": 3,
+        "title": "Chính sách bảo mật Tháp Bia",
+        "type": "page"
+      },
+      {
+        "id": 47,
+        "title": "Hệ Thống Bia Tươi Sài Gòn",
+        "type": "page"
+      },
+      {
+        "id": 165,
+        "title": "Đánh giá khách hàng về Hệ Thống Bia Tháp",
+        "type": "page"
+      },
+      {
+        "id": 764,
+        "title": "Liên Hệ",
+        "type": "page"
+      },
+      {
+        "id": 896,
+        "title": "Bia Tháp 3 Lít",
+        "type": "post"
+      },
+      {
+        "id": 950,
+        "title": "Bia Inox 1 Lít &#8211; Bia Tươi",
+        "type": "post"
+      },
+      {
+        "id": 957,
+        "title": "Bia Bến Thành Sài Gòn Xanh 900ml",
+        "type": "post"
+      },
+      {
+        "id": 965,
+        "title": "Bia Bến Thành Sài Gòn Vàng 900ml",
+        "type": "post"
+      },
+      {
+        "id": 1014,
+        "title": "Bia Vina Sài Gòn Đen 900ml",
+        "type": "post"
+      },
+      {
+        "id": 1026,
+        "title": "Bia Bến Thành Sài Gòn Đỏ 900ml",
+        "type": "post"
+      },
+      {
+        "id": 1034,
+        "title": "Bia Bến Thành Sài Gòn 400ml &#8211; Xanh",
+        "type": "post"
+      },
+      {
+        "id": 1041,
+        "title": "Bia Vina Sài Gòn 1100ml",
+        "type": "post"
+      },
+      {
+        "id": 1050,
+        "title": "Bia Vina Sài Gòn Xanh 900ml",
+        "type": "post"
+      },
+      {
+        "id": 1057,
+        "title": "Bia Vina Sài Gòn Đỏ 900ml",
+        "type": "post"
+      },
+      {
+        "id": 1065,
+        "title": "Bia Vina Sài Gòn 400ml Xanh",
+        "type": "post"
+      },
+      {
+        "id": 1076,
+        "title": "Bia Vina Sài Gòn 400ml Đỏ",
+        "type": "post"
+      },
+      {
+        "id": 1138,
+        "title": "Bia Craft 900ml",
+        "type": "post"
+      },
+      {
+        "id": 1145,
+        "title": "Bia Naviken 900ml",
+        "type": "post"
+      },
+      {
+        "id": 1155,
+        "title": "Bia Hemsi Sài Gòn 1000ml",
+        "type": "post"
+      },
+      {
+        "id": 1167,
+        "title": "Tủ Lạnh Chuyên Dụng",
+        "type": "post"
+      },
+      {
+        "id": 1218,
+        "title": "Bia Vina Sài Gòn Hồ Lô 500ml",
+        "type": "post"
+      },
+      {
+        "id": 1276,
+        "title": "Bia Bến Thành Sài Gòn Ông Già 900ml",
+        "type": "post"
+      },
+      {
+        "id": 1517,
+        "title": "Những hoạt động thú vị ở phố Bùi Viện",
+        "type": "post"
+      }
+    ],
+    "success": true,
+    "meta": {
+      "duration": 1
+    }
+  }
+]

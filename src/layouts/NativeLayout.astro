@@ -1,0 +1,43 @@
+---
+import { ClientRouter } from 'astro:transitions';
+import HeaderSolid from '../components/HeaderSolid.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+export interface Props {
+	title: string;
+    description?: string;
+}
+
+const { title, description = "Hệ thống nhà hàng bia tươi uy tín, chất lượng." } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="vi">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content={description}>
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" href="/proxy-cors/wp-content/uploads/2021/02/he-thong-bia-thap-vina-bia-logo-150x150.png" sizes="32x32" />
+		<link rel="icon" href="/proxy-cors/wp-content/uploads/2021/02/he-thong-bia-thap-vina-bia-logo.png" sizes="192x192" />
+		<link rel="apple-touch-icon" href="/proxy-cors/wp-content/uploads/2021/02/he-thong-bia-thap-vina-bia-logo.png" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+        
+        <!-- FontAwesome for Icons -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+	</head>
+	<body class="bg-zinc-50 min-h-screen flex flex-col font-sans text-zinc-900 antialiased selection:bg-red-200 selection:text-red-900">
+		<HeaderSolid />
+        
+		<main class="flex-grow">
+			<slot />
+		</main>
+
+		<Footer />
+        
+        <script is:inline>
+            // Ensure search modal script works
+        </script>
+	</body>
+</html>

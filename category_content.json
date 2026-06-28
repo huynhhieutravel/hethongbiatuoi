@@ -1,0 +1,23 @@
+
+ ⛅️ wrangler 4.105.0
+────────────────────
+Resource location: local 
+
+Use --remote if you want to access the remote instance.
+
+🌀 Executing on local database hethongbiatuoi-db (ffed0970-adc2-4f02-87a6-770b7ca2170f) from .wrangler/state/v3/d1:
+🌀 To execute on your remote database, add a --remote flag to your wrangler command.
+🚣 1 command executed successfully.
+[
+  {
+    "results": [
+      {
+        "description": "Bia Tươi của Hệ Thống Bia Tháp"
+      }
+    ],
+    "success": true,
+    "meta": {
+      "duration": 0
+    }
+  }
+]

@@ -1,0 +1,152 @@
+---
+const currentPath = Astro.url.pathname;
+const isActive = (path) => currentPath === path || (path !== '/' && currentPath.startsWith(path));
+---
+
+<header class="fixed top-0 left-0 w-full z-50 bg-white/80 backdrop-blur-xl border-b border-zinc-200/50 transition-all duration-300 shadow-[0_4px_30px_rgba(0,0,0,0.02)]">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-20">
+            
+            <!-- Left: Logo -->
+            <div class="flex-shrink-0 flex items-center">
+            <!-- Logo -->
+            <a href="/" class="flex items-center gap-4 group">
+                <img src="/proxy-cors/wp-content/uploads/2021/02/cropped-he-thong-bia-thap-vina-bia-logo-1-300x300.png" alt="Hệ Thống Bia Tháp Logo" class="object-contain transition-transform group-hover:scale-105" style="max-height: 55px !important; width: auto !important;" />
+                <div class="hidden sm:block">
+                    <div class="text-sm font-black text-zinc-900 uppercase tracking-widest leading-none mb-1">Hệ Thống</div>
+                    <div class="text-xs font-bold text-red-600 uppercase tracking-widest leading-none">Bia Tháp</div>
+                </div>
+            </a>
+            </div>
+
+            <!-- Center: Navigation (Desktop) -->
+            <nav class="hidden md:flex items-center space-x-1 lg:space-x-2">
+                <a href="/" class={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${isActive('/') ? 'bg-zinc-100 text-zinc-900' : 'text-zinc-600 hover:text-zinc-900 hover:bg-zinc-50'}`}>Trang chủ</a>
+                
+                <!-- Dropdown -->
+                <div class="relative group">
+                    <a href="/san-pham/" class={`flex items-center px-4 py-2 rounded-full text-sm font-medium transition-colors ${isActive('/san-pham/') ? 'bg-zinc-100 text-zinc-900' : 'text-zinc-600 hover:text-zinc-900 hover:bg-zinc-50'}`}>
+                        Sản Phẩm <i class="fas fa-chevron-down ml-2 text-[10px] opacity-50 group-hover:opacity-100 transition-transform group-hover:rotate-180"></i>
+                    </a>
+                    
+                    <!-- Dropdown Menu -->
+                    <div class="absolute top-full left-0 mt-2 w-48 opacity-0 invisible group-hover:opacity-100 group-hover:visible translate-y-2 group-hover:translate-y-0 transition-all duration-300 z-50">
+                        <div class="bg-white border border-zinc-200/50 rounded-2xl shadow-xl py-2 backdrop-blur-xl">
+                            <a href="/san-pham/bia-tuoi/" class="block px-5 py-2.5 text-sm text-zinc-600 hover:text-red-600 hover:bg-red-50 transition-colors">Bia Tươi</a>
+                            <a href="/san-pham/bia-thap/" class="block px-5 py-2.5 text-sm text-zinc-600 hover:text-red-600 hover:bg-red-50 transition-colors">Bia Tháp</a>
+                            <a href="/san-pham/bia-inox/" class="block px-5 py-2.5 text-sm text-zinc-600 hover:text-red-600 hover:bg-red-50 transition-colors">Bia Inox</a>
+                            <a href="/san-pham/thiet-bi/" class="block px-5 py-2.5 text-sm text-zinc-600 hover:text-red-600 hover:bg-red-50 transition-colors">Thiết Bị</a>
+                        </div>
+                    </div>
+                </div>
+
+                <a href="/danh-gia-khach-hang/" class={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${isActive('/danh-gia-khach-hang/') ? 'bg-zinc-100 text-zinc-900' : 'text-zinc-600 hover:text-zinc-900 hover:bg-zinc-50'}`}>Đánh giá</a>
+                <a href="/chinh-sach-bao-mat/" class={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${isActive('/chinh-sach-bao-mat/') ? 'bg-zinc-100 text-zinc-900' : 'text-zinc-600 hover:text-zinc-900 hover:bg-zinc-50'}`}>Chính sách</a>
+                <a href="/lien-he/" class={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${isActive('/lien-he/') ? 'bg-zinc-100 text-zinc-900' : 'text-zinc-600 hover:text-zinc-900 hover:bg-zinc-50'}`}>Liên Hệ</a>
+            </nav>
+
+            <!-- Right: Actions -->
+            <div class="hidden md:flex items-center gap-4">
+                <button class="w-10 h-10 flex items-center justify-center rounded-full bg-red-50 text-red-600 hover:bg-red-100 transition-colors" aria-label="Tìm kiếm">
+                    <i class="fas fa-search"></i>
+                </button>
+                <a href="tel:0963447890" class="flex items-center gap-2 px-6 py-2.5 bg-red-600 text-white hover:bg-red-700 rounded-full font-bold text-sm transition-all shadow-[0_0_15px_rgba(220,38,38,0.5)] hover:shadow-[0_0_25px_rgba(220,38,38,0.7)] hover:-translate-y-0.5 animate-pulse-slow relative overflow-hidden group">
+                    <!-- Shine effect -->
+                    <div class="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/40 to-transparent group-hover:animate-shine"></div>
+                    <i class="fas fa-phone-alt animate-bounce-slight"></i> 0963 447 890
+                </a>
+            </div>
+
+            <!-- Mobile Menu Button -->
+            <div class="md:hidden flex items-center">
+                <button type="button" id="mobile-menu-btn" class="text-zinc-600 hover:text-zinc-900 focus:outline-none p-2 relative z-[60]">
+                    <i class="fas fa-bars text-xl transition-transform duration-300"></i>
+                </button>
+            </div>
+            
+        </div>
+    </div>
+</header>
+
+<!-- Spacer to prevent content from going under fixed header -->
+<div class="h-20 w-full"></div>
+
+<!-- Mobile Menu Overlay -->
+<div id="mobile-menu-overlay" class="fixed inset-0 bg-black/50 z-40 opacity-0 pointer-events-none transition-opacity duration-300 md:hidden"></div>
+<div id="mobile-menu-drawer" class="fixed top-0 right-0 h-full w-4/5 max-w-sm bg-white shadow-2xl z-50 translate-x-full transition-transform duration-300 md:hidden flex flex-col">
+    <!-- Header part inside drawer -->
+    <div class="flex items-center justify-between p-6 border-b border-zinc-100">
+        <span class="font-black text-red-600 tracking-widest uppercase">Menu</span>
+        <button id="mobile-menu-close" class="text-zinc-400 hover:text-zinc-900">
+            <i class="fas fa-times text-xl"></i>
+        </button>
+    </div>
+    
+    <!-- Mobile Links -->
+    <div class="flex-grow overflow-y-auto p-6 flex flex-col gap-4">
+        <a href="/" class="text-lg font-medium text-zinc-900">Trang chủ</a>
+        
+        <div class="flex flex-col gap-2">
+            <div class="text-lg font-medium text-zinc-900 border-b border-zinc-100 pb-2">Sản Phẩm</div>
+            <a href="/san-pham/bia-tuoi/" class="text-zinc-600 pl-4 py-2 hover:text-red-600">- Bia Tươi</a>
+            <a href="/san-pham/bia-thap/" class="text-zinc-600 pl-4 py-2 hover:text-red-600">- Bia Tháp</a>
+            <a href="/san-pham/bia-inox/" class="text-zinc-600 pl-4 py-2 hover:text-red-600">- Bia Inox</a>
+            <a href="/san-pham/thiet-bi/" class="text-zinc-600 pl-4 py-2 hover:text-red-600">- Thiết Bị</a>
+        </div>
+        
+        <a href="/danh-gia-khach-hang/" class="text-lg font-medium text-zinc-900">Đánh giá</a>
+        <a href="/chinh-sach-bao-mat/" class="text-lg font-medium text-zinc-900">Chính sách</a>
+        <a href="/lien-he/" class="text-lg font-medium text-zinc-900">Liên Hệ</a>
+    </div>
+    
+    <!-- Bottom CTA in drawer -->
+    <div class="p-6 border-t border-zinc-100 bg-zinc-50">
+        <a href="tel:0963447890" class="flex items-center justify-center gap-2 w-full py-3 bg-red-600 text-white rounded-xl font-bold shadow-lg shadow-red-600/30">
+            <i class="fas fa-phone-alt"></i> 0963 447 890
+        </a>
+    </div>
+</div>
+
+<script is:inline>
+    document.addEventListener('DOMContentLoaded', () => {
+        const btn = document.getElementById('mobile-menu-btn');
+        const closeBtn = document.getElementById('mobile-menu-close');
+        const overlay = document.getElementById('mobile-menu-overlay');
+        const drawer = document.getElementById('mobile-menu-drawer');
+        const icon = btn.querySelector('i');
+
+        function toggleMenu() {
+            const isOpen = drawer.classList.contains('translate-x-0');
+            
+            if (isOpen) {
+                // Close menu
+                drawer.classList.remove('translate-x-0');
+                drawer.classList.add('translate-x-full');
+                overlay.classList.remove('opacity-100');
+                overlay.classList.add('opacity-0', 'pointer-events-none');
+                
+                // Change icon back to bars
+                icon.classList.remove('fa-times');
+                icon.classList.add('fa-bars');
+                document.body.style.overflow = '';
+            } else {
+                // Open menu
+                drawer.classList.remove('translate-x-full');
+                drawer.classList.add('translate-x-0');
+                overlay.classList.remove('opacity-0', 'pointer-events-none');
+                overlay.classList.add('opacity-100');
+                
+                // Change icon to close (optional since we have inner close btn, but nice touch)
+                icon.classList.remove('fa-bars');
+                icon.classList.add('fa-times');
+                document.body.style.overflow = 'hidden'; // Prevent background scrolling
+            }
+        }
+
+        if (btn && overlay && closeBtn && drawer) {
+            btn.addEventListener('click', toggleMenu);
+            closeBtn.addEventListener('click', toggleMenu);
+            overlay.addEventListener('click', toggleMenu);
+        }
+    });
+</script>

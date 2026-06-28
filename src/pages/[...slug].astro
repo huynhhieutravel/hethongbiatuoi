@@ -1,0 +1,436 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ArchiveCTA from '../components/ArchiveCTA.astro';
+import { env } from 'cloudflare:workers';
+
+export const prerender = false;
+
+const { slug } = Astro.params;
+console.log("=> HIT [...slug].astro WITH SLUG:", slug);
+
+// Extract the last segment of the slug
+const paths = (slug || '').split('/').filter(Boolean);
+const lastSegment = paths[paths.length - 1] || slug;
+
+let post = null;
+let category = null;
+let categoryPosts = [];
+
+try {
+    const db = (env as any)?.DB || (env as any)?.hethongbiatuoi_db;
+    if (db) {
+        let prefix = paths.length > 1 ? paths[0] : '';
+        let matched = false;
+
+        const processCategoryPosts = (results: any) => {
+            if (!results) return [];
+            return results.map((p: any) => {
+                if (p.imageUrl && !p.imageUrl.includes('/proxy-cors/')) {
+                    p.imageUrl = p.imageUrl.replace(/(?:https?:\/\/hethongbiatuoi\.com)?\/?wp-content/gi, '/proxy-cors/wp-content');
+                }
+                return p;
+            });
+        };
+
+        if (prefix === 'tag') {
+            let stmt = await db.prepare("SELECT * FROM Tag WHERE slug = ? LIMIT 1").bind(lastSegment).first();
+            if (stmt) {
+                category = stmt;
+                const { results } = await db.prepare(`
+                    SELECT p.*, m.url as imageUrl 
+                    FROM Post p 
+                    JOIN PostTag pt ON p.id = pt.postId 
+                    LEFT JOIN Media m ON p.featuredImage = m.id
+                    WHERE pt.tagId = ?
+                    ORDER BY p.createdAt DESC
+                `).bind(category.id).all();
+                categoryPosts = processCategoryPosts(results);
+                matched = true;
+            }
+        } else if (prefix === 'san-pham' || prefix === 'danh-muc' || prefix === 'category') {
+            let stmt = await db.prepare("SELECT * FROM Category WHERE slug = ? LIMIT 1").bind(lastSegment).first();
+            if (stmt) {
+                category = stmt;
+                const { results } = await db.prepare(`
+                    SELECT p.*, m.url as imageUrl 
+                    FROM Post p 
+                    JOIN PostCategory pc ON p.id = pc.postId 
+                    LEFT JOIN Media m ON p.featuredImage = m.id
+                    WHERE pc.categoryId = ?
+                    ORDER BY p.createdAt DESC
+                `).bind(category.id).all();
+                categoryPosts = processCategoryPosts(results);
+                matched = true;
+            }
+        }
+
+        // If no strict prefix matched, OR it didn't have a prefix, fallback to the old logic
+        if (!matched) {
+            let stmt = await db.prepare("SELECT * FROM Post WHERE slug = ? LIMIT 1").bind(lastSegment).first();
+            if (stmt) {
+                post = stmt;
+                if (post.content) {
+                    post.content = post.content.replace(/(src|href|srcset|url\()(["']?)(?:https?:\/\/hethongbiatuoi\.com)?\/?(wp-content)/gi, '$1$2/proxy-cors/$3');
+                    // Remove Elementor entrance animations that hide text since JS is removed
+                    post.content = post.content.replace(/elementor-invisible/g, '');
+                    // Fix broken goqr.me error text saved in DB
+                    post.content = post.content.replace(
+                        /en:\s*malformed\s*'create-qr-code'\s*API\s*request[^<]*/gi,
+                        `<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://hethongbiatuoi.com/${post.slug}/" alt="QR Code" width="100" height="100" style="display:inline-block; vertical-align:middle; margin-left: 10px;" />`
+                    );
+                }
+            } else {
+                // fallback to category/tag if still not found (e.g. they removed the prefix)
+                stmt = await db.prepare("SELECT * FROM Category WHERE slug = ? LIMIT 1").bind(lastSegment).first();
+                if (stmt) {
+                    category = stmt;
+                    const { results } = await db.prepare(`
+                        SELECT p.*, m.url as imageUrl 
+                        FROM Post p 
+                        JOIN PostCategory pc ON p.id = pc.postId 
+                        LEFT JOIN Media m ON p.featuredImage = m.id
+                        WHERE pc.categoryId = ?
+                        ORDER BY p.createdAt DESC
+                    `).bind(category.id).all();
+                    categoryPosts = processCategoryPosts(results);
+                } else {
+                    stmt = await db.prepare("SELECT * FROM Tag WHERE slug = ? LIMIT 1").bind(lastSegment).first();
+                    if (stmt) {
+                        category = stmt;
+                        const { results } = await db.prepare(`
+                            SELECT p.*, m.url as imageUrl 
+                            FROM Post p 
+                            JOIN PostTag pt ON p.id = pt.postId 
+                            LEFT JOIN Media m ON p.featuredImage = m.id
+                            WHERE pt.tagId = ?
+                            ORDER BY p.createdAt DESC
+                        `).bind(category.id).all();
+                        categoryPosts = processCategoryPosts(results);
+                    }
+                }
+            }
+        }
+    }
+} catch (e) {
+    console.log("DB Error:", e);
+}
+
+if (!post && !category) {
+    return Astro.redirect('/404');
+}
+
+// Function to extract volume (e.g. 900ml) from title for the yellow badge
+const extractVolume = (title) => {
+    const match = title.match(/(\d+ml)/i);
+    return match ? `bia ${match[1].toLowerCase()}` : '';
+};
+
+// Hardcoded categories list from screenshot for the pill buttons
+const catLinks = [
+    { name: "Bia Tháp", slug: "bia-thap" },
+    { name: "Bia Tươi", slug: "bia-tuoi" },
+    { name: "Bia Inox", slug: "bia-inox" },
+    { name: "Bến Thành Sài Gòn", slug: "bia-ben-thanh-sai-gon" },
+    { name: "Vina Sài Gòn", slug: "bia-vina-sai-gon" },
+    { name: "Hemsi Sài Gòn", slug: "bia-hemsi-sai-gon" },
+    { name: "Naviken", slug: "bia-naviken" },
+    { name: "Bia Craft", slug: "bia-craft" }
+];
+---
+
+<Layout title={post ? post.title : category?.name}>
+    {post ? (
+        <>
+            <link rel="stylesheet" href={`/proxy-cors/wp-content/uploads/elementor/css/post-${post.id}.css`} media="all" />
+            <Fragment set:html={post.content} />
+        </>
+    ) : (
+        <div class="category-archive-wrapper">
+            
+            {/* Elementor-style Banner */}
+            <div class="cat-banner">
+                <div class="cat-banner-overlay"></div>
+                <div class="cat-banner-content">
+                    <h1 set:html={category.name}></h1>
+                    <p>Bia Của Người Sành Điệu</p>
+                </div>
+            </div>
+
+            <div class="category-archive-container">
+                
+                {/* Pill Buttons Navigation */}
+                <div class="cat-nav-pills">
+                    {catLinks.map(link => (
+                        <a href={`/tag/${link.slug}/`} class="cat-pill">{link.name}</a>
+                    ))}
+                </div>
+                
+                {/* Product Grid */}
+                {categoryPosts.length > 0 ? (
+                    <div class="products-grid">
+                        {categoryPosts.map((p) => {
+                            let imgSrc = p.imageUrl || '';
+                            let badgeText = extractVolume(p.title);
+                            return (
+                            <div class="product-card">
+                                <a href={`/${p.slug}`}>
+                                    <div class="product-image">
+                                        {badgeText && <span class="product-badge">{badgeText}</span>}
+                                        {imgSrc ? (
+                                            <img src={imgSrc} alt={p.title} loading="lazy" />
+                                        ) : (
+                                            <div class="product-image-placeholder">No Image</div>
+                                        )}
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-title" set:html={p.title}></h3>
+                                        <div class="product-details-text">CHI TIẾT SẢN PHẨM</div>
+                                    </div>
+                                    <div class="product-footer">
+                                        hethongbiathap
+                                    </div>
+                                </a>
+                            </div>
+                        )})}
+                    </div>
+                ) : (
+                    <div class="no-products-container">
+                        <p class="no-products">Chưa có sản phẩm nào trong danh mục này.</p>
+                    </div>
+                )}
+            </div>
+
+            {/* Original Elementor CTA Block */}
+            <ArchiveCTA />
+            
+        </div>
+    )}
+</Layout>
+
+<style is:global>
+/* Recreating the Elementor Live Site Design */
+.category-archive-wrapper {
+    background-color: #ffffcc; /* Pale yellow from screenshot */
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+/* Banner */
+.cat-banner {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('/proxy-cors/wp-content/uploads/2021/06/san-pham-he-thong-bia-thap.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+}
+.cat-banner-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.3);
+}
+.cat-banner-content {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+}
+.cat-banner-content h1 {
+    font-size: 80px;
+    margin: 0 0 10px 0;
+    letter-spacing: -2px;
+    color: #ffffff;
+    font-weight: 800;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+}
+.cat-banner-content p {
+    font-size: 24px;
+    margin: 0;
+}
+
+/* FIX ELEMENTOR CATEGORY BUTTONS GRID */
+.elementor-widget-button:not([data-id="7c769661"]) .elementor-button {
+    background-color: #000 !important;
+    color: #ffcc00 !important;
+    border-radius: 50px !important;
+    padding: 10px 25px !important;
+    font-weight: bold !important;
+    transition: all 0.3s ease;
+}
+.elementor-widget-button:not([data-id="7c769661"]) .elementor-button:hover {
+    background-color: #ffcc00 !important;
+    color: #000 !important;
+}
+
+@media (max-width: 768px) {
+    /* Only target sections that contain MULTIPLE buttons (the category list) or target by avoiding the Archive CTA */
+    /* Archive CTA has class elementor-section-height-min-height, so we avoid it */
+    .elementor-section:not(.elementor-section-height-min-height):has(.elementor-widget-button) > .elementor-container {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+        gap: 10px !important;
+    }
+    .elementor-section:not(.elementor-section-height-min-height):has(.elementor-widget-button) .elementor-column {
+        width: auto !important;
+        flex: 0 0 auto !important;
+        margin-bottom: 0 !important;
+    }
+    .elementor-widget-button {
+        width: auto !important;
+    }
+    .elementor-widget-button .elementor-button {
+        padding: 8px 16px !important;
+        font-size: 13px !important;
+    }
+    .elementor-column.elementor-hidden-phone {
+        display: none !important;
+    }
+}
+
+/* Container */
+.category-archive-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+/* Nav Pills */
+.cat-nav-pills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 50px;
+}
+.cat-pill {
+    display: inline-block;
+    padding: 10px 30px;
+    border: 2px solid #ef3340;
+    border-radius: 50px;
+    color: #ef3340;
+    background: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+.cat-pill:hover {
+    background: #ef3340;
+    color: #fff;
+}
+
+/* Products Grid */
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-bottom: 80px;
+}
+
+/* Product Card */
+.product-card {
+    background: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    transition: box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+.product-card:hover {
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+.product-card a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.product-image {
+    width: 100%;
+    position: relative;
+    background: #f9f9f9;
+    padding-top: 100%; /* 1:1 Aspect ratio wrapper */
+}
+.product-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.product-badge {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: #f2cf19;
+    color: #fff;
+    padding: 5px 12px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: bold;
+    z-index: 2;
+    text-transform: lowercase;
+}
+
+/* Product Info */
+.product-info {
+    padding: 30px 20px;
+    text-align: center;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.product-title {
+    font-size: 22px;
+    color: #d8b024; /* Yellow from screenshot */
+    margin: 0 0 20px 0;
+    font-weight: normal;
+    line-height: 1.3;
+}
+.product-details-text {
+    font-size: 14px;
+    color: #000;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Product Footer */
+.product-footer {
+    text-align: center;
+    padding: 15px;
+    border-top: 1px solid #f2f2f2;
+    color: #d1d1d1;
+    font-size: 14px;
+}
+
+
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .products-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .cat-banner-content h1 {
+        font-size: 60px;
+    }
+}
+@media (max-width: 768px) {
+    .products-grid {
+        grid-template-columns: 1fr;
+    }
+    .cat-banner-content h1 {
+        font-size: 40px;
+    }
+    .cat-banner {
+        height: 250px;
+    }
+}
+</style>

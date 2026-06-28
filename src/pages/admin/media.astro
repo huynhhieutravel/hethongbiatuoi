@@ -1,0 +1,245 @@
+---
+import { env } from 'cloudflare:workers';
+export const prerender = false;
+
+let mediaList: any[] = [];
+const db = (env as any)?.DB || (env as any)?.hethongbiatuoi_db;
+if (db) {
+  try {
+    const { results } = await db.prepare("SELECT * FROM Media ORDER BY createdAt DESC").all();
+    mediaList = results || [];
+  } catch (e) {
+    console.log("DB Error:", e);
+  }
+}
+
+const initialData = mediaList.map((item) => ({
+  id: item.id,
+  src: item.url,
+  name: item.filename || item.url.split('/').pop() || '',
+  size: item.sizeBytes ? (item.sizeBytes / 1024).toFixed(1) + ' KB' : 'Unknown',
+  dim: (item.width && item.height) ? `${item.width}×${item.height}` : '',
+  alt: (item.altText || '').trim(),
+  title: (item.title || item.filename || '').trim(),
+  caption: (item.caption || '').trim(),
+  desc: (item.description || '').trim(),
+  date: item.createdAt || new Date().toISOString()
+}));
+---
+
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Media Library</title>
+  <style>
+    body { margin: 0; font-family: system-ui, sans-serif; display: flex; height: 100vh; background: #f3f4f6; }
+    .main { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
+    .header { padding: 1rem; background: white; border-bottom: 1px solid #e5e7eb; display: flex; justify-content: space-between; align-items: center; }
+    .content { padding: 1rem; overflow-y: auto; flex: 1; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 1rem; }
+    .card { background: white; border: 1px solid #e5e7eb; border-radius: 8px; overflow: hidden; cursor: pointer; aspect-ratio: 1; position: relative; }
+    .card img { width: 100%; height: 100%; object-fit: cover; }
+    .card.selected { border-color: #3b82f6; box-shadow: 0 0 0 2px #3b82f6; }
+    .panel { width: 300px; background: white; border-left: 1px solid #e5e7eb; padding: 1rem; overflow-y: auto; display: none; flex-direction: column; }
+    .panel.active { display: flex; }
+    .panel img { max-width: 100%; height: auto; border-radius: 4px; margin-bottom: 1rem; }
+    .field { margin-bottom: 1rem; }
+    .field label { display: block; font-size: 0.875rem; font-weight: 500; margin-bottom: 0.25rem; color: #374151; }
+    .field input, .field textarea { width: 100%; padding: 0.5rem; border: 1px solid #d1d5db; border-radius: 4px; font-family: inherit; }
+    .overlay { position: fixed; inset: 0; background: rgba(59, 130, 246, 0.9); color: white; display: none; align-items: center; justify-content: center; font-size: 2rem; font-weight: bold; z-index: 100; }
+    .overlay.active { display: flex; }
+    button { padding: 0.5rem 1rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer; }
+    button:hover { background: #2563eb; }
+    #upload-btn { position: relative; overflow: hidden; }
+    #upload-btn input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+  </style>
+</head>
+<body>
+
+  <div class="overlay" id="drop-overlay">Kéo thả ảnh vào đây để tải lên</div>
+
+  <div class="main">
+    <div class="header">
+      <h1>Media Library</h1>
+      <div>
+        <button id="upload-btn">
+          Tải ảnh lên
+          <input type="file" multiple accept="image/*" id="file-input" />
+        </button>
+      </div>
+    </div>
+    <div class="content">
+      <div class="grid" id="grid"></div>
+    </div>
+  </div>
+
+  <div class="panel" id="panel">
+    <img id="panel-img" src="" alt="" />
+    <div class="field">
+      <label>URL</label>
+      <input type="text" id="panel-url" readonly />
+    </div>
+    <div class="field">
+      <label>Title</label>
+      <input type="text" id="panel-title" data-field="title" />
+    </div>
+    <div class="field">
+      <label>Alt Text</label>
+      <input type="text" id="panel-alt" data-field="altText" />
+    </div>
+    <div class="field">
+      <label>Caption</label>
+      <textarea id="panel-caption" data-field="caption"></textarea>
+    </div>
+    <div class="field">
+      <label>Description</label>
+      <textarea id="panel-desc" data-field="description"></textarea>
+    </div>
+    <div style="display: flex; gap: 0.5rem; margin-top: auto;">
+      <button style="background: #ef4444; flex: 1;" id="delete-btn">Xóa Ảnh</button>
+      <button style="background: #6b7280; flex: 1;" onclick="closePanel()">Đóng</button>
+    </div>
+    <p id="save-status" style="font-size: 0.8rem; color: #10b981; text-align: center; margin-top: 1rem; opacity: 0; transition: opacity 0.3s;">✓ Saved to DB</p>
+  </div>
+
+  <script is:inline define:vars={{ initialData }}>
+    let data = initialData || [];
+    let activeId = null;
+    let saveTimeout = null;
+
+    const grid = document.getElementById('grid');
+    const panel = document.getElementById('panel');
+    const dropOverlay = document.getElementById('drop-overlay');
+
+    function renderGrid() {
+      grid.innerHTML = data.map(item => `
+        <div class="card ${item.id === activeId ? 'selected' : ''}" onclick="openDetail('${item.id}')">
+          <img src="${item.src}" alt="${item.alt}" loading="lazy" />
+        </div>
+      `).join('');
+    }
+
+    function openDetail(id) {
+      activeId = id;
+      const item = data.find(x => x.id === id);
+      if (!item) return;
+
+      document.getElementById('panel-img').src = item.src;
+      document.getElementById('panel-url').value = item.src;
+      document.getElementById('panel-title').value = item.title;
+      document.getElementById('panel-alt').value = item.alt;
+      document.getElementById('panel-caption').value = item.caption;
+      document.getElementById('panel-desc').value = item.desc;
+      
+      panel.classList.add('active');
+      renderGrid();
+    }
+
+    function closePanel() {
+      activeId = null;
+      panel.classList.remove('active');
+      renderGrid();
+    }
+
+    // Auto-save logic
+    ['title', 'alt', 'caption', 'desc'].forEach(field => {
+      document.getElementById('panel-' + field).addEventListener('input', (e) => {
+        if (!activeId) return;
+        const item = data.find(x => x.id === activeId);
+        item[field] = e.target.value;
+
+        const dbField = e.target.getAttribute('data-field');
+        
+        clearTimeout(saveTimeout);
+        saveTimeout = setTimeout(() => {
+          fetch('/api/admin/media', {
+            method: 'PATCH',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ id: activeId, [dbField]: e.target.value })
+          }).then(res => {
+            if (res.ok) {
+              const status = document.getElementById('save-status');
+              status.style.opacity = '1';
+              setTimeout(() => status.style.opacity = '0', 2000);
+            }
+          });
+        }, 600);
+      });
+    });
+
+    document.getElementById('delete-btn').addEventListener('click', () => {
+      if (!activeId || !confirm("Bạn có chắc chắn xóa ảnh này?")) return;
+      
+      fetch('/api/admin/media', {
+        method: 'DELETE',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ id: activeId })
+      }).then(res => res.json()).then(res => {
+        if (res.success) {
+          data = data.filter(x => x.id !== activeId);
+          closePanel();
+        } else {
+          alert('Lỗi: ' + res.error?.message);
+        }
+      });
+    });
+
+    // Upload logic
+    async function handleFiles(files) {
+      if (!files.length) return;
+      for (const file of files) {
+        if (!file.type.startsWith('image/')) continue;
+        
+        const fd = new FormData();
+        fd.append('file', file);
+        
+        // Optimistic UI placeholder
+        const tempId = 'temp-' + Date.now();
+        const objUrl = URL.createObjectURL(file);
+        data.unshift({
+          id: tempId, src: objUrl, title: file.name, alt: '', caption: '', desc: ''
+        });
+        renderGrid();
+
+        try {
+          const res = await fetch('/api/admin/upload', { method: 'POST', body: fd });
+          const json = await res.json();
+          if (json.success) {
+            const index = data.findIndex(x => x.id === tempId);
+            if (index !== -1) {
+              data[index] = {
+                id: json.data.id,
+                src: json.data.url,
+                title: json.data.filename,
+                alt: '', caption: '', desc: ''
+              };
+            }
+          }
+        } catch (e) {
+          console.error(e);
+          data = data.filter(x => x.id !== tempId);
+        }
+        renderGrid();
+      }
+    }
+
+    document.getElementById('file-input').addEventListener('change', (e) => handleFiles(e.target.files));
+
+    // Drag & Drop
+    let dragCounter = 0;
+    document.addEventListener('dragenter', (e) => { e.preventDefault(); dragCounter++; dropOverlay.classList.add('active'); });
+    document.addEventListener('dragleave', (e) => { e.preventDefault(); dragCounter--; if (dragCounter === 0) dropOverlay.classList.remove('active'); });
+    document.addEventListener('dragover', (e) => e.preventDefault());
+    document.addEventListener('drop', (e) => { 
+      e.preventDefault(); 
+      dragCounter = 0; 
+      dropOverlay.classList.remove('active'); 
+      handleFiles(e.dataTransfer.files); 
+    });
+
+    // Init
+    renderGrid();
+  </script>
+</body>
+</html>

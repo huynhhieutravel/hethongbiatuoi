@@ -1,0 +1,1244 @@
+
+ ⛅️ wrangler 4.105.0
+────────────────────
+Resource location: local 
+
+Use --remote if you want to access the remote instance.
+
+🌀 Executing on local database hethongbiatuoi-db (ffed0970-adc2-4f02-87a6-770b7ca2170f) from .wrangler/state/v3/d1:
+🌀 To execute on your remote database, add a --remote flag to your wrangler command.
+🚣 1 command executed successfully.
+[
+  {
+    "results": [
+      {
+        "id": 34,
+        "url": "/proxy-cors/wp-content/uploads/2021/01/ly-bia-ben-thanh-sai-gon.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-01-21 10:30:14"
+      },
+      {
+        "id": 35,
+        "url": "/proxy-cors/wp-content/uploads/2021/01/banner-bia-vuong.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-01-21 10:30:19"
+      },
+      {
+        "id": 36,
+        "url": "/proxy-cors/wp-content/uploads/2021/01/bia-chai-sai-gon-vina.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-01-21 10:30:21"
+      },
+      {
+        "id": 37,
+        "url": "/proxy-cors/wp-content/uploads/2021/01/bia-thap-vina.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-01-21 10:30:22"
+      },
+      {
+        "id": 38,
+        "url": "/proxy-cors/wp-content/uploads/2021/01/decal-bia-thap-vina-sai-gon.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-01-21 10:30:25"
+      },
+      {
+        "id": 39,
+        "url": "/proxy-cors/wp-content/uploads/2021/01/logo-bia-vina-sai-gon.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-01-21 10:30:26"
+      },
+      {
+        "id": 52,
+        "url": "/proxy-cors/wp-content/uploads/2021/01/he-thong-bia-thap.jpg",
+        "caption": "Hệ thống bia tháp",
+        "description": "Hệ thống bia tháp",
+        "altText": "Hệ thống bia tháp",
+        "createdAt": "2021-01-21 11:19:16"
+      },
+      {
+        "id": 63,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/he-thong-bia-thap.jpg",
+        "caption": "Hệ thống bia tháp",
+        "description": "Hệ thống bia tháp",
+        "altText": "Hệ thống bia tháp",
+        "createdAt": "2021-02-02 16:42:23"
+      },
+      {
+        "id": 116,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/bia-inox.png",
+        "caption": "Bia Inox",
+        "description": "",
+        "altText": "Bia Inox",
+        "createdAt": "2021-02-02 17:28:59"
+      },
+      {
+        "id": 153,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/photo-1528475775637-ed767f76e6b6.jpeg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-02-02 18:03:17"
+      },
+      {
+        "id": 154,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/client-light-01.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-02-02 18:03:19"
+      },
+      {
+        "id": 155,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/client05.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-02-02 18:03:19"
+      },
+      {
+        "id": 156,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/client-light-02.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-02-02 18:03:20"
+      },
+      {
+        "id": 157,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/client-light-066.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-02-02 18:03:21"
+      },
+      {
+        "id": 158,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/client-light-03.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-02-02 18:03:21"
+      },
+      {
+        "id": 162,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/khach-hang-bia.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-02-02 18:10:42"
+      },
+      {
+        "id": 185,
+        "url": "/proxy-cors/wp-content/uploads/2021/01/cropped-logo-bia-vina-sai-gon.png",
+        "caption": "https://hethongbiatuoi.com/wp-content/uploads/2021/01/cropped-logo-bia-vina-sai-gon.png",
+        "description": "https://hethongbiatuoi.com/wp-content/uploads/2021/01/cropped-logo-bia-vina-sai-gon.png",
+        "altText": "",
+        "createdAt": "2021-02-02 18:47:25"
+      },
+      {
+        "id": 186,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/cropped-he-thong-bia-thap.jpg",
+        "caption": "https://hethongbiatuoi.com/wp-content/uploads/2021/02/cropped-he-thong-bia-thap.jpg",
+        "description": "https://hethongbiatuoi.com/wp-content/uploads/2021/02/cropped-he-thong-bia-thap.jpg",
+        "altText": "",
+        "createdAt": "2021-02-02 18:47:46"
+      },
+      {
+        "id": 202,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/thap-bia-vina-saigon.png",
+        "caption": "Tháp bia Vina Sài Gòn",
+        "description": "",
+        "altText": "Tháp bia Vina Sài Gòn",
+        "createdAt": "2021-02-23 15:24:52"
+      },
+      {
+        "id": 213,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/he-thong-thap-bia-mien-nam-scaled.jpg",
+        "caption": "Hệ thống bia tháp miền Nam",
+        "description": "Hệ thống bia tháp miền Nam",
+        "altText": "Hệ thống bia tháp miền Nam",
+        "createdAt": "2021-02-24 12:26:09"
+      },
+      {
+        "id": 217,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/he-thong-bia-thap-vina-bia-logo.png",
+        "caption": "Logo bia Vina Sài Gòn",
+        "description": "Logo bia Vina Sài Gòn",
+        "altText": "Logo bia Vina Sài Gòn",
+        "createdAt": "2021-02-24 13:03:20"
+      },
+      {
+        "id": 224,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/cropped-he-thong-bia-thap-vina-bia-logo.png",
+        "caption": "https://hethongbiatuoi.com/wp-content/uploads/2021/02/cropped-he-thong-bia-thap-vina-bia-logo.png",
+        "description": "https://hethongbiatuoi.com/wp-content/uploads/2021/02/cropped-he-thong-bia-thap-vina-bia-logo.png",
+        "altText": "",
+        "createdAt": "2021-02-24 13:05:15"
+      },
+      {
+        "id": 225,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/cropped-he-thong-thap-bia-mien-nam-scaled-1.jpg",
+        "caption": "https://hethongbiatuoi.com/wp-content/uploads/2021/02/cropped-he-thong-thap-bia-mien-nam-scaled-1.jpg",
+        "description": "https://hethongbiatuoi.com/wp-content/uploads/2021/02/cropped-he-thong-thap-bia-mien-nam-scaled-1.jpg",
+        "altText": "",
+        "createdAt": "2021-02-24 13:05:40"
+      },
+      {
+        "id": 226,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/cropped-he-thong-bia-thap-vina-bia-logo-1.png",
+        "caption": "https://hethongbiatuoi.com/wp-content/uploads/2021/02/cropped-he-thong-bia-thap-vina-bia-logo-1.png",
+        "description": "https://hethongbiatuoi.com/wp-content/uploads/2021/02/cropped-he-thong-bia-thap-vina-bia-logo-1.png",
+        "altText": "",
+        "createdAt": "2021-02-24 13:06:01"
+      },
+      {
+        "id": 228,
+        "url": "/proxy-cors/wp-content/uploads/2021/02/bia-tuoi-vina-saigon.png",
+        "caption": "Bia tươi Vina Sài Gòn 1 lít",
+        "description": "Bia tươi Vina Sài Gòn 1 lít",
+        "altText": "Bia tươi Vina Sài Gòn 1 lít",
+        "createdAt": "2021-02-24 13:23:00"
+      },
+      {
+        "id": 270,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/rice-field.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 10:14:28"
+      },
+      {
+        "id": 284,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/phan-phoi-bia-thap.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 13:30:25"
+      },
+      {
+        "id": 285,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/he-thong-bia-thap-mien-nam.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 13:32:08"
+      },
+      {
+        "id": 354,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/background-vang-bong-bong.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 16:57:25"
+      },
+      {
+        "id": 357,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/loc-Vina-SG-900ml-Do.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:12:46"
+      },
+      {
+        "id": 358,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Naviken-900ml.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:12:47"
+      },
+      {
+        "id": 359,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/phan-phoi-he-thong-bia-craft-900ml.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:12:48"
+      },
+      {
+        "id": 360,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Tu-lanh-chuyen-dung.jpg",
+        "caption": "Tủ lạnh chuyên dụng",
+        "description": "Tủ lạnh chuyên dụng",
+        "altText": "Tủ lạnh chuyên dụng",
+        "createdAt": "2021-05-01 17:12:50"
+      },
+      {
+        "id": 361,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-500ml-Ho-Lo.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:12:51"
+      },
+      {
+        "id": 362,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-900ml-Do.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:12:53"
+      },
+      {
+        "id": 363,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-900ml-Xanh.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:12:54"
+      },
+      {
+        "id": 364,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/3-Bia-Ben-Thanh-Sai-Gon-900ml-Xanh.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:12:56"
+      },
+      {
+        "id": 365,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Ben-Thanh-SG-500ml-Xanh.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:12:57"
+      },
+      {
+        "id": 366,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Ben-thanh-SG-900ml-Den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:12:58"
+      },
+      {
+        "id": 367,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Ben-Thanh-SG-900ml-Do.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:13:00"
+      },
+      {
+        "id": 368,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Ben-Thanh-SG-900ml-Ong-Gia.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:13:01"
+      },
+      {
+        "id": 369,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Ben-Thanh-Sai-Gon-900ml-Vang.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:13:03"
+      },
+      {
+        "id": 370,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:13:04"
+      },
+      {
+        "id": 371,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bia-Craft-900ml.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:13:05"
+      },
+      {
+        "id": 372,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Inox-1L-vina-sai-gon.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:13:06"
+      },
+      {
+        "id": 373,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bia-thap-cua-he-thong-bia.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:13:08"
+      },
+      {
+        "id": 374,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/chai-Bia-Inox-1L.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:13:08"
+      },
+      {
+        "id": 375,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/loc-4-Bia-Ben-Thanh-Sai-Gon-900ml-Vang.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:13:10"
+      },
+      {
+        "id": 376,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/loc-bia-Ben-thanh-SG-900ml-Den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:13:11"
+      },
+      {
+        "id": 379,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/banner-he-thong-bia-thap.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-01 17:51:08"
+      },
+      {
+        "id": 552,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/ben-thanh-sai-gon-500ml-xanh.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:11:40"
+      },
+      {
+        "id": 553,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/ben-thanh-sai-gon-500ml-xanh-nen-den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:11:43"
+      },
+      {
+        "id": 554,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/ben-thanh-sai-gon-500ml-xanh-nen-vang.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:11:45"
+      },
+      {
+        "id": 555,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/ben-thanh-sai-gon-do-900ml-nen-vang.jpg",
+        "caption": "Bia Bến Thành Sài Gòn đỏ 900ml",
+        "description": "`",
+        "altText": "Bia Bến Thành Sài Gòn đỏ 900ml",
+        "createdAt": "2021-05-21 09:11:47"
+      },
+      {
+        "id": 556,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/ben-thanh-sai-gon-do-900ml.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:11:50"
+      },
+      {
+        "id": 557,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/ben-thanh-sai-gon-do-900ml-nen-den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:11:52"
+      },
+      {
+        "id": 569,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/icon-phone.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:17:13"
+      },
+      {
+        "id": 570,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/icon-email.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:17:15"
+      },
+      {
+        "id": 574,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bg-emergency-service.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:17:21"
+      },
+      {
+        "id": 581,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/doctor-curve-1.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:17:28"
+      },
+      {
+        "id": 582,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bg-floating-oval.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:17:30"
+      },
+      {
+        "id": 595,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Ben-Thanh-SG-900ml-Ong-Gia-nen-den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "Bia Bến Thành Ông Già nền đen",
+        "createdAt": "2021-05-21 09:19:17"
+      },
+      {
+        "id": 596,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.jpg",
+        "caption": "Bia Bến Thành Ông Già",
+        "description": "Bia Bến Thành Ông Già",
+        "altText": "Bia Bến Thành Ông Già",
+        "createdAt": "2021-05-21 09:19:20"
+      },
+      {
+        "id": 597,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Ben-Thanh-SG-900ml-Ong-Gia-1.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-21 09:19:22"
+      },
+      {
+        "id": 604,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-vang.jpg",
+        "caption": "Bia Bến Thành Sài Gòn 900ml Vàng",
+        "description": "Bia Bến Thành Sài Gòn 900ml Vàng",
+        "altText": "Bia Bến Thành Sài Gòn 900ml Vàng",
+        "createdAt": "2021-05-26 13:37:46"
+      },
+      {
+        "id": 605,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-1.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:37:48"
+      },
+      {
+        "id": 606,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Ben-Thanh-Sai-Gon-900ml-Vang-nen-den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:37:50"
+      },
+      {
+        "id": 607,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-vang.jpg",
+        "caption": "Bia Bến Thành Sài Gòn 900ml Xanh",
+        "description": "Bia Bến Thành Sài Gòn 900ml Xanh",
+        "altText": "Bia Bến Thành Sài Gòn 900ml Xanh",
+        "createdAt": "2021-05-26 13:37:53"
+      },
+      {
+        "id": 608,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-1.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:37:55"
+      },
+      {
+        "id": 609,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Ben-Thanh-Sai-Gon-900ml-Xanh-nen-den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:37:57"
+      },
+      {
+        "id": 610,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/image0.jpeg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:38:02"
+      },
+      {
+        "id": 611,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Hemsi-Sai-Gon-900ml.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:38:04"
+      },
+      {
+        "id": 612,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Hemsi-Sai-Gon-900ml-nen-vang.jpg",
+        "caption": "Bia Hemsi Sài Gòn 1000ml",
+        "description": "Bia Hemsi Sài Gòn 900ml",
+        "altText": "Bia Hemsi Sài Gòn 900ml",
+        "createdAt": "2021-05-26 13:38:06"
+      },
+      {
+        "id": 613,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Thap-3L-nen-vang.jpg",
+        "caption": "Bia tháp 3 lít",
+        "description": "Bia tháp 3 lít",
+        "altText": "Bia tháp 3 lít",
+        "createdAt": "2021-05-26 13:38:09"
+      },
+      {
+        "id": 614,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Thap-3L.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:38:12"
+      },
+      {
+        "id": 615,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Bia-Thap-3L-nen-den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:38:15"
+      },
+      {
+        "id": 616,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Naviken-900ml-nen-vang.jpg",
+        "caption": "Bia Hemsi Sài Gòn 1000ml",
+        "description": "Bia Naviken 900ml",
+        "altText": "Bia Naviken 900ml",
+        "createdAt": "2021-05-26 13:38:27"
+      },
+      {
+        "id": 617,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Naviken-900ml-1.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:38:30"
+      },
+      {
+        "id": 618,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Naviken-900ml-nen-den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:38:33"
+      },
+      {
+        "id": 619,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-500ml-Ho-Lo-nen-vang.jpg",
+        "caption": "Bia Vina Sài Gòn Hồ Lô 500ml",
+        "description": "Bia Vina Sài Gòn Hồ Lô 500ml",
+        "altText": "Bia Vina Sài Gòn Hồ Lô 500ml",
+        "createdAt": "2021-05-26 13:38:36"
+      },
+      {
+        "id": 620,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-500ml-Ho-Lo-1.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:38:39"
+      },
+      {
+        "id": 621,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-500ml-Ho-Lo-nen-den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:38:41"
+      },
+      {
+        "id": 622,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-500ml-xanh-nen-vang.jpg",
+        "caption": "Bia Vina Sài Gòn Xanh 400ml",
+        "description": "Bia Vina Sài Gòn Xanh 400ml",
+        "altText": "Bia Vina Sài Gòn Xanh 400ml",
+        "createdAt": "2021-05-26 13:39:14"
+      },
+      {
+        "id": 623,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-500ml-xanh.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:39:17"
+      },
+      {
+        "id": 624,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-500ml-xanh-nen-den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:39:19"
+      },
+      {
+        "id": 625,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-900ml-Den-nen-vang.jpg",
+        "caption": "Bia Vina Sài Gòn đen 900ml",
+        "description": "Bia Vina Sài Gòn đen 900ml",
+        "altText": "Bia Vina Sài Gòn đen 900ml",
+        "createdAt": "2021-05-26 13:39:22"
+      },
+      {
+        "id": 626,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-900ml-Den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:39:24"
+      },
+      {
+        "id": 627,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/Vina-SG-900ml-Den-nen-den.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 13:39:26"
+      },
+      {
+        "id": 631,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/banner-quang-cao-he-thong-bia-thap.jpg",
+        "caption": "Banner Quảng cáo Hệ thống bia tháp",
+        "description": "Banner Quảng cáo Hệ thống bia tháp",
+        "altText": "Banner Quảng cáo Hệ thống bia tháp",
+        "createdAt": "2021-05-26 14:30:01"
+      },
+      {
+        "id": 641,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bg-home-1.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 14:43:26"
+      },
+      {
+        "id": 642,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bg2.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 14:43:27"
+      },
+      {
+        "id": 643,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bg5.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 14:43:29"
+      },
+      {
+        "id": 645,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bg-14.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 14:43:37"
+      },
+      {
+        "id": 646,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bg7.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 14:43:38"
+      },
+      {
+        "id": 647,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bg-11.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 14:43:40"
+      },
+      {
+        "id": 649,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/sticky-notes.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 14:43:47"
+      },
+      {
+        "id": 650,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/video.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 14:43:48"
+      },
+      {
+        "id": 651,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/basket.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 14:43:49"
+      },
+      {
+        "id": 660,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/gioi-thieu-bia.jpg",
+        "caption": "Giới thiệu bia",
+        "description": "Giới thiệu bia",
+        "altText": "Giới thiệu bia",
+        "createdAt": "2021-05-26 14:55:43"
+      },
+      {
+        "id": 672,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/StockSnap_N4NRIS99LE.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 15:31:28"
+      },
+      {
+        "id": 684,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/mail.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-26 16:08:50"
+      },
+      {
+        "id": 693,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/gioi-thieu-bia-tuoi-sai-gon.jpg",
+        "caption": "Giới thiệu bia tươi",
+        "description": "Giới thiệu bia tươi",
+        "altText": "Giới thiệu bia tươi",
+        "createdAt": "2021-05-26 16:19:59"
+      },
+      {
+        "id": 696,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/thanh-thao.jpg",
+        "caption": "Thanh Thảo",
+        "description": "Thanh Thảo",
+        "altText": "Thanh Thảo",
+        "createdAt": "2021-05-26 16:26:45"
+      },
+      {
+        "id": 697,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/an-nhien.jpg",
+        "caption": "An Nhiên",
+        "description": "An Nhiên",
+        "altText": "An Nhiên",
+        "createdAt": "2021-05-26 16:26:46"
+      },
+      {
+        "id": 698,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/truong-an-loc.jpg",
+        "caption": "Trương An Lộc",
+        "description": "Trương An Lộc",
+        "altText": "Trương An Lộc",
+        "createdAt": "2021-05-26 16:26:47"
+      },
+      {
+        "id": 734,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/phone-he-thong-bia-thap.png",
+        "caption": "Phone Hệ Thống Bia Tháp",
+        "description": "Phone Hệ Thống Bia Tháp",
+        "altText": "Phone Hệ Thống Bia Tháp",
+        "createdAt": "2021-05-26 17:29:18"
+      },
+      {
+        "id": 822,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/khong-gian-ben-trong-tu-lanh-he-thong-bia-thap.jpg",
+        "caption": "Không gian bên trong tủ lạnh chuyên dụng Hệ Thống Bia Tháp",
+        "description": "Không gian bên trong tủ lạnh chuyên dụng Hệ Thống Bia Tháp",
+        "altText": "Không gian bên trong tủ lạnh chuyên dụng Hệ Thống Bia Tháp",
+        "createdAt": "2021-05-27 10:04:03"
+      },
+      {
+        "id": 823,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/nhan-vien-he-thong-bia-thap-chup-hinh-cung-nguoi-dan.jpg",
+        "caption": "Nhân viên Hệ Thống Bia Tháp chụp hình cùng người dân",
+        "description": "Nhân viên Hệ Thống Bia Tháp chụp hình cùng người dân",
+        "altText": "Nhân viên Hệ Thống Bia Tháp chụp hình cùng người dân",
+        "createdAt": "2021-05-27 10:04:08"
+      },
+      {
+        "id": 824,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/san-pham-bia-tuoi-tren-ban-nhau.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-05-27 10:04:13"
+      },
+      {
+        "id": 825,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/ban-giao-tu-lanh-chuyen-dung-cho-khach-hang.jpg",
+        "caption": "Bàn giao tủ lạnh chuyên dụng cho khách hàng",
+        "description": "Bàn giao tủ lạnh chuyên dụng cho khách hàng",
+        "altText": "Bàn giao tủ lạnh chuyên dụng cho khách hàng",
+        "createdAt": "2021-05-27 10:04:17"
+      },
+      {
+        "id": 826,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/bia-inox-cua-he-thtoosng-bia-thap.jpg",
+        "caption": "Bia Inox của Hệ Thống Bia Tháp",
+        "description": "Bia Inox của Hệ Thống Bia Tháp",
+        "altText": "Bia Inox của Hệ Thống Bia Tháp",
+        "createdAt": "2021-05-27 10:04:21"
+      },
+      {
+        "id": 827,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/boc-do-bia-tuoi.jpg",
+        "caption": "Bốc bia tươi lên xe tải",
+        "description": "Bốc bia tươi lên xe tải",
+        "altText": "Bốc bia tươi lên xe tải",
+        "createdAt": "2021-05-27 10:04:23"
+      },
+      {
+        "id": 828,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/cac-loai-san-pham-bia-khac-nhau-cua-he-thong-bia-thap.jpg",
+        "caption": "Các loại sản phẩm bia của Hệ Thống Bia Tháp",
+        "description": "Các loại sản phẩm bia của Hệ Thống Bia Tháp",
+        "altText": "Các loại sản phẩm bia của Hệ Thống Bia Tháp",
+        "createdAt": "2021-05-27 10:04:27"
+      },
+      {
+        "id": 829,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/chuan-bi-giao-bia-cho-khach-hang.jpg",
+        "caption": "Chuẩn bị bàn giao bia cho Khách Hàng",
+        "description": "Chuẩn bị bàn giao bia cho Khách Hàng",
+        "altText": "Chuẩn bị bàn giao bia cho Khách Hàng",
+        "createdAt": "2021-05-27 10:04:31"
+      },
+      {
+        "id": 830,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/chup-hinh-truoc-quan-nhau-bia-tuoi.jpg",
+        "caption": "Chụp hình trước quán nhậu bia tươi đối tác",
+        "description": "Chụp hình trước quán nhậu bia tươi đối tác",
+        "altText": "Chụp hình trước quán nhậu bia tươi đối tác",
+        "createdAt": "2021-05-27 10:04:34"
+      },
+      {
+        "id": 831,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/giao-bia-va-ban-hieu-cho-tiem-an-le-duong.jpg",
+        "caption": "Giao bia và bảng hiệu cho tiệm ăn lề đường",
+        "description": "Giao bia và bảng hiệu cho tiệm ăn lề đường",
+        "altText": "Giao bia và bảng hiệu cho tiệm ăn lề đường",
+        "createdAt": "2021-05-27 10:04:38"
+      },
+      {
+        "id": 832,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/he-thong-bia-thap-ban-giao-bia-cho-tiem-tap-hoa.jpg",
+        "caption": "Hệ Thống Bia Tháp bàn giao bia cho tiệm tạp hóa",
+        "description": "Hệ Thống Bia Tháp bàn giao bia cho tiệm tạp hóa",
+        "altText": "Hệ Thống Bia Tháp bàn giao bia cho tiệm tạp hóa",
+        "createdAt": "2021-05-27 10:04:42"
+      },
+      {
+        "id": 833,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/he-thong-bia-thap-di-den-cac-quan-an-tren-khap-noi.jpg",
+        "caption": "Hệ thống bia tháp đi đến các tiệm tạp hóa toàn quốc",
+        "description": "Hệ thống bia tháp đi đến các tiệm tạp hóa toàn quốc",
+        "altText": "Hệ thống bia tháp đi đến các tiệm tạp hóa toàn quốc",
+        "createdAt": "2021-05-27 10:04:47"
+      },
+      {
+        "id": 834,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/he-thong-bia-thap-di-den-cac-vung-tay-nguyen-vung-cao.jpg",
+        "caption": "Hệ Thống Bia Tháp đi đến các vùng Tây Nguyên và vùng cao",
+        "description": "Hệ Thống Bia Tháp đi đến các vùng Tây Nguyên và vùng cao",
+        "altText": "Hệ Thống Bia Tháp đi đến các vùng Tây Nguyên và vùng cao",
+        "createdAt": "2021-05-27 10:04:51"
+      },
+      {
+        "id": 835,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/he-thong-bia-thap-giao-bia-cho-quan-nuong.jpg",
+        "caption": "Hệ thống bia tháp bàn giao bia cho quán nướng",
+        "description": "Hệ thống bia tháp bàn giao bia cho quán nướng",
+        "altText": "Hệ thống bia tháp bàn giao bia cho quán nướng",
+        "createdAt": "2021-05-27 10:04:56"
+      },
+      {
+        "id": 836,
+        "url": "/proxy-cors/wp-content/uploads/2021/05/he-thong-bia-thap-giao-hang-tren-moi-neo-duong.jpg",
+        "caption": "Chúng tôi giao hàng trên mọi nẻo đường",
+        "description": "Chúng tôi giao hàng trên mọi nẻo đường",
+        "altText": "Chúng tôi giao hàng trên mọi nẻo đường",
+        "createdAt": "2021-05-27 10:05:00"
+      },
+      {
+        "id": 988,
+        "url": "/proxy-cors/wp-content/uploads/2021/06/News-Hero-Bg.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-06-24 19:59:48"
+      },
+      {
+        "id": 990,
+        "url": "/proxy-cors/wp-content/uploads/2021/06/CTA-Shapes.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-06-24 19:59:54"
+      },
+      {
+        "id": 1004,
+        "url": "/proxy-cors/wp-content/uploads/2021/06/zalo.svg",
+        "caption": "Zalo",
+        "description": "Zalo",
+        "altText": "Zalo",
+        "createdAt": "2021-06-24 20:24:57"
+      },
+      {
+        "id": 1005,
+        "url": "/proxy-cors/wp-content/uploads/2021/06/zalo-1.svg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-06-24 20:27:44"
+      },
+      {
+        "id": 1035,
+        "url": "/proxy-cors/wp-content/uploads/2021/06/bia-ben-thanh-sai-gon-xanh-400ml.jpg",
+        "caption": "Bia Bến Thành Sài Gòn 400ml Xanh",
+        "description": "Bia Bến Thành Sài Gòn 400ml Xanh",
+        "altText": "Bia Bến Thành Sài Gòn 400ml Xanh",
+        "createdAt": "2021-06-26 12:33:55"
+      },
+      {
+        "id": 1042,
+        "url": "/proxy-cors/wp-content/uploads/2021/06/bia-vina-sai-gon-1100ml.jpg",
+        "caption": "Bia Vina Sài Gòn 1100ml",
+        "description": "Bia Vina Sài Gòn 1100ml",
+        "altText": "Bia Vina Sài Gòn 1100ml",
+        "createdAt": "2021-06-26 15:38:29"
+      },
+      {
+        "id": 1051,
+        "url": "/proxy-cors/wp-content/uploads/2021/06/bia-vina-sai-gon-xanh-900ml.jpg",
+        "caption": "Bia Vina Sài Gòn Xanh 900ml",
+        "description": "Bia Vina Sài Gòn Xanh 900ml",
+        "altText": "Bia Vina Sài Gòn Xanh 900ml",
+        "createdAt": "2021-06-26 16:18:14"
+      },
+      {
+        "id": 1058,
+        "url": "/proxy-cors/wp-content/uploads/2021/06/bia-vina-sai-gon-do-900ml.jpg",
+        "caption": "Bia Vina Sài Gòn Đỏ 900ml",
+        "description": "Bia Vina Sài Gòn Đỏ 900ml",
+        "altText": "Bia Vina Sài Gòn Đỏ 900ml",
+        "createdAt": "2021-06-27 08:59:12"
+      },
+      {
+        "id": 1079,
+        "url": "/proxy-cors/wp-content/uploads/2021/06/bia-vina-sai-gon-400ml-do.jpg",
+        "caption": "Bia Vina Sài Gòn 400ml Đỏ",
+        "description": "Bia Vina Sài Gòn 400ml Đỏ",
+        "altText": "Bia Vina Sài Gòn 400ml Đỏ",
+        "createdAt": "2021-06-27 09:13:03"
+      },
+      {
+        "id": 1139,
+        "url": "/proxy-cors/wp-content/uploads/2021/06/bia-craft-900ml.jpg",
+        "caption": "Bia Craft 900ml",
+        "description": "Bia Craft 900ml",
+        "altText": "Bia Craft 900ml",
+        "createdAt": "2021-06-28 19:51:10"
+      },
+      {
+        "id": 1349,
+        "url": "/proxy-cors/wp-content/uploads/2021/11/google-maps.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-11-17 08:55:54"
+      },
+      {
+        "id": 1350,
+        "url": "/proxy-cors/wp-content/uploads/2021/11/messenger.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-11-17 08:55:54"
+      },
+      {
+        "id": 1351,
+        "url": "/proxy-cors/wp-content/uploads/2021/11/zalo.png",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-11-17 08:55:55"
+      },
+      {
+        "id": 1352,
+        "url": "/proxy-cors/wp-content/uploads/2021/11/p2.gif",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-11-17 08:55:55"
+      },
+      {
+        "id": 1353,
+        "url": "/proxy-cors/wp-content/uploads/2021/11/icon-sms-1.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2021-11-17 08:55:55"
+      },
+      {
+        "id": 1500,
+        "url": "/proxy-cors/wp-content/uploads/2022/03/he-thong-bia-tuoi.jpg",
+        "caption": "Hệ thống bia tươi",
+        "description": "Hệ thống bia tươi",
+        "altText": "Hệ thống bia tươi",
+        "createdAt": "2022-03-10 20:07:55"
+      },
+      {
+        "id": 1523,
+        "url": "/proxy-cors/wp-content/uploads/2022/12/pho-di-bo-bui-vien.jpg",
+        "caption": "Phố đi bộ Bùi Viện",
+        "description": "Phố đi bộ Bùi Viện",
+        "altText": "Phố đi bộ Bùi Viện",
+        "createdAt": "2022-12-07 20:15:21"
+      },
+      {
+        "id": 1535,
+        "url": "/proxy-cors/wp-content/uploads/2022/12/pho-di-bo-bui-vien-1.jpg",
+        "caption": "Phố đi bộ đường Bùi Viện",
+        "description": "Phố đi bộ đường Bùi Viện",
+        "altText": "Phố đi bộ đường Bùi Viện",
+        "createdAt": "2022-12-12 12:26:30"
+      },
+      {
+        "id": 1536,
+        "url": "/proxy-cors/wp-content/uploads/2022/12/xem-bong-da-tai-lua-dai-viet.jpg",
+        "caption": "Xem bóng đá trước nhà hàng Lúa Đại Việt",
+        "description": "Xem bóng đá trước nhà hàng Lúa Đại Việt",
+        "altText": "Xem bóng đá trước nhà hàng Lúa Đại Việt",
+        "createdAt": "2022-12-12 12:26:32"
+      },
+      {
+        "id": 1537,
+        "url": "/proxy-cors/wp-content/uploads/2022/12/hai-san-o-nha-hang-lua-dai-viet.jpg",
+        "caption": "Hải sản ở nhà hàng Lúa Đại Việt",
+        "description": "Hải sản ở nhà hàng Lúa Đại Việt",
+        "altText": "Hải sản ở nhà hàng Lúa Đại Việt",
+        "createdAt": "2022-12-12 12:26:33"
+      },
+      {
+        "id": 1538,
+        "url": "/proxy-cors/wp-content/uploads/2022/12/cong-pho-di-bo-bui-vien-sai-gon.jpg",
+        "caption": "Cổng phố đi bộ Bùi Viện Sài Gòn",
+        "description": "Cổng phố đi bộ Bùi Viện Sài Gòn",
+        "altText": "Cổng phố đi bộ Bùi Viện Sài Gòn",
+        "createdAt": "2022-12-12 12:26:35"
+      },
+      {
+        "id": 1542,
+        "url": "/proxy-cors/wp-content/uploads/2023/02/haisantuoisong-LuaDaiViet.jpeg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-02-09 13:20:08"
+      },
+      {
+        "id": 1543,
+        "url": "/proxy-cors/wp-content/uploads/2023/02/combo-haisan-LuaDaiDaiViet.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-02-09 13:21:35"
+      },
+      {
+        "id": 1548,
+        "url": "/proxy-cors/wp-content/uploads/2023/02/Nhahanghaisan-BuiVien-LuaDaiViet-Q1-scaled.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-02-18 18:53:07"
+      },
+      {
+        "id": 1550,
+        "url": "/proxy-cors/wp-content/uploads/2023/02/Seafood-restaurant-near-BuiVien-DeTham.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-02-18 18:53:51"
+      },
+      {
+        "id": 1551,
+        "url": "/proxy-cors/wp-content/uploads/2023/02/bentrong-nhahang-LuaDaiViet-Q1-BuiVien.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-02-18 18:54:37"
+      },
+      {
+        "id": 1552,
+        "url": "/proxy-cors/wp-content/uploads/2023/02/Restaurant-seafood-near-BuiVien-DeTham.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-02-18 18:55:55"
+      },
+      {
+        "id": 1565,
+        "url": "/proxy-cors/wp-content/uploads/2023/07/SenDaiViet-BuiVien-restaurant.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-07-04 15:59:57"
+      },
+      {
+        "id": 1566,
+        "url": "/proxy-cors/wp-content/uploads/2023/07/outside-LuaDaiViet-BuiVien-restaurant.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-07-04 16:01:20"
+      },
+      {
+        "id": 1567,
+        "url": "/proxy-cors/wp-content/uploads/2023/07/oc-gai.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-07-04 16:04:42"
+      },
+      {
+        "id": 1570,
+        "url": "/proxy-cors/wp-content/uploads/2023/07/cua-SenLuaBien-Oc-DaiViet.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-07-04 16:13:04"
+      },
+      {
+        "id": 1571,
+        "url": "/proxy-cors/wp-content/uploads/2023/07/Seafood-Pho-LuaDaiViet.jpg",
+        "caption": "",
+        "description": "",
+        "altText": "",
+        "createdAt": "2023-07-04 16:14:49"
+      }
+    ],
+    "success": true,
+    "meta": {
+      "duration": 1
+    }
+  }
+]
