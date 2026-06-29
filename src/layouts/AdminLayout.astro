@@ -1,0 +1,142 @@
+---
+import '../styles/global.css';
+
+export interface Props {
+    title: string;
+}
+
+const { title } = Astro.props;
+const currentPath = Astro.url.pathname;
+---
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{title} - Hethongbiatuoi CMS</title>
+</head>
+<body class="bg-gray-100 flex h-screen overflow-hidden">
+
+    <!-- Sidebar -->
+    <aside class="w-64 bg-gray-900 text-white flex flex-col hidden md:flex">
+        <div class="h-16 flex items-center justify-center border-b border-gray-800">
+            <h1 class="text-xl font-bold text-primary">Biabia CMS</h1>
+        </div>
+        <nav class="flex-1 overflow-y-auto py-4">
+            <ul class="space-y-1">
+                <li>
+                    <a href="/admin" class="block px-6 py-3 hover:bg-gray-800 hover:text-primary transition-colors">
+                        📊 Dashboard
+                    </a>
+                </li>
+                <li>
+                    <a href="/admin/posts" class={`block px-6 py-3 hover:bg-gray-800 hover:text-primary transition-colors ${currentPath.startsWith('/admin/posts') ? 'bg-gray-800 text-primary border-l-4 border-primary' : ''}`}>
+                        📝 Bài Viết
+                    </a>
+                </li>
+                <li>
+                    <a href="/admin/products" class={`block px-6 py-3 hover:bg-gray-800 hover:text-primary transition-colors ${currentPath.startsWith('/admin/products') ? 'bg-gray-800 text-primary border-l-4 border-primary' : ''}`}>
+                        🍺 Sản Phẩm
+                    </a>
+                </li>
+                <li>
+                    <a href="/admin/media" class="block px-6 py-3 hover:bg-gray-800 hover:text-primary transition-colors">
+                        🖼️ Thư Viện Media
+                    </a>
+                </li>
+                <li>
+                    <a href="/admin/settings" class="block px-6 py-3 hover:bg-gray-800 hover:text-primary transition-colors">
+                        ⚙️ Cài đặt
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div class="p-4 border-t border-gray-800">
+            <button id="logoutBtn" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 px-4 rounded transition-colors text-sm font-semibold">
+                Đăng Xuất
+            </button>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <div class="flex-1 flex flex-col h-screen overflow-hidden">
+        <!-- Top header -->
+        <header class="h-16 bg-white shadow-sm flex items-center justify-between px-6 z-10 md:hidden">
+            <div class="font-bold text-xl text-gray-900">Biabia CMS</div>
+            <button id="mobileMenuBtn" class="text-gray-500 hover:text-gray-900 focus:outline-none">
+                <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                </svg>
+            </button>
+        </header>
+
+        <!-- Main pane -->
+        <main class="flex-1 overflow-y-auto bg-gray-50 p-4 md:p-8">
+            <slot />
+        </main>
+    </div>
+
+    <!-- Mobile menu hidden by default -->
+    <div id="mobileMenu" class="fixed inset-0 z-40 bg-gray-900 text-white flex flex-col hidden md:hidden">
+        <div class="h-16 flex items-center justify-between px-6 border-b border-gray-800">
+            <h1 class="text-xl font-bold text-primary">Biabia CMS</h1>
+            <button id="closeMenuBtn" class="text-gray-300 hover:text-white focus:outline-none">
+                <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                </svg>
+            </button>
+        </div>
+        <nav class="flex-1 overflow-y-auto py-4">
+            <ul class="space-y-1">
+                <li><a href="/admin" class="block px-6 py-3 hover:bg-gray-800">Dashboard</a></li>
+                <li><a href="/admin/posts" class="block px-6 py-3 hover:bg-gray-800">Bài Viết & Sản Phẩm</a></li>
+                <li><a href="/admin/media" class="block px-6 py-3 hover:bg-gray-800">Thư Viện Media</a></li>
+                <li><a href="/admin/settings" class="block px-6 py-3 hover:bg-gray-800">Cài đặt</a></li>
+            </ul>
+        </nav>
+        <div class="p-4 border-t border-gray-800">
+            <button id="mobileLogoutBtn" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 px-4 rounded">
+                Đăng Xuất
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // Menu Toggle
+        const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+        const closeMenuBtn = document.getElementById('closeMenuBtn');
+        const mobileMenu = document.getElementById('mobileMenu');
+
+        if (mobileMenuBtn && mobileMenu && closeMenuBtn) {
+            mobileMenuBtn.addEventListener('click', () => {
+                mobileMenu.classList.remove('hidden');
+            });
+            closeMenuBtn.addEventListener('click', () => {
+                mobileMenu.classList.add('hidden');
+            });
+        }
+
+        // Logout
+        const doLogout = async () => {
+            if (confirm('Bạn có chắc muốn đăng xuất?')) {
+                try {
+                    await fetch('/api/admin/auth', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ action: 'logout' })
+                    });
+                    window.location.href = '/admin/login';
+                } catch (err) {
+                    console.error(err);
+                }
+            }
+        };
+
+        const logoutBtn = document.getElementById('logoutBtn');
+        const mobileLogoutBtn = document.getElementById('mobileLogoutBtn');
+
+        if (logoutBtn) logoutBtn.addEventListener('click', doLogout);
+        if (mobileLogoutBtn) mobileLogoutBtn.addEventListener('click', doLogout);
+    </script>
+</body>
+</html>

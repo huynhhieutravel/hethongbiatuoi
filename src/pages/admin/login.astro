@@ -1,0 +1,91 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const isLocal = Astro.url.hostname === 'localhost' || Astro.url.hostname === '127.0.0.1';
+const seo = {
+  title: 'Đăng Nhập Quản Trị - Hệ Thống Bia Tươi',
+  description: 'Đăng nhập vào hệ thống quản trị',
+};
+---
+
+<Layout seo={seo}>
+  <div class="min-h-screen bg-gray-100 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-md w-full bg-white rounded-lg shadow-xl overflow-hidden">
+      <div class="px-8 py-10">
+        <div class="text-center mb-8">
+          <img src="https://media.hethongbiatuoi.com/he-thong-bia-thap-vina-bia-logo.webp" alt="Logo" class="h-16 mx-auto mb-4" />
+          <h2 class="text-2xl font-bold text-gray-900">Đăng Nhập Quản Trị</h2>
+          <p class="text-sm text-gray-600 mt-2">Vui lòng nhập tài khoản và mật khẩu</p>
+        </div>
+
+        <form id="loginForm" class="space-y-6">
+          <div>
+            <label for="username" class="block text-sm font-medium text-gray-700">Tài khoản</label>
+            <div class="mt-1">
+              <input id="username" name="username" type="text" required class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-[#f2cf19] focus:border-[#f2cf19] sm:text-sm" />
+            </div>
+          </div>
+
+          <div>
+            <label for="password" class="block text-sm font-medium text-gray-700">Mật khẩu</label>
+            <div class="mt-1">
+              <input id="password" name="password" type="password" required class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-[#f2cf19] focus:border-[#f2cf19] sm:text-sm" />
+            </div>
+          </div>
+
+          <div id="errorMessage" class="hidden text-sm text-red-600 bg-red-50 p-3 rounded-md">
+            Sai tài khoản hoặc mật khẩu!
+          </div>
+
+          <div>
+            <button type="submit" id="submitBtn" class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-black bg-[#f2cf19] hover:bg-yellow-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-[#f2cf19]">
+              Đăng Nhập
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const loginForm = document.getElementById('loginForm');
+    const errorMessage = document.getElementById('errorMessage');
+    const submitBtn = document.getElementById('submitBtn');
+
+    if (loginForm) {
+      loginForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const formData = new FormData(loginForm as HTMLFormElement);
+        const data = Object.fromEntries(formData.entries());
+
+        if (errorMessage) errorMessage.classList.add('hidden');
+        if (submitBtn) {
+          submitBtn.textContent = 'Đang xử lý...';
+          (submitBtn as HTMLButtonElement).disabled = true;
+        }
+
+        try {
+          const res = await fetch('/api/admin/auth', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ action: 'login', ...data })
+          });
+
+          if (res.ok) {
+            window.location.href = '/admin';
+          } else {
+            if (errorMessage) errorMessage.classList.remove('hidden');
+          }
+        } catch (err) {
+          console.error(err);
+          if (errorMessage) errorMessage.classList.remove('hidden');
+        } finally {
+          if (submitBtn) {
+            submitBtn.textContent = 'Đăng Nhập';
+            (submitBtn as HTMLButtonElement).disabled = false;
+          }
+        }
+      });
+    }
+  </script>
+</Layout>

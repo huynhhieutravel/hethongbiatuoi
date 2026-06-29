@@ -8,13 +8,22 @@ export const PATCH: APIRoute = async ({ request }) => {
   if (!db) return new Response(JSON.stringify({ error: { message: 'DB not configured' } }), { status: 500 });
 
   const body = await request.json();
-  const { id, title, altText, caption, description } = body;
-  
+  const { id } = body;
   if (!id) return new Response(JSON.stringify({ error: { message: 'Missing ID' } }), { status: 400 });
 
-  await db.prepare(
-    `UPDATE Media SET title = ?, altText = ?, caption = ?, description = ? WHERE id = ?`
-  ).bind(title || '', altText || '', caption || '', description || '', id).run();
+  const updates = [];
+  const values = [];
+  ['title', 'altText', 'caption', 'description'].forEach(field => {
+    if (body[field] !== undefined) {
+      updates.push(`${field} = ?`);
+      values.push(body[field]);
+    }
+  });
+
+  if (updates.length > 0) {
+    values.push(id);
+    await db.prepare(`UPDATE Media SET ${updates.join(', ')} WHERE id = ?`).bind(...values).run();
+  }
 
   return new Response(JSON.stringify({ success: true }), { headers: { 'Content-Type': 'application/json' } });
 };

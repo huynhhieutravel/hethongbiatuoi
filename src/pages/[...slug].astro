@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import ArchiveCTA from '../components/ArchiveCTA.astro';
 import { env } from 'cloudflare:workers';
+import * as cheerio from 'cheerio';
 
 export const prerender = false;
 
@@ -37,13 +38,17 @@ try {
             if (stmt) {
                 category = stmt;
                 const { results } = await db.prepare(`
-                    SELECT p.*, m.url as imageUrl 
-                    FROM Post p 
+                    SELECT p.id, p.title, p.slug, p.createdAt, m.url as imageUrl FROM Post p 
                     JOIN PostTag pt ON p.id = pt.postId 
                     LEFT JOIN Media m ON p.featuredImage = m.id
                     WHERE pt.tagId = ?
-                    ORDER BY p.createdAt DESC
-                `).bind(category.id).all();
+                    UNION ALL
+                    SELECT p.id, p.title, p.slug, p.createdAt, m.url as imageUrl FROM Product p 
+                    JOIN ProductTag pt ON p.id = pt.productId 
+                    LEFT JOIN Media m ON p.featuredImage = m.id
+                    WHERE pt.tagId = ?
+                    ORDER BY 4 DESC
+                `).bind(category.id, category.id).all();
                 categoryPosts = processCategoryPosts(results);
                 matched = true;
             }
@@ -52,13 +57,17 @@ try {
             if (stmt) {
                 category = stmt;
                 const { results } = await db.prepare(`
-                    SELECT p.*, m.url as imageUrl 
-                    FROM Post p 
+                    SELECT p.id, p.title, p.slug, p.createdAt, m.url as imageUrl FROM Post p 
                     JOIN PostCategory pc ON p.id = pc.postId 
                     LEFT JOIN Media m ON p.featuredImage = m.id
                     WHERE pc.categoryId = ?
-                    ORDER BY p.createdAt DESC
-                `).bind(category.id).all();
+                    UNION ALL
+                    SELECT p.id, p.title, p.slug, p.createdAt, m.url as imageUrl FROM Product p 
+                    JOIN ProductCategory pc ON p.id = pc.productId 
+                    LEFT JOIN Media m ON p.featuredImage = m.id
+                    WHERE pc.categoryId = ?
+                    ORDER BY 4 DESC
+                `).bind(category.id, category.id).all();
                 categoryPosts = processCategoryPosts(results);
                 matched = true;
             }
@@ -66,11 +75,31 @@ try {
 
         // If no strict prefix matched, OR it didn't have a prefix, fallback to the old logic
         if (!matched) {
-            let stmt = await db.prepare("SELECT * FROM Post WHERE slug = ? LIMIT 1").bind(lastSegment).first();
+            let stmt = await db.prepare(`
+                SELECT p.*, 'post' as entityType, m.url as imageUrl 
+                FROM Post p 
+                LEFT JOIN Media m ON p.featuredImage = m.id
+                WHERE p.slug = ? LIMIT 1
+            `).bind(lastSegment).first();
+            
+            if (!stmt) {
+                stmt = await db.prepare(`
+                    SELECT p.*, 'product' as entityType, m.url as imageUrl 
+                    FROM Product p 
+                    LEFT JOIN Media m ON p.featuredImage = m.id
+                    WHERE p.slug = ? LIMIT 1
+                `).bind(lastSegment).first();
+            }
+
             if (stmt) {
                 post = stmt;
                 if (post.content) {
-                    post.content = post.content.replace(/(src|href|srcset|url\()(["']?)(?:https?:\/\/hethongbiatuoi\.com)?\/?(wp-content)/gi, '$1$2/proxy-cors/$3');
+                    // Strip WP dimensions from images to prevent 404s
+                    post.content = post.content.replace(/-\d+x\d+\.(jpg|jpeg|png|webp|gif)/gi, '.$1');
+                    // Point uploads to R2 and strip YYYY/MM/
+                    post.content = post.content.replace(/(src=|href=|srcset=|url\()(["']?)(?:https?:\/\/(?:www\.)?hethongbiatuoi\.com)?\/?wp-content\/uploads\/(?:\d{4}\/\d{2}\/)?([^\s"'>)]+)/gi, '$1$2https://media.hethongbiatuoi.com/$3');
+                    // Point other wp-content (CSS/JS) to proxy-cors
+                    post.content = post.content.replace(/(src=|href=|srcset=|url\()(["']?)(?:https?:\/\/(?:www\.)?hethongbiatuoi\.com)?\/?(wp-content\/(?!uploads\/))/gi, '$1$2/proxy-cors/$3');
                     // Remove Elementor entrance animations that hide text since JS is removed
                     post.content = post.content.replace(/elementor-invisible/g, '');
                     // Fix broken goqr.me error text saved in DB
@@ -78,6 +107,83 @@ try {
                         /en:\s*malformed\s*'create-qr-code'\s*API\s*request[^<]*/gi,
                         `<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://hethongbiatuoi.com/${post.slug}/" alt="QR Code" width="100" height="100" style="display:inline-block; vertical-align:middle; margin-left: 10px;" />`
                     );
+
+                    try {
+                        const $ = cheerio.load(post.content);
+                        
+                        // Rewrite Breadcrumbs
+                        const breadcrumbWidget = $('.elementor-widget-post-info').first();
+                        if (breadcrumbWidget.length > 0) {
+                            breadcrumbWidget.replaceWith(`
+                                <nav class="custom-breadcrumb" aria-label="Breadcrumb">
+                                    <a href="/">Trang chủ</a>
+                                    <span class="separator">/</span>
+                                    <a href="/san-pham/">Sản Phẩm</a>
+                                    <span class="separator">/</span>
+                                    <span class="current" aria-current="page">${post.title}</span>
+                                </nav>
+                            `);
+                        }
+
+                        // Rewrite Share Buttons
+                        $('.elementor-widget-share-buttons').replaceWith(`
+                            <div class="custom-share-buttons">
+                                <a href="https://www.facebook.com/sharer/sharer.php?u=https://hethongbiatuoi.com/${post.slug}/" target="_blank" class="share-btn fb">Facebook</a>
+                                <button type="button" onclick="navigator.clipboard.writeText('https://hethongbiatuoi.com/${post.slug}/'); alert('Đã copy link sản phẩm!');" class="share-btn copy">Copy Link</button>
+                            </div>
+                        `);
+
+                        // Rewrite "Xem thêm" tags grid
+                        const relatedTags: string[] = [];
+                        $('.elementor-widget-button a.elementor-button').each((_, el) => {
+                            const text = $(el).text().trim();
+                            const href = $(el).attr('href') || '#';
+                            relatedTags.push(`<a href="${href}" class="custom-related-btn">${text}</a>`);
+                        });
+
+                        if (relatedTags.length > 0) {
+                            // Find the heading section to insert after
+                            const xemThemHeading = $('h2.elementor-heading-title').filter(function() {
+                                return $(this).text().trim().includes('Xem thêm');
+                            }).closest('.elementor-section');
+
+                            if (xemThemHeading.length > 0) {
+                                xemThemHeading.after(`
+                                    <div class="custom-related-tags">
+                                        ${relatedTags.join('')}
+                                    </div>
+                                `);
+                            }
+
+                            // Remove the old button sections
+                            $('.elementor-section').each((_, el) => {
+                                if ($(el).find('.elementor-widget-button').length > 0) {
+                                    $(el).remove();
+                                }
+                            });
+                        }
+
+                        // Rewrite Hotline CTA
+                        const hotlineSection = $('.elementor-section').filter(function() {
+                            return $(this).text().includes('Hotline Đặt Bia') && $(this).text().includes('0963');
+                        });
+                        
+                        if (hotlineSection.length > 0) {
+                            hotlineSection.replaceWith(`
+                                <div class="custom-hotline-cta">
+                                    <div class="hotline-icon">📞</div>
+                                    <div class="hotline-text">
+                                        <div class="hotline-title">Hotline Đặt Bia Tươi ngay</div>
+                                        <a href="tel:0963447890" class="hotline-number">0963 447 890</a>
+                                    </div>
+                                </div>
+                            `);
+                        }
+
+                        post.content = $.html();
+                    } catch (e) {
+                        console.error('Cheerio processing error:', e);
+                    }
                 }
             } else {
                 // fallback to category/tag if still not found (e.g. they removed the prefix)
@@ -85,34 +191,44 @@ try {
                 if (stmt) {
                     category = stmt;
                     const { results } = await db.prepare(`
-                        SELECT p.*, m.url as imageUrl 
-                        FROM Post p 
+                        SELECT p.id, p.title, p.slug, p.createdAt, m.url as imageUrl FROM Post p 
                         JOIN PostCategory pc ON p.id = pc.postId 
                         LEFT JOIN Media m ON p.featuredImage = m.id
                         WHERE pc.categoryId = ?
-                        ORDER BY p.createdAt DESC
-                    `).bind(category.id).all();
+                        UNION ALL
+                        SELECT p.id, p.title, p.slug, p.createdAt, m.url as imageUrl FROM Product p 
+                        JOIN ProductCategory pc ON p.id = pc.productId 
+                        LEFT JOIN Media m ON p.featuredImage = m.id
+                        WHERE pc.categoryId = ?
+                        ORDER BY 4 DESC
+                    `).bind(category.id, category.id).all();
                     categoryPosts = processCategoryPosts(results);
+                    console.log("Found category:", category.name, "Posts:", categoryPosts.length);
                 } else {
                     stmt = await db.prepare("SELECT * FROM Tag WHERE slug = ? LIMIT 1").bind(lastSegment).first();
                     if (stmt) {
                         category = stmt;
                         const { results } = await db.prepare(`
-                            SELECT p.*, m.url as imageUrl 
-                            FROM Post p 
+                            SELECT p.id, p.title, p.slug, p.createdAt, m.url as imageUrl FROM Post p 
                             JOIN PostTag pt ON p.id = pt.postId 
                             LEFT JOIN Media m ON p.featuredImage = m.id
                             WHERE pt.tagId = ?
-                            ORDER BY p.createdAt DESC
-                        `).bind(category.id).all();
+                            UNION ALL
+                            SELECT p.id, p.title, p.slug, p.createdAt, m.url as imageUrl FROM Product p 
+                            JOIN ProductTag pt ON p.id = pt.productId 
+                            LEFT JOIN Media m ON p.featuredImage = m.id
+                            WHERE pt.tagId = ?
+                            ORDER BY 4 DESC
+                        `).bind(category.id, category.id).all();
                         categoryPosts = processCategoryPosts(results);
+                        console.log("Found tag:", category.name, "Posts:", categoryPosts.length);
                     }
                 }
             }
         }
     }
 } catch (e) {
-    console.log("DB Error:", e);
+    console.log("DB Error in [...slug].astro:", e);
 }
 
 if (!post && !category) {
@@ -208,6 +324,193 @@ const catLinks = [
 </Layout>
 
 <style is:global>
+/* ELEMENTOR POLYFILL FOR PRODUCTS */
+.elementor-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.elementor-column {
+    padding: 15px;
+    box-sizing: border-box;
+}
+.elementor-col-50 {
+    width: 50%;
+}
+.elementor-col-100 {
+    width: 100%;
+}
+.elementor-col-33 {
+    width: 33.333%;
+}
+.elementor-col-25 {
+    width: 25%;
+}
+@media (max-width: 768px) {
+    .elementor-col-50, .elementor-col-33, .elementor-col-25 {
+        width: 100%;
+    }
+}
+.elementor-widget-heading h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #111;
+    margin-bottom: 15px;
+}
+.elementor-widget-heading h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #222;
+    margin: 30px 0 15px;
+}
+.elementor-widget-text-editor {
+    line-height: 1.8;
+    color: #444;
+    font-size: 16px;
+}
+.elementor-star-rating {
+    color: #ffcc00;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.elementor-star-full {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-color: #ffcc00;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.elementor-star-7 {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: linear-gradient(to right, #ffcc00 70%, #ccc 30%);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+.elementor-star-rating i {
+    color: transparent;
+}
+.elementor-share-buttons--view-icon .elementor-grid {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.elementor-share-buttons--view-icon .elementor-share-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: white;
+    text-decoration: none;
+    position: relative;
+}
+/* Fallback icons using CSS pseudo-elements since FontAwesome is broken */
+.elementor-share-btn_facebook::after { content: "f"; font-weight: bold; font-family: sans-serif; font-size: 20px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+.elementor-share-btn_twitter::after { content: "t"; font-weight: bold; font-family: sans-serif; font-size: 20px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+.elementor-share-btn_telegram::after { content: "tg"; font-weight: bold; font-family: sans-serif; font-size: 18px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+.elementor-share-btn_facebook .elementor-share-btn__icon,
+.elementor-share-btn_twitter .elementor-share-btn__icon,
+.elementor-share-btn_telegram .elementor-share-btn__icon {
+    display: none;
+}
+.elementor-share-btn_facebook { background: #3b5998; }
+.elementor-share-btn_twitter { background: #1da1f2; }
+.elementor-share-btn_telegram { background: #0088cc; }
+.elementor-posts-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+.elementor-post__thumbnail img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    aspect-ratio: 1;
+    border-radius: 8px;
+}
+.elementor-post__title {
+    font-size: 1.1rem;
+    margin-top: 10px;
+}
+.elementor-post__title a {
+    color: #111;
+    text-decoration: none;
+}
+.elementor-post__read-more {
+    color: #ffcc00;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    text-decoration: none;
+}
+.swiper-slide-image {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+.elementor-section-boxed {
+    padding: 20px 0;
+}
+.elementor-post-info__terms-list {
+    display: block;
+    line-height: 2.5;
+    font-size: 0; /* Hide the commas */
+}
+.elementor-post-info__terms-list-item {
+    background: #f1f1f1;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 14px; /* Restore font size for tags */
+    color: #666;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 8px;
+    font-weight: 500;
+}
+.elementor-post-info__item-prefix {
+    font-size: 15px;
+    margin-right: 5px;
+    font-weight: bold;
+}
+.elementor-widget-jet-listing-dynamic-field {
+    margin-bottom: 25px;
+}
+/* Style the buttons grid at the bottom */
+.elementor-section:has(.elementor-widget-button) .elementor-container {
+    justify-content: center;
+    gap: 15px;
+}
+.elementor-section:has(.elementor-widget-button) .elementor-column {
+    width: auto !important;
+    padding: 5px !important;
+}
+.elementor-button {
+    background-color: #000 !important;
+    color: #ffcc00 !important;
+    border-radius: 50px !important;
+    padding: 10px 25px !important;
+    font-weight: bold !important;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+    min-width: 140px;
+}
+.elementor-button:hover {
+    background-color: #ffcc00 !important;
+    color: #000 !important;
+}
+
 /* Recreating the Elementor Live Site Design */
 .category-archive-wrapper {
     background-color: #ffffcc; /* Pale yellow from screenshot */
@@ -220,7 +523,7 @@ const catLinks = [
     position: relative;
     width: 100%;
     height: 400px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('/proxy-cors/wp-content/uploads/2021/06/san-pham-he-thong-bia-thap.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('https://media.hethongbiatuoi.com/san-pham-he-thong-bia-thap.webp');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -296,8 +599,163 @@ const catLinks = [
     margin: 0 auto;
     padding: 40px 20px;
 }
+.category-archive-wrapper p {
+    margin-bottom: 10px;
+}
+.category-archive-wrapper ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
 
-/* Nav Pills */
+/* Custom Rewritten Blocks */
+.custom-breadcrumb {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.custom-breadcrumb a {
+    color: #111;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+.custom-breadcrumb a:hover {
+    color: #ffcc00;
+}
+.custom-breadcrumb .separator {
+    color: #999;
+}
+.custom-breadcrumb .current {
+    color: #999;
+}
+
+.custom-share-buttons {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 25px;
+}
+.custom-share-buttons .share-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    font-size: 14px;
+    transition: background-color 0.2s;
+}
+.custom-share-buttons .fb {
+    background-color: #1877F2;
+    color: white;
+}
+.custom-share-buttons .fb:hover {
+    background-color: #166FE5;
+}
+.custom-share-buttons .copy {
+    background-color: #f1f1f1;
+    color: #333;
+}
+.custom-share-buttons .copy:hover {
+    background-color: #e4e4e4;
+}
+
+.custom-related-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin: 0 auto 40px auto;
+    max-width: 1140px;
+    padding: 0 10px;
+    justify-content: flex-start;
+}
+.custom-related-btn {
+    background-color: #000;
+    color: #ffcc00;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    display: inline-block;
+    text-align: center;
+}
+.custom-related-btn:hover {
+    background-color: #ffcc00;
+    color: #000;
+}
+
+/* Custom Hotline CTA */
+.custom-hotline-cta {
+    background: linear-gradient(135deg, #fffbed 0%, #ffeba3 100%);
+    border-radius: 20px;
+    padding: 25px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    max-width: 500px;
+    margin: 50px auto 70px auto;
+    box-shadow: 0 10px 30px rgba(255, 204, 0, 0.3);
+    border: 3px solid #ffcc00;
+    transition: transform 0.3s ease;
+}
+.custom-hotline-cta:hover {
+    transform: translateY(-5px);
+}
+.hotline-icon {
+    font-size: 45px;
+    background: #fff;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+.hotline-text {
+    display: flex;
+    flex-direction: column;
+}
+.hotline-title {
+    font-size: 16px;
+    color: #555;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+}
+.hotline-number {
+    font-size: 38px;
+    font-weight: 900;
+    color: #d32f2f;
+    text-decoration: none;
+    line-height: 1;
+}
+.hotline-number:hover {
+    color: #b71c1c;
+}
+
+@media (max-width: 600px) {
+    .custom-hotline-cta {
+        flex-direction: column;
+        text-align: center;
+        padding: 30px 20px;
+        gap: 15px;
+        margin: 40px 15px 50px 15px;
+    }
+}
+
+/* Remove old elementor button css rules */
+
 .cat-nav-pills {
     display: flex;
     flex-wrap: wrap;

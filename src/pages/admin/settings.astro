@@ -1,0 +1,109 @@
+---
+import AdminLayout from '../../layouts/AdminLayout.astro';
+export const prerender = false;
+---
+
+<AdminLayout title="Cài đặt tài khoản">
+    <div class="mb-8">
+        <h1 class="text-3xl font-bold text-gray-900">Cài đặt tài khoản</h1>
+        <p class="text-gray-600 mt-2">Thay đổi mật khẩu quản trị viên</p>
+    </div>
+
+    <div class="bg-white shadow rounded-lg p-6 max-w-2xl">
+        <form id="passwordForm" class="space-y-6">
+            <div id="statusMessage" class="hidden p-3 rounded-md text-sm font-medium"></div>
+
+            <div>
+                <label for="password" class="block text-sm font-medium text-gray-700">Mật khẩu hiện tại</label>
+                <input type="password" id="password" name="password" required class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-[#f2cf19] focus:border-[#f2cf19]" />
+            </div>
+
+            <div>
+                <label for="newPassword" class="block text-sm font-medium text-gray-700">Mật khẩu mới</label>
+                <input type="password" id="newPassword" name="newPassword" required minlength="6" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-[#f2cf19] focus:border-[#f2cf19]" />
+            </div>
+
+            <div>
+                <label for="confirmPassword" class="block text-sm font-medium text-gray-700">Xác nhận mật khẩu mới</label>
+                <input type="password" id="confirmPassword" name="confirmPassword" required minlength="6" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-[#f2cf19] focus:border-[#f2cf19]" />
+            </div>
+
+            <div>
+                <button type="submit" id="saveBtn" class="bg-[#f2cf19] hover:bg-yellow-500 text-black font-semibold py-2 px-6 rounded shadow transition-colors">
+                    Đổi mật khẩu
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        const form = document.getElementById('passwordForm');
+        const statusMessage = document.getElementById('statusMessage');
+        const saveBtn = document.getElementById('saveBtn');
+
+        if (form) {
+            form.addEventListener('submit', async (e) => {
+                e.preventDefault();
+                
+                const formData = new FormData(form as HTMLFormElement);
+                const password = formData.get('password');
+                const newPassword = formData.get('newPassword');
+                const confirmPassword = formData.get('confirmPassword');
+
+                if (newPassword !== confirmPassword) {
+                    if (statusMessage) {
+                        statusMessage.textContent = 'Mật khẩu xác nhận không khớp!';
+                        statusMessage.className = 'p-3 rounded-md text-sm font-medium mb-4 text-red-600 bg-red-50 block';
+                    }
+                    return;
+                }
+
+                if (saveBtn) {
+                    saveBtn.textContent = 'Đang xử lý...';
+                    (saveBtn as HTMLButtonElement).disabled = true;
+                }
+
+                try {
+                    const res = await fetch('/api/admin/auth', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ action: 'change_password', password, newPassword })
+                    });
+                    
+                    const result = await res.json();
+                    
+                    if (res.ok) {
+                        if (statusMessage) {
+                            statusMessage.textContent = 'Đổi mật khẩu thành công! Vui lòng đăng nhập lại.';
+                            statusMessage.className = 'p-3 rounded-md text-sm font-medium mb-4 text-green-600 bg-green-50 block';
+                        }
+                        (form as HTMLFormElement).reset();
+                        
+                        // Wait a bit then logout
+                        setTimeout(() => {
+                            fetch('/api/admin/auth', {
+                                method: 'POST',
+                                headers: { 'Content-Type': 'application/json' },
+                                body: JSON.stringify({ action: 'logout' })
+                            }).then(() => {
+                                window.location.href = '/admin/login';
+                            });
+                        }, 2000);
+                    } else {
+                        throw new Error(result.error || 'Có lỗi xảy ra');
+                    }
+                } catch (err: any) {
+                    if (statusMessage) {
+                        statusMessage.textContent = err.message;
+                        statusMessage.className = 'p-3 rounded-md text-sm font-medium mb-4 text-red-600 bg-red-50 block';
+                    }
+                } finally {
+                    if (saveBtn) {
+                        saveBtn.textContent = 'Đổi mật khẩu';
+                        (saveBtn as HTMLButtonElement).disabled = false;
+                    }
+                }
+            });
+        }
+    </script>
+</AdminLayout>

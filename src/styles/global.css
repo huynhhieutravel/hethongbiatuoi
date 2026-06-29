@@ -1,6 +1,8 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 @theme {
+  --color-primary: #f2cf19;
   --color-brand-50: #fff8f1;
   --color-brand-100: #ffeedc;
   --color-brand-200: #ffd8b2;

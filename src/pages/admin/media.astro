@@ -1,4 +1,5 @@
 ---
+import AdminLayout from '../../layouts/AdminLayout.astro';
 import { env } from 'cloudflare:workers';
 export const prerender = false;
 
@@ -13,97 +14,99 @@ if (db) {
   }
 }
 
-const initialData = mediaList.map((item) => ({
-  id: item.id,
-  src: item.url,
-  name: item.filename || item.url.split('/').pop() || '',
-  size: item.sizeBytes ? (item.sizeBytes / 1024).toFixed(1) + ' KB' : 'Unknown',
-  dim: (item.width && item.height) ? `${item.width}×${item.height}` : '',
-  alt: (item.altText || '').trim(),
-  title: (item.title || item.filename || '').trim(),
-  caption: (item.caption || '').trim(),
-  desc: (item.description || '').trim(),
-  date: item.createdAt || new Date().toISOString()
-}));
+const initialData = mediaList.map((item) => {
+  const parsedFilename = item.url.split('/').pop() || '';
+  const nameWithoutExt = parsedFilename.split('.')[0] || parsedFilename;
+  return {
+    id: item.id,
+    src: item.url,
+    name: item.filename || parsedFilename,
+    size: item.sizeBytes ? (item.sizeBytes / 1024).toFixed(1) + ' KB' : 'Unknown',
+    dim: (item.width && item.height) ? `${item.width}×${item.height}` : '',
+    alt: (item.altText || '').trim(),
+    title: (item.title || item.filename || nameWithoutExt).trim(),
+    caption: (item.caption || '').trim(),
+    desc: (item.description || '').trim(),
+    date: item.createdAt || new Date().toISOString()
+  };
+});
 ---
 
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Media Library</title>
-  <style>
-    body { margin: 0; font-family: system-ui, sans-serif; display: flex; height: 100vh; background: #f3f4f6; }
-    .main { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
-    .header { padding: 1rem; background: white; border-bottom: 1px solid #e5e7eb; display: flex; justify-content: space-between; align-items: center; }
-    .content { padding: 1rem; overflow-y: auto; flex: 1; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 1rem; }
-    .card { background: white; border: 1px solid #e5e7eb; border-radius: 8px; overflow: hidden; cursor: pointer; aspect-ratio: 1; position: relative; }
-    .card img { width: 100%; height: 100%; object-fit: cover; }
-    .card.selected { border-color: #3b82f6; box-shadow: 0 0 0 2px #3b82f6; }
-    .panel { width: 300px; background: white; border-left: 1px solid #e5e7eb; padding: 1rem; overflow-y: auto; display: none; flex-direction: column; }
-    .panel.active { display: flex; }
-    .panel img { max-width: 100%; height: auto; border-radius: 4px; margin-bottom: 1rem; }
-    .field { margin-bottom: 1rem; }
-    .field label { display: block; font-size: 0.875rem; font-weight: 500; margin-bottom: 0.25rem; color: #374151; }
-    .field input, .field textarea { width: 100%; padding: 0.5rem; border: 1px solid #d1d5db; border-radius: 4px; font-family: inherit; }
-    .overlay { position: fixed; inset: 0; background: rgba(59, 130, 246, 0.9); color: white; display: none; align-items: center; justify-content: center; font-size: 2rem; font-weight: bold; z-index: 100; }
-    .overlay.active { display: flex; }
-    button { padding: 0.5rem 1rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer; }
-    button:hover { background: #2563eb; }
+<AdminLayout title="Media Library">
+  <style is:global>
+    /* Media Library Scoped CSS */
+    .media-container { display: flex; height: calc(100vh - 8rem); background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); position: relative; }
+    .media-main { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
+    .media-header { padding: 1rem; border-bottom: 1px solid #e5e7eb; display: flex; justify-content: space-between; align-items: center; }
+    .media-content { padding: 1rem; overflow-y: auto; flex: 1; }
+    .media-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 1rem; }
+    .media-card { background: white; border: 1px solid #e5e7eb; border-radius: 8px; overflow: hidden; cursor: pointer; aspect-ratio: 1; position: relative; }
+    .media-card img { width: 100%; height: 100%; object-fit: cover; }
+    .media-card.selected { border-color: #3b82f6; box-shadow: 0 0 0 2px #3b82f6; }
+    .media-panel { width: 300px; background: white; border-left: 1px solid #e5e7eb; padding: 1rem; overflow-y: auto; display: none; flex-direction: column; }
+    .media-panel.active { display: flex; }
+    .media-panel img { max-width: 100%; height: auto; border-radius: 4px; margin-bottom: 1rem; }
+    .media-field { margin-bottom: 1rem; }
+    .media-field label { display: block; font-size: 0.875rem; font-weight: 500; margin-bottom: 0.25rem; color: #374151; }
+    .media-field input, .media-field textarea { width: 100%; padding: 0.5rem; border: 1px solid #d1d5db; border-radius: 4px; font-family: inherit; }
+    .media-overlay { position: absolute; inset: 0; background: rgba(59, 130, 246, 0.9); color: white; display: none; align-items: center; justify-content: center; font-size: 2rem; font-weight: bold; z-index: 100; border-radius: 8px; }
+    .media-overlay.active { display: flex; }
+    .media-btn { padding: 0.5rem 1rem; background: #3b82f6; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: 500; }
+    .media-btn:hover { background: #2563eb; }
     #upload-btn { position: relative; overflow: hidden; }
     #upload-btn input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
   </style>
-</head>
-<body>
 
-  <div class="overlay" id="drop-overlay">Kéo thả ảnh vào đây để tải lên</div>
+  <div class="media-container" id="media-wrapper">
+    <div class="media-overlay" id="drop-overlay">Kéo thả ảnh vào đây để tải lên</div>
 
-  <div class="main">
-    <div class="header">
-      <h1>Media Library</h1>
+    <div class="media-main">
+    <div class="media-header">
+      <h1 class="text-2xl font-bold text-gray-900">Media Library</h1>
       <div>
-        <button id="upload-btn">
+        <button id="upload-btn" class="media-btn">
           Tải ảnh lên
           <input type="file" multiple accept="image/*" id="file-input" />
         </button>
       </div>
     </div>
-    <div class="content">
-      <div class="grid" id="grid"></div>
+    <div class="media-content">
+      <div class="media-grid" id="grid"></div>
     </div>
   </div>
 
-  <div class="panel" id="panel">
+  <div class="media-panel" id="panel">
     <img id="panel-img" src="" alt="" />
-    <div class="field">
+    <div class="media-field">
       <label>URL</label>
       <input type="text" id="panel-url" readonly />
     </div>
-    <div class="field">
+    <div class="media-field">
       <label>Title</label>
       <input type="text" id="panel-title" data-field="title" />
     </div>
-    <div class="field">
+    <div class="media-field">
       <label>Alt Text</label>
       <input type="text" id="panel-alt" data-field="altText" />
     </div>
-    <div class="field">
+    <div class="media-field">
       <label>Caption</label>
       <textarea id="panel-caption" data-field="caption"></textarea>
     </div>
-    <div class="field">
+    <div class="media-field">
       <label>Description</label>
       <textarea id="panel-desc" data-field="description"></textarea>
     </div>
     <div style="display: flex; gap: 0.5rem; margin-top: auto;">
-      <button style="background: #ef4444; flex: 1;" id="delete-btn">Xóa Ảnh</button>
-      <button style="background: #6b7280; flex: 1;" onclick="closePanel()">Đóng</button>
+      <button style="background: #ef4444; flex: 1;" class="media-btn" id="delete-btn">Xóa Ảnh</button>
+      <button style="background: #6b7280; flex: 1;" class="media-btn" onclick="window.closePanel()">Đóng</button>
     </div>
     <p id="save-status" style="font-size: 0.8rem; color: #10b981; text-align: center; margin-top: 1rem; opacity: 0; transition: opacity 0.3s;">✓ Saved to DB</p>
   </div>
+  </div>
 
   <script is:inline define:vars={{ initialData }}>
+  try {
     let data = initialData || [];
     let activeId = null;
     let saveTimeout = null;
@@ -112,17 +115,17 @@ const initialData = mediaList.map((item) => ({
     const panel = document.getElementById('panel');
     const dropOverlay = document.getElementById('drop-overlay');
 
-    function renderGrid() {
+    window.renderGrid = function() {
       grid.innerHTML = data.map(item => `
-        <div class="card ${item.id === activeId ? 'selected' : ''}" onclick="openDetail('${item.id}')">
+        <div class="media-card ${String(item.id) === String(activeId) ? 'selected' : ''}" onclick="window.openDetail('${item.id}')">
           <img src="${item.src}" alt="${item.alt}" loading="lazy" />
         </div>
       `).join('');
     }
 
-    function openDetail(id) {
-      activeId = id;
-      const item = data.find(x => x.id === id);
+    window.openDetail = function(id) {
+      activeId = String(id);
+      const item = data.find(x => String(x.id) === activeId);
       if (!item) return;
 
       document.getElementById('panel-img').src = item.src;
@@ -136,18 +139,18 @@ const initialData = mediaList.map((item) => ({
       renderGrid();
     }
 
-    function closePanel() {
+    window.closePanel = function() {
       activeId = null;
       panel.classList.remove('active');
       renderGrid();
-    }
+    };
 
     // Auto-save logic
-    ['title', 'alt', 'caption', 'desc'].forEach(field => {
+    ;['title', 'alt', 'caption', 'desc'].forEach(field => {
       document.getElementById('panel-' + field).addEventListener('input', (e) => {
         if (!activeId) return;
-        const item = data.find(x => x.id === activeId);
-        item[field] = e.target.value;
+        const item = data.find(x => String(x.id) === String(activeId));
+        if (item) item[field] = e.target.value;
 
         const dbField = e.target.getAttribute('data-field');
         
@@ -174,10 +177,10 @@ const initialData = mediaList.map((item) => ({
       fetch('/api/admin/media', {
         method: 'DELETE',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ id: activeId })
+        body: JSON.stringify({ id: Number(activeId) })
       }).then(res => res.json()).then(res => {
         if (res.success) {
-          data = data.filter(x => x.id !== activeId);
+          data = data.filter(x => String(x.id) !== String(activeId));
           closePanel();
         } else {
           alert('Lỗi: ' + res.error?.message);
@@ -191,8 +194,46 @@ const initialData = mediaList.map((item) => ({
       for (const file of files) {
         if (!file.type.startsWith('image/')) continue;
         
+        // --- WebP Client-side Compression ---
+        const compressedFile = await new Promise((resolve) => {
+          const img = new Image();
+          img.src = URL.createObjectURL(file);
+          img.onload = () => {
+            const canvas = document.createElement('canvas');
+            const ctx = canvas.getContext('2d');
+            
+            // Resize if too large (max 1920px width/height)
+            let width = img.width;
+            let height = img.height;
+            const MAX_SIZE = 1920;
+            if (width > height && width > MAX_SIZE) {
+              height = Math.round((height * MAX_SIZE) / width);
+              width = MAX_SIZE;
+            } else if (height > MAX_SIZE) {
+              width = Math.round((width * MAX_SIZE) / height);
+              height = MAX_SIZE;
+            }
+
+            canvas.width = width;
+            canvas.height = height;
+            ctx.drawImage(img, 0, 0, width, height);
+
+            // Compress to WebP
+            canvas.toBlob((blob) => {
+              if (!blob) return resolve(file); // fallback
+              const originalName = file.name.substring(0, file.name.lastIndexOf('.')) || file.name;
+              const newFile = new File([blob], `${originalName}.webp`, {
+                type: 'image/webp',
+                lastModified: Date.now(),
+              });
+              resolve(newFile);
+            }, 'image/webp', 0.8);
+          };
+          img.onerror = () => resolve(file); // fallback on error
+        });
+
         const fd = new FormData();
-        fd.append('file', file);
+        fd.append('file', compressedFile);
         
         // Optimistic UI placeholder
         const tempId = 'temp-' + Date.now();
@@ -235,11 +276,13 @@ const initialData = mediaList.map((item) => ({
       e.preventDefault(); 
       dragCounter = 0; 
       dropOverlay.classList.remove('active'); 
-      handleFiles(e.dataTransfer.files); 
+      handleFiles(e.dataTransfer.files);
     });
-
+      
     // Init
-    renderGrid();
+    window.renderGrid();
+  } catch (err) {
+    document.body.innerHTML += '<div style="position:fixed; top:0; left:0; right:0; background:red; color:white; padding:20px; z-index:9999;">ERROR: ' + err.message + '<br/>' + err.stack + '</div>';
+  }
   </script>
-</body>
-</html>
+</AdminLayout>

@@ -10,6 +10,12 @@ let posts = [];
 try {
     const db = (env as any)?.DB || (env as any)?.hethongbiatuoi_db;
     if (db) {
+        // Helper to remove WordPress thumbnail dimension suffixes to prevent 404s
+        const stripWpSuffixes = (str: string) => {
+            if (!str) return str;
+            return str.replace(/-\d+x\d+\.(jpg|jpeg|png|webp|gif)/gi, '.$1');
+        };
+
         const { results } = await db.prepare(`
             SELECT p.id, p.title, p.slug, p.excerpt, p.createdAt, m.url as imageUrl 
             FROM Post p
@@ -18,11 +24,15 @@ try {
             ORDER BY p.createdAt DESC 
         `).all();
         posts = (results || []).map((p: any) => {
-            if (p.imageUrl && !p.imageUrl.includes('/proxy-cors/')) {
-                p.imageUrl = p.imageUrl.replace(/(?:https?:\/\/hethongbiatuoi\.com)?\/?wp-content/gi, '/proxy-cors/wp-content');
+            if (p.imageUrl) {
+                p.imageUrl = p.imageUrl.replace(/(?:https?:\/\/(?:www\.)?hethongbiatuoi\.com)?\/wp-content\/uploads\/(?:\d{4}\/\d{2}\/)?/gi, 'https://media.hethongbiatuoi.com/');
+                p.imageUrl = p.imageUrl.replace(/^\/uploads\//gi, 'https://media.hethongbiatuoi.com/');
+                p.imageUrl = stripWpSuffixes(p.imageUrl);
             }
-            if (p.excerpt && !p.excerpt.includes('/proxy-cors/')) {
-                p.excerpt = p.excerpt.replace(/(?:https?:\/\/hethongbiatuoi\.com)?\/?wp-content/gi, '/proxy-cors/wp-content');
+            if (p.excerpt) {
+                p.excerpt = p.excerpt.replace(/(?:https?:\/\/(?:www\.)?hethongbiatuoi\.com)?\/wp-content\/uploads\/(?:\d{4}\/\d{2}\/)?/gi, 'https://media.hethongbiatuoi.com/');
+                p.excerpt = p.excerpt.replace(/(["'])\/uploads\//gi, '$1https://media.hethongbiatuoi.com/');
+                p.excerpt = stripWpSuffixes(p.excerpt);
             }
             return p;
         });

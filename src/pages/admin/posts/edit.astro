@@ -1,0 +1,235 @@
+---
+import AdminLayout from '../../../layouts/AdminLayout.astro';
+import { env } from 'cloudflare:workers';
+
+export const prerender = false;
+
+const id = Astro.url.searchParams.get('id');
+
+let post: any = null;
+let featuredImageUrl = '';
+
+if (id) {
+    const db = (env as any)?.DB || (env as any)?.hethongbiatuoi_db;
+    if (db) {
+        try {
+            post = await db.prepare("SELECT * FROM Post WHERE id = ?").bind(id).first();
+            if (post && post.featuredImage) {
+                // Fetch the image URL
+                const media = await db.prepare("SELECT url FROM Media WHERE id = ?").bind(post.featuredImage).first();
+                if (media) {
+                    featuredImageUrl = media.url;
+                }
+            }
+        } catch (e) {
+            console.error("Fetch Post Error:", e);
+        }
+    }
+}
+---
+
+<AdminLayout title={post ? 'Sửa bài viết' : 'Thêm bài viết mới'}>
+    <div class="mb-6 flex items-center justify-between">
+        <h1 class="text-2xl font-bold text-gray-900">{post ? 'Sửa Bài Viết' : 'Thêm Bài Viết Mới'}</h1>
+        <a href="/admin/posts" class="text-gray-600 hover:text-gray-900">&larr; Quay lại danh sách</a>
+    </div>
+
+    <form id="postForm" class="bg-white shadow rounded-lg p-6 max-w-5xl">
+        <input type="hidden" id="postId" value={post ? post.id : ''} />
+        
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            <!-- Left Column (Main content) -->
+            <div class="lg:col-span-2 space-y-6">
+                <div>
+                    <label for="title" class="block text-sm font-medium text-gray-700">Tiêu đề</label>
+                    <input type="text" id="title" name="title" value={post?.title || ''} required class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-[#f2cf19] focus:border-[#f2cf19]" />
+                </div>
+                
+                <div>
+                    <label for="slug" class="block text-sm font-medium text-gray-700">Đường dẫn (Slug)</label>
+                    <input type="text" id="slug" name="slug" value={post?.slug || ''} required class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-[#f2cf19] focus:border-[#f2cf19]" />
+                </div>
+
+                <div>
+                    <label for="excerpt" class="block text-sm font-medium text-gray-700">Mô tả ngắn (Excerpt)</label>
+                    <textarea id="excerpt" name="excerpt" rows="3" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-[#f2cf19] focus:border-[#f2cf19]">{post?.excerpt || ''}</textarea>
+                </div>
+
+                <div>
+                    <label for="content" class="block text-sm font-medium text-gray-700 mb-2">Nội dung chi tiết</label>
+                    <textarea id="content" name="content">{post?.content || ''}</textarea>
+                </div>
+            </div>
+
+            <!-- Right Column (Meta & Actions) -->
+            <div class="space-y-6">
+                <!-- Action Box -->
+                <div class="bg-gray-50 p-4 border border-gray-200 rounded-md">
+                    <h3 class="font-bold text-gray-900 mb-4">Lưu Bài Viết</h3>
+                    <div id="statusMessage" class="mb-4 text-sm hidden font-medium"></div>
+                    <button type="submit" id="saveBtn" class="w-full bg-[#f2cf19] hover:bg-yellow-500 text-black font-semibold py-2 px-4 rounded shadow transition-colors">
+                        {post ? 'Cập nhật' : 'Đăng bài'}
+                    </button>
+                </div>
+
+                <!-- Featured Image -->
+                <div class="bg-gray-50 p-4 border border-gray-200 rounded-md">
+                    <h3 class="font-bold text-gray-900 mb-4">Ảnh Đại Diện</h3>
+                    <input type="hidden" id="featuredImage" name="featuredImage" value={post?.featuredImage || ''} />
+                    
+                    <div id="imagePreviewContainer" class={`mb-4 border-2 border-dashed border-gray-300 rounded p-2 text-center cursor-pointer hover:bg-gray-100 transition-colors ${featuredImageUrl ? '' : 'py-8'}`}>
+                        {featuredImageUrl ? (
+                            <img src={featuredImageUrl} alt="Featured" class="max-w-full h-auto mx-auto max-h-48 rounded" />
+                        ) : (
+                            <span class="text-gray-500">Bấm để chọn ảnh từ Media</span>
+                        )}
+                    </div>
+                    
+                    <button type="button" id="removeImageBtn" class={`text-sm text-red-600 hover:text-red-800 ${featuredImageUrl ? '' : 'hidden'}`}>
+                        Xóa ảnh đại diện
+                    </button>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <!-- TinyMCE -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tinymce/6.8.3/tinymce.min.js" referrerpolicy="origin"></script>
+    
+    <script>
+        // Auto-generate slug from title
+        const titleInput = document.getElementById('title') as HTMLInputElement;
+        const slugInput = document.getElementById('slug') as HTMLInputElement;
+
+        if (titleInput && slugInput && !slugInput.value) {
+            titleInput.addEventListener('input', () => {
+                const title = titleInput.value;
+                const slug = title.toLowerCase()
+                    .normalize('NFD')
+                    .replace(/[\u0300-\u036f]/g, '')
+                    .replace(/đ/g, 'd').replace(/Đ/g, 'd')
+                    .replace(/[^a-z0-9\s-]/g, '')
+                    .trim()
+                    .replace(/\s+/g, '-');
+                slugInput.value = slug;
+            });
+        }
+
+        // Initialize TinyMCE
+        // @ts-ignore
+        tinymce.init({
+            selector: '#content',
+            height: 600,
+            plugins: 'preview importcss searchreplace autolink autosave save directionality code visualblocks visualchars fullscreen image link media template codesample table charmap pagebreak nonbreaking anchor insertdatetime advlist lists wordcount help charmap quickbars emoticons',
+            toolbar: 'undo redo | bold italic underline strikethrough | fontfamily fontsize blocks | alignleft aligncenter alignright alignjustify | outdent indent |  numlist bullist | forecolor backcolor removeformat | pagebreak | charmap emoticons | fullscreen  preview save print | insertfile image media template link anchor codesample | ltr rtl',
+            image_advtab: true,
+            promotion: false, // hide upgrade prompt
+            branding: false
+        });
+
+        // Form Submit
+        const form = document.getElementById('postForm');
+        const saveBtn = document.getElementById('saveBtn');
+        const statusMessage = document.getElementById('statusMessage');
+        const postIdInput = document.getElementById('postId') as HTMLInputElement;
+
+        if (form) {
+            form.addEventListener('submit', async (e) => {
+                e.preventDefault();
+                
+                // Sync TinyMCE data to textarea
+                // @ts-ignore
+                tinymce.triggerSave();
+                
+                const formData = new FormData(form as HTMLFormElement);
+                const data = Object.fromEntries(formData.entries());
+                const postId = postIdInput.value;
+                
+                // Featured image could be string empty, convert to null
+                if (!data.featuredImage) {
+                    data.featuredImage = null as any;
+                }
+
+                if (saveBtn) {
+                    saveBtn.textContent = 'Đang lưu...';
+                    (saveBtn as HTMLButtonElement).disabled = true;
+                }
+                
+                if (statusMessage) {
+                    statusMessage.classList.add('hidden');
+                }
+
+                try {
+                    const url = postId ? `/api/admin/posts/${postId}` : `/api/admin/posts`;
+                    const method = postId ? 'PUT' : 'POST';
+                    
+                    const res = await fetch(url, {
+                        method,
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify(data)
+                    });
+                    
+                    const result = await res.json();
+                    
+                    if (res.ok) {
+                        if (statusMessage) {
+                            statusMessage.textContent = 'Lưu thành công!';
+                            statusMessage.classList.remove('hidden', 'text-red-600', 'bg-red-50');
+                            statusMessage.classList.add('text-green-600', 'bg-green-50', 'p-3');
+                        }
+                        
+                        // If it's a new post, redirect to edit mode after save
+                        if (!postId && result.id) {
+                            setTimeout(() => {
+                                window.location.href = `/admin/posts/edit?id=${result.id}`;
+                            }, 1000);
+                        }
+                    } else {
+                        throw new Error(result.error || 'Có lỗi xảy ra');
+                    }
+                } catch (err: any) {
+                    if (statusMessage) {
+                        statusMessage.textContent = err.message;
+                        statusMessage.classList.remove('hidden', 'text-green-600', 'bg-green-50');
+                        statusMessage.classList.add('text-red-600', 'bg-red-50', 'p-3');
+                    }
+                } finally {
+                    if (saveBtn) {
+                        saveBtn.textContent = postId ? 'Cập nhật' : 'Đăng bài';
+                        (saveBtn as HTMLButtonElement).disabled = false;
+                    }
+                }
+            });
+        }
+
+        // --- Basic Media Picker Placeholder ---
+        // Since we don't have a complex iframe media picker yet, 
+        // we will just use a prompt to ask for image ID or URL for now
+        // A fully integrated popup requires modifying the Media library to emit events.
+        const imagePreviewContainer = document.getElementById('imagePreviewContainer');
+        const featuredImageInput = document.getElementById('featuredImage') as HTMLInputElement;
+        const removeImageBtn = document.getElementById('removeImageBtn');
+
+        if (imagePreviewContainer) {
+            imagePreviewContainer.addEventListener('click', () => {
+                const mediaId = prompt("Nhập ID của ảnh từ Thư Viện Media (Bạn có thể mở Thư viện Media ở tab khác để xem ID):");
+                if (mediaId && !isNaN(parseInt(mediaId))) {
+                    featuredImageInput.value = mediaId;
+                    imagePreviewContainer.innerHTML = `<div class="py-8"><span class="text-green-600 font-bold">Đã chọn ảnh ID: ${mediaId}</span><br/><span class="text-xs text-gray-500">Lưu lại để xem trước</span></div>`;
+                    if (removeImageBtn) removeImageBtn.classList.remove('hidden');
+                }
+            });
+        }
+        
+        if (removeImageBtn) {
+            removeImageBtn.addEventListener('click', () => {
+                featuredImageInput.value = '';
+                if (imagePreviewContainer) {
+                    imagePreviewContainer.innerHTML = `<span class="text-gray-500">Bấm để chọn ảnh từ Media</span>`;
+                    imagePreviewContainer.classList.add('py-8');
+                }
+                removeImageBtn.classList.add('hidden');
+            });
+        }
+    </script>
+</AdminLayout>

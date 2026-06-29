@@ -1,31 +1,350 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from '../layouts/NativeLayout.astro';
 import { env } from 'cloudflare:workers';
 
 export const prerender = false;
 
-let content = "<h1>Không tìm thấy nội dung trang chủ</h1>";
-
+let products = [];
 try {
     const db = (env as any)?.DB || (env as any)?.hethongbiatuoi_db;
     if (db) {
-        const stmt = await db.prepare("SELECT content FROM Post WHERE slug = 'bia-thap' LIMIT 1").first();
-        if (stmt && stmt.content) {
-            content = stmt.content;
-            // Ensure all Elementor images and assets are proxied, including absolute URLs
-            content = content.replace(/(src|href|srcset|url\()(["']?)(?:https?:\/\/hethongbiatuoi\.com)?\/?(wp-content)/gi, '$1$2/proxy-cors/$3');
-            // Remove Elementor entrance animations that hide text since JS is removed
-            content = content.replace(/elementor-invisible/g, '');
-        }
-    } else {
-        content = "<h1>Lỗi: Database binding không tồn tại</h1>";
+        // Helper to remove WordPress thumbnail dimension suffixes to prevent 404s
+        const stripWpSuffixes = (str: string) => {
+            if (!str) return str;
+            return str.replace(/-\d+x\d+\.(jpg|jpeg|png|webp|gif)/gi, '.$1');
+        };
+
+        // Fetch latest 9 products with images
+        const { results } = await db.prepare(`
+            SELECT p.id, p.title, p.slug, m.url as imageUrl 
+            FROM Product p
+            LEFT JOIN Media m ON p.featuredImage = m.id
+            WHERE p.slug IN (
+                'bia-ben-thanh-sai-gon-ong-gia',
+                'bia-ben-thanh-sai-gon-do',
+                'bia-ben-thanh-sai-gon-xanh',
+                'bia-thap-3-lit',
+                'bia-hemsi-sai-gon',
+                'bia-naviken',
+                'bia-vina-sai-gon-ho-lo',
+                'bia-vina-sai-gon-400ml-xanh',
+                'bia-vina-sai-gon-den'
+            )
+        `).all();
+        
+        products = (results || []).map((p: any) => {
+            if (p.imageUrl) {
+                p.imageUrl = p.imageUrl.replace(/(?:https?:\/\/(?:www\.)?hethongbiatuoi\.com)?\/wp-content\/uploads\/(?:\d{4}\/\d{2}\/)?/gi, 'https://media.hethongbiatuoi.com/');
+                p.imageUrl = p.imageUrl.replace(/^\/uploads\//gi, 'https://media.hethongbiatuoi.com/');
+                p.imageUrl = stripWpSuffixes(p.imageUrl);
+            }
+            return p;
+        });
+        
+        const order = [
+            'bia-ben-thanh-sai-gon-ong-gia',
+            'bia-ben-thanh-sai-gon-do',
+            'bia-ben-thanh-sai-gon-xanh',
+            'bia-thap-3-lit',
+            'bia-hemsi-sai-gon',
+            'bia-naviken',
+            'bia-vina-sai-gon-ho-lo',
+            'bia-vina-sai-gon-400ml-xanh',
+            'bia-vina-sai-gon-den'
+        ];
+        products.sort((a: any, b: any) => order.indexOf(a.slug) - order.indexOf(b.slug));
     }
 } catch (e) {
     console.log("DB Error:", e);
-    content = "<h1>Lỗi máy chủ nội bộ</h1>";
 }
+
+const realImages = [
+    "nhan-vien-he-thong-bia-thap-chup-hinh-cung-nguoi-dan.jpg",
+    "chup-hinh-truoc-quan-nhau-bia-tuoi.jpg",
+    "he-thong-bia-thap-di-den-cac-quan-an-tren-khap-noi.jpg",
+    "he-thong-bia-thap-ban-giao-bia-cho-tiem-tap-hoa.jpg",
+    "he-thong-bia-thap-giao-bia-cho-quan-nuong.jpg",
+    "he-thong-bia-thap-di-den-cac-vung-tay-nguyen-vung-cao.jpg",
+    "boc-do-bia-tuoi.jpg",
+    "khong-gian-ben-trong-tu-lanh-he-thong-bia-thap.jpg",
+    "san-pham-bia-tuoi-tren-ban-nhau.jpg",
+    "ban-giao-tu-lanh-chuyen-dung-cho-khach-hang.jpg",
+    "bia-inox-cua-he-thtoosng-bia-thap.jpg",
+    "cac-loai-san-pham-bia-khac-nhau-cua-he-thong-bia-thap.jpg",
+    "chuan-bi-giao-bia-cho-khach-hang.jpg",
+    "giao-bia-va-ban-hieu-cho-tiem-an-le-duong.jpg",
+    "he-thong-bia-thap-giao-hang-tren-moi-neo-duong.jpg"
+];
+
+// Ensure products fallback if DB empty (from original UI)
+if (products.length === 0) {
+    products = [
+        { title: "Bia Bến Thành Sài Gòn Ông Già 900ml", slug: "bia-ben-thanh-sai-gon-ong-gia-900ml", imageUrl: "https://media.hethongbiatuoi.com/Ben-Thanh-SG-900ml-Ong-Gia-nen-vang.webp" },
+        { title: "Bia Bến Thành Sài Gòn đỏ 900ml", slug: "bia-ben-thanh-sai-gon-do-900ml", imageUrl: "https://media.hethongbiatuoi.com/ben-thanh-sai-gon-do-900ml-nen-vang.webp" },
+        { title: "Bia Bến Thành Sài Gòn xanh 500ml", slug: "bia-ben-thanh-sai-gon-xanh-500ml", imageUrl: "https://media.hethongbiatuoi.com/ben-thanh-sai-gon-500ml-xanh-nen-vang.webp" },
+        { title: "Bia Tháp 3 Lít", slug: "bia-thap-3-lit", imageUrl: "https://media.hethongbiatuoi.com/Bia-Thap-3L-nen-vang.webp" },
+        { title: "Bia Hemsi Sài Gòn 900ml", slug: "bia-hemsi-sai-gon-900ml", imageUrl: "https://media.hethongbiatuoi.com/Bia-Hemsi-Sai-Gon-900ml-nen-vang.webp" },
+        { title: "Bia Naviken 900ml", slug: "bia-naviken-900ml", imageUrl: "https://media.hethongbiatuoi.com/Naviken-900ml-nen-vang.webp" },
+        { title: "Bia Vina Sài Gòn hồ lô 500ml", slug: "bia-vina-sai-gon-ho-lo-500ml", imageUrl: "https://media.hethongbiatuoi.com/Vina-SG-500ml-Ho-Lo-nen-vang.webp" },
+        { title: "Bia Vina Sài Gòn Xanh 400ml", slug: "bia-vina-sai-gon-xanh-400ml", imageUrl: "https://media.hethongbiatuoi.com/Vina-SG-500ml-xanh-nen-vang.webp" },
+        { title: "Bia Vina Sài Gòn Đen 900ml", slug: "bia-vina-sai-gon-den-900ml", imageUrl: "https://media.hethongbiatuoi.com/Vina-SG-900ml-Den-nen-vang.webp" },
+    ];
+}
+
+const extractVolume = (title: string) => {
+    const match = title.match(/(\d+ml|\d+\s*Lít)/i);
+    return match ? `bia ${match[1].toLowerCase()}` : '';
+};
 ---
 
-<Layout title="Hệ Thống Bia Tươi Sài Gòn">
-    <Fragment set:html={content} />
+<Layout title="Hệ Thống Bia Tháp - Trang chủ" description="Hệ thống cung cấp bia tháp, bia tươi sỉ và lẻ uy tín nhất.">
+    <!-- Hero Banner -->
+    <section class="relative w-full h-[50vh] md:h-[70vh] flex items-center justify-start overflow-hidden">
+        <div class="absolute inset-0 bg-black/40 z-10"></div>
+        <img src="https://media.hethongbiatuoi.com/banner-he-thong-bia-thap.webp" alt="Hệ Thống Bia Tháp" class="absolute inset-0 w-full h-full object-cover z-0" />
+        <div class="relative z-20 px-8 md:px-20 text-white max-w-4xl">
+            <h1 class="text-5xl md:text-7xl font-bold uppercase mb-4 drop-shadow-lg tracking-tight" style="color: #ffffff; text-shadow: 2px 2px 10px rgba(0,0,0,0.5);">
+                Hệ Thống<br/><span class="text-brand-500">Bia Tháp</span>
+            </h1>
+            <p class="text-xl md:text-2xl font-light drop-shadow-md">Nhà phân phối bia tươi, bia tháp sỉ và lẻ toàn quốc.</p>
+        </div>
+    </section>
+
+    <!-- Features -->
+    <section class="py-12 bg-white">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+                <div class="flex flex-col items-center">
+                    <div class="w-16 h-16 rounded-full bg-brand-50 text-brand-600 flex items-center justify-center text-2xl mb-4"><i class="fas fa-truck"></i></div>
+                    <h3 class="font-bold text-lg mb-2">Giao Hàng Tận Nơi</h3>
+                    <p class="text-sm text-gray-500">Chính sách ship hàng tận quán, cửa hàng cho khách hàng thân thiết.</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <div class="w-16 h-16 rounded-full bg-brand-50 text-brand-600 flex items-center justify-center text-2xl mb-4"><i class="fas fa-tools"></i></div>
+                    <h3 class="font-bold text-lg mb-2">Hỗ Trợ Lắp Đặt</h3>
+                    <p class="text-sm text-gray-500">Tư vấn, lắp đặt thiết bị bia tươi tận nơi chuyên nghiệp.</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <div class="w-16 h-16 rounded-full bg-brand-50 text-brand-600 flex items-center justify-center text-2xl mb-4"><i class="fas fa-medal"></i></div>
+                    <h3 class="font-bold text-lg mb-2">Chất Lượng</h3>
+                    <p class="text-sm text-gray-500">Cam kết chất lượng 100% chuẩn từ nhà máy bia.</p>
+                </div>
+                <div class="flex flex-col items-center">
+                    <div class="w-16 h-16 rounded-full bg-brand-50 text-brand-600 flex items-center justify-center text-2xl mb-4"><i class="fas fa-tags"></i></div>
+                    <h3 class="font-bold text-lg mb-2">Giá Tốt Nhất</h3>
+                    <p class="text-sm text-gray-500">Chiết khấu cao, hậu mãi tốt cho các đại lý bia tươi.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="py-16 bg-gray-50">
+        <div class="container mx-auto px-4 max-w-6xl">
+            <div class="flex flex-col md:flex-row items-center gap-12">
+                <div class="md:w-1/2 relative">
+                    <img src="https://media.hethongbiatuoi.com/bg-11.webp" alt="Pattern" class="absolute -top-10 -left-10 w-32 opacity-20 z-0" />
+                    <img src="https://media.hethongbiatuoi.com/gioi-thieu-bia-tuoi-sai-gon.webp" alt="Giới thiệu bia tươi" class="relative z-10 w-full rounded-2xl shadow-xl" />
+                </div>
+                <div class="md:w-1/2">
+                    <h2 class="text-3xl md:text-4xl font-bold mb-6 text-gray-900">Giới Thiệu <span class="text-brand-600">Hệ Thống Bia Tươi</span></h2>
+                    <p class="text-gray-600 mb-4 leading-relaxed text-lg">
+                        Hệ Thống Bia Tươi là một thương hiệu bia cung cấp các loại bia tươi, bia tháp, bia sệt uy tín hàng đầu.
+                        Với nhiều năm kinh nghiệm trong lĩnh vực F&B, chúng tôi tự hào mang đến cho khách hàng những dòng sản phẩm bia ngon nhất, chuẩn vị nhất.
+                    </p>
+                    <p class="text-gray-600 mb-8 leading-relaxed text-lg">
+                        Đến với Hệ Thống Bia Tươi, quý khách không chỉ mua được sản phẩm với giá ưu đãi mà còn nhận được sự hỗ trợ nhiệt tình từ khâu tư vấn, thiết kế, đến lắp đặt trang thiết bị tận nơi.
+                    </p>
+                    <a href="/tin-tuc" class="inline-block bg-brand-600 text-white font-bold py-3 px-8 rounded-full hover:bg-black transition-colors duration-300 shadow-lg">Xem Thêm Về Chúng Tôi</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- HÌNH ẢNH THỰC TẾ SLIDER -->
+    <section class="py-16 bg-white overflow-hidden border-t border-gray-100">
+        <div class="container mx-auto px-4 max-w-7xl mb-12 text-center">
+            <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-4 uppercase">Hình Ảnh <span class="text-brand-600">Thực Tế</span></h2>
+            <div class="w-24 h-1 bg-brand-500 mx-auto rounded-full"></div>
+            <p class="text-gray-500 mt-4">Những khoảnh khắc giao hàng và làm việc cùng đối tác toàn quốc</p>
+        </div>
+        
+        <div id="real-images-slider" class="w-full overflow-x-auto flex gap-4 px-4 pb-8 snap-x snap-mandatory cursor-grab active:cursor-grabbing" style="scrollbar-width: none; -ms-overflow-style: none;">
+            <style>
+                /* Hide scrollbar for Chrome, Safari and Opera */
+                .overflow-x-auto::-webkit-scrollbar {
+                    display: none;
+                }
+            </style>
+            {realImages.map((img, i) => (
+                <div class="w-72 md:w-96 h-56 md:h-72 flex-shrink-0 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-shadow snap-center relative group">
+                    <img src={"https://media.hethongbiatuoi.com/" + img} alt={`Hình ảnh thực tế Hệ thống bia tháp ${i+1}`} class="w-full h-full object-cover hover:scale-110 transition-transform duration-700 pointer-events-none" loading="lazy" />
+                    <div class="absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"></div>
+                </div>
+            ))}
+        </div>
+        
+        <script is:inline>
+            document.addEventListener('DOMContentLoaded', () => {
+                const slider = document.getElementById('real-images-slider');
+                let isDown = false;
+                let startX;
+                let scrollLeft;
+
+                if(slider) {
+                    slider.addEventListener('mousedown', (e) => {
+                        isDown = true;
+                        slider.classList.add('cursor-grabbing');
+                        slider.classList.remove('cursor-grab');
+                        startX = e.pageX - slider.offsetLeft;
+                        scrollLeft = slider.scrollLeft;
+                    });
+                    slider.addEventListener('mouseleave', () => {
+                        isDown = false;
+                        slider.classList.remove('cursor-grabbing');
+                        slider.classList.add('cursor-grab');
+                    });
+                    slider.addEventListener('mouseup', () => {
+                        isDown = false;
+                        slider.classList.remove('cursor-grabbing');
+                        slider.classList.add('cursor-grab');
+                    });
+                    slider.addEventListener('mousemove', (e) => {
+                        if (!isDown) return;
+                        e.preventDefault();
+                        const x = e.pageX - slider.offsetLeft;
+                        const walk = (x - startX) * 2; // Tốc độ cuộn
+                        slider.scrollLeft = scrollLeft - walk;
+                    });
+                }
+            });
+        </script>
+    </section>
+
+    <!-- Products Section -->
+    <section class="py-20 bg-yellow-50" style="background-color: #ffffcc;">
+        <div class="container mx-auto px-4 max-w-7xl">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4 uppercase">Sản Phẩm <span class="text-brand-600">Nổi Bật</span></h2>
+                <div class="w-24 h-1 bg-brand-500 mx-auto rounded-full"></div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {products.map((p) => {
+                    let badgeText = extractVolume(p.title);
+                    return (
+                    <div class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-2xl transition-all duration-300 flex flex-col group transform hover:-translate-y-1">
+                        <a href={`/${p.slug}`} class="block relative pt-[100%] bg-gray-50 overflow-hidden">
+                            {badgeText && <span class="absolute top-4 left-4 bg-yellow-400 text-black font-bold py-1 px-3 rounded text-sm z-10 uppercase">{badgeText}</span>}
+                            {p.imageUrl ? (
+                                <img src={p.imageUrl} alt={p.title} class="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                            ) : (
+                                <div class="absolute inset-0 flex items-center justify-center text-gray-400">No Image</div>
+                            )}
+                        </a>
+                        <div class="p-6 text-center flex flex-col flex-grow">
+                            <h3 class="text-xl font-bold text-yellow-600 mb-4 line-clamp-2 min-h-[3.5rem] leading-snug group-hover:text-brand-600 transition-colors" set:html={p.title}></h3>
+                            <a href={`/${p.slug}`} class="mt-auto inline-block border-2 border-black text-black font-bold py-2 px-6 rounded-full group-hover:bg-black group-hover:text-yellow-400 transition-all duration-300 text-sm uppercase">Chi tiết sản phẩm</a>
+                        </div>
+                    </div>
+                )})}
+            </div>
+
+            <div class="text-center mt-12">
+                <a href="/danh-muc/bia-thap" class="inline-block bg-black text-yellow-400 font-bold py-3 px-10 rounded-full hover:bg-brand-600 hover:text-white transition-colors duration-300 text-lg uppercase shadow-lg">Xem Tất Cả Sản Phẩm</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Promo Banner -->
+    <section class="w-full relative py-20 bg-gray-900 overflow-hidden">
+        <div class="absolute inset-0 opacity-40">
+            <img src="https://media.hethongbiatuoi.com/banner-quang-cao-he-thong-bia-thap.webp" alt="Khuyến mãi" class="w-full h-full object-cover" />
+        </div>
+        <div class="container mx-auto px-4 relative z-10 text-center">
+            <h2 class="text-4xl md:text-5xl font-bold text-white mb-6 uppercase text-shadow-md">Bạn Cần Tư Vấn?</h2>
+            <p class="text-xl text-yellow-400 mb-8 font-medium">Chúng tôi luôn sẵn sàng hỗ trợ bạn 24/7 với giá sỉ cực tốt!</p>
+            <a href="tel:0963447890" class="inline-flex items-center bg-brand-600 text-white font-bold py-4 px-10 rounded-full hover:bg-white hover:text-brand-600 transition-colors duration-300 text-2xl shadow-xl">
+                <i class="fas fa-phone-alt mr-3"></i> 0963 447 890
+            </a>
+        </div>
+    </section>
+
+    <!-- How to buy -->
+    <section class="py-20 bg-white">
+        <div class="container mx-auto px-4 max-w-6xl">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-4 uppercase">Hướng dẫn <span class="text-brand-600">Mua Hàng</span></h2>
+                <div class="w-24 h-1 bg-brand-500 mx-auto rounded-full"></div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 relative">
+                <div class="hidden md:block absolute top-1/2 left-0 w-full h-0.5 bg-gray-200 -z-10 -translate-y-1/2"></div>
+                
+                <div class="bg-white p-6 rounded-2xl shadow-lg border border-gray-100 text-center relative">
+                    <div class="w-16 h-16 bg-brand-600 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-6 shadow-md absolute -top-8 left-1/2 -translate-x-1/2">1</div>
+                    <h3 class="text-xl font-bold text-gray-900 mt-6 mb-3">Tư vấn</h3>
+                    <p class="text-gray-600 text-sm leading-relaxed">Tư vấn sản phẩm, chính sách, giá cả và chính sách khách hàng sỉ lẻ.</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-2xl shadow-lg border border-gray-100 text-center relative mt-8 md:mt-0">
+                    <div class="w-16 h-16 bg-brand-600 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-6 shadow-md absolute -top-8 left-1/2 -translate-x-1/2">2</div>
+                    <h3 class="text-xl font-bold text-gray-900 mt-6 mb-3">Đặt hàng</h3>
+                    <p class="text-gray-600 text-sm leading-relaxed">Đặt hàng trực tiếp qua Hotline / Zalo nhanh chóng, thuận tiện nhất.</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-2xl shadow-lg border border-gray-100 text-center relative mt-8 md:mt-0">
+                    <div class="w-16 h-16 bg-brand-600 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-6 shadow-md absolute -top-8 left-1/2 -translate-x-1/2">3</div>
+                    <h3 class="text-xl font-bold text-gray-900 mt-6 mb-3">Giao hàng</h3>
+                    <p class="text-gray-600 text-sm leading-relaxed">Ship hàng tận nơi đến các cửa hàng địa bàn miền Tây, TP.HCM, miền Nam.</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-2xl shadow-lg border border-gray-100 text-center relative mt-8 md:mt-0">
+                    <div class="w-16 h-16 bg-brand-600 text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto mb-6 shadow-md absolute -top-8 left-1/2 -translate-x-1/2">4</div>
+                    <h3 class="text-xl font-bold text-gray-900 mt-6 mb-3">Thanh toán</h3>
+                    <p class="text-gray-600 text-sm leading-relaxed">Thanh toán linh hoạt tiền mặt hoặc chuyển khoản sau khi nhận hàng.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials -->
+    <section class="py-20 bg-gray-50 border-t border-gray-200">
+        <div class="container mx-auto px-4 max-w-6xl">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-extrabold text-gray-900 mb-4 uppercase">Cảm nhận <span class="text-brand-600">Khách Hàng</span></h2>
+                <p class="text-gray-500">Mọi người nói gì về chất lượng và dịch vụ của chúng tôi?</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div class="bg-white p-6 rounded-2xl shadow-sm hover:shadow-md transition-shadow text-center">
+                    <img src="https://media.hethongbiatuoi.com/khach-hang-bia.webp" alt="Khách hàng" class="w-20 h-20 rounded-full mx-auto mb-4 object-cover border-4 border-yellow-400" />
+                    <p class="text-gray-600 text-sm italic mb-4">"Hệ thống bia tươi, bia tháp mang đến cho chúng tôi những sản phẩm tuyệt vời. Khách hàng yêu quý vị ngon."</p>
+                    <h4 class="font-bold text-gray-900">Anh Tuấn</h4>
+                    <p class="text-xs text-brand-600 uppercase mt-1">Chủ quán Nhậu</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-2xl shadow-sm hover:shadow-md transition-shadow text-center">
+                    <img src="https://media.hethongbiatuoi.com/truong-an-loc.webp" alt="Khách hàng" class="w-20 h-20 rounded-full mx-auto mb-4 object-cover border-4 border-yellow-400" />
+                    <p class="text-gray-600 text-sm italic mb-4">"Bia Bến Thành uống rất đậm đà, hỗ trợ lắp ráp tận nơi nhiệt tình, tư vấn chu đáo."</p>
+                    <h4 class="font-bold text-gray-900">Trương An Lộc</h4>
+                    <p class="text-xs text-brand-600 uppercase mt-1">Đại lý phân phối</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-2xl shadow-sm hover:shadow-md transition-shadow text-center">
+                    <img src="https://media.hethongbiatuoi.com/thanh-thao.webp" alt="Khách hàng" class="w-20 h-20 rounded-full mx-auto mb-4 object-cover border-4 border-yellow-400" />
+                    <p class="text-gray-600 text-sm italic mb-4">"Từ ngày nhập bia tươi về bán, doanh thu quán tăng lên đáng kể. Giá sỉ rất tốt."</p>
+                    <h4 class="font-bold text-gray-900">Thanh Thảo</h4>
+                    <p class="text-xs text-brand-600 uppercase mt-1">Khách hàng Sỉ</p>
+                </div>
+                
+                <div class="bg-white p-6 rounded-2xl shadow-sm hover:shadow-md transition-shadow text-center">
+                    <img src="https://media.hethongbiatuoi.com/an-nhien.webp" alt="Khách hàng" class="w-20 h-20 rounded-full mx-auto mb-4 object-cover border-4 border-yellow-400" />
+                    <p class="text-gray-600 text-sm italic mb-4">"Giao hàng nhanh chóng, bao bì đẹp, chất lượng ổn định. Sẽ hợp tác lâu dài."</p>
+                    <h4 class="font-bold text-gray-900">An Nhiên</h4>
+                    <p class="text-xs text-brand-600 uppercase mt-1">Quản lý nhà hàng</p>
+                </div>
+            </div>
+        </div>
+    </section>
 </Layout>
